@@ -17,11 +17,13 @@ Want to contribute but can’t code or don’t have any unique ideas? You can st
 
 We know that some people in our hobby value consistency and reliability over the cutting-edge features – that is alright. For them, OpenTX will remain a consistent and stable option for their radio transmitters. Select features from EdgeTX will also be added to OpenTX in the future as decided by the OpenTX development team.
 
+Have Questions? Take a look at our FAQ:
+
+https://github.com/EdgeTX/edgetx.github.io/wiki/Frequently-Asked-Questions-(FAQ)
 
 Stay tuned for more!
 
 In the meantime, come chat with us!
 
-Have Questions? Take a look at our FAQ: https://github.com/EdgeTX/edgetx.github.io/wiki/Frequently-Asked-Questions-(FAQ)
 
 [![Discord](https://img.shields.io/discord/839849772864503828.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wF9wUKnZ6H)
