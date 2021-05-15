@@ -19,7 +19,7 @@ We know that some people in our hobby value consistency and reliability over the
 
 Have Questions? Take a look at our FAQ:
 
-https://github.com/EdgeTX/edgetx.github.io/wiki/Frequently-Asked-Questions-(FAQ)
+(https://github.com/EdgeTX/edgetx.github.io/wiki/Frequently-Asked-Questions-(FAQ)
 
 Stay tuned for more!
 
