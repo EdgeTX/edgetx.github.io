@@ -1,3 +1,5 @@
 theme:  jekyll-theme-slate
 title: EdgeTX
 description: The cutting edge
+github:
+   repository_url: https://github.com/EdgeTX
