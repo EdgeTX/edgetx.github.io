@@ -22,4 +22,6 @@ Stay tuned for more!
 
 In the meantime, come chat with us!
 
+Have Questions? Take a look at our FAQ: https://github.com/EdgeTX/edgetx.github.io/wiki/Frequently-Asked-Questions-(FAQ)
+
 [![Discord](https://img.shields.io/discord/839849772864503828.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wF9wUKnZ6H)
