@@ -1,6 +1,22 @@
-# Yet another OpenTX fork?
+**What is EdgeTX?**
 
-EdgeTX is the edge version of OpenTX. This is where edge cutting new stuff will be released, with an emphasis on new developments rather than maintenance and legacy.
+EdgeTX is the cutting edge of OpenTX. It is the place where innovative ideas and cutting-edge features are developed and field-tested by the enthusiasts of our hobby.
+
+**Who is the EdgeTX team?**
+
+We all are! The devs for EdgeTX are not the only ones with good ideas. The everyday users understand which features we need to make the software better and which features need to be changed. We need your feedback and ideas to make EdgeTX an awesome user experience.
+
+**Community**
+
+EdgeTX is a community project – ideas from the community, developed by the community, and enjoyed by the community! The community will always have a say in what EdgeTX is and what EdgeTX will be in the future. Without community feedback and involvement EdgeTX cannot exist.
+
+**Contribute**
+
+Want to contribute but can’t code or don’t have any unique ideas? You can still contribute to EdgeTX. We need everyday users to help with testing, issue reporting, documentation, or simply spreading the word.
+
+
+We know that some people in our hobby value consistency and reliability over the cutting-edge features – that is alright. For them, OpenTX will remain a consistent and stable option for their radio transmitters. Select features from EdgeTX will also be added to OpenTX in the future as decided by the OpenTX development team.
+
 
 Stay tuned for more!
 
