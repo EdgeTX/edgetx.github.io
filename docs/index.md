@@ -19,11 +19,11 @@ We know that some people in our hobby value consistency and reliability over the
 
 Have Questions? Take a look at our FAQ:
 
-https://github.com/EdgeTX/edgetx.github.io/wiki/Frequently-Asked-Questions-(FAQ)
+https://github.com/EdgeTX/edgetx.github.io/wiki/Frequently-Asked-Questions
 
 Stay tuned for more!
 
-In the meantime, come chat with us!
+In the meantime, come chat with us on Discord!
 
 
 [![Discord](https://img.shields.io/discord/839849772864503828.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wF9wUKnZ6H)
