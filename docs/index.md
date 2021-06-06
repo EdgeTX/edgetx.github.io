@@ -22,7 +22,7 @@ Have Questions? Take a look at our
 
 Stay tuned for more!
 
-In the meantime, come chat with us on **[Discord!](https://discord.gg/wF9wUKnZ6H)**
+In the meantime, come chat with us on **[Discord!](https://github.com/EdgeTX/edgetx.github.io/wiki/Community-Guidlines)**
 
 
-[![Discord](https://img.shields.io/discord/839849772864503828.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wF9wUKnZ6H)
+[![Discord](https://img.shields.io/discord/839849772864503828.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://github.com/EdgeTX/edgetx.github.io/wiki/Community-Guidlines)
