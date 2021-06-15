@@ -20,7 +20,7 @@ We know that some people in our hobby value consistency and reliability over the
 Have Questions? Take a look at our 
 [FAQ.](https://github.com/EdgeTX/edgetx.github.io/wiki/Frequently-Asked-Questions)
 
-Stay tuned for more!
+Stay tuned for [more!](https://github.com/EdgeTX/edgetx.github.io/blob/releaseupdate/docs/releasenotes24.md)
 
 In the meantime, come chat with us on **[Discord!](https://github.com/EdgeTX/edgetx.github.io/wiki/Community-Guidlines)**
 
