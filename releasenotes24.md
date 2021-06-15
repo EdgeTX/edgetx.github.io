@@ -61,22 +61,9 @@ EdgeTX Flasher: [https://github.com/EdgeTX/flasher/releases](https://github.com/
 
 EdgeTX SD Card: [https://github.com/EdgeTX/edgetx-sdcard/releases](https://github.com/EdgeTX/edgetx-sdcard/releases)
 
-### References:
-EdgeTX website - https://edge-tx.org/
+### Installation:
 
 Installation Guide - https://github.com/EdgeTX/edgetx.github.io/wiki/How-to-install-EdgeTX--(pre-release)-for-the-first-time (_will update with new installation page link)_
-
-Installation Video: - _to be published_
-
-EdgeTX touch screen UI video – _to be published_
-
-Which SD Card Zip should I use? - [https://github.com/EdgeTX/edgetx-sdcard](https://github.com/EdgeTX/edgetx-sdcard)
-
-Reporting Issues / Requesting features: [https://github.com/EdgeTX/edgetx/issues/new/choose](https://github.com/EdgeTX/edgetx/issues/new/choose)
-
-Frequently Asked Questions - https://github.com/EdgeTX/edgetx.github.io/wiki/Frequently-Asked-Questions
-
-Community Guidelines - https://github.com/EdgeTX/edgetx.github.io/wiki/Community-Guidlines
 
 ### Thanks:
 Special thanks to all those that contributed to making this release possible! Without the support and commitment from the development team and the community, this release would not have been possible.  We are looking forward to bringing you more of the things that you want in our next release on the 21st of September, 2021.
