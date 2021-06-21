@@ -20,7 +20,7 @@ We know that some people in our hobby value consistency and reliability over the
 Have Questions? Take a look at our 
 [FAQ.](https://github.com/EdgeTX/edgetx.github.io/wiki/Frequently-Asked-Questions)
 
-Want to try EdgeTX? Download the [2.4.0-rc1 release candidate. ](https://github.com/EdgeTX/edgetx/releases/tag/v2.4.0-rc1)
+Want to try EdgeTX? Download the [2.4.0-rc2 release candidate. ](https://github.com/EdgeTX/edgetx/releases/tag/v2.4.0-rc2)
 
 In the meantime, come chat with us on **[Discord!](https://github.com/EdgeTX/edgetx.github.io/wiki/Community-Guidlines)**
 
