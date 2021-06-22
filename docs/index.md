@@ -24,7 +24,7 @@ Want to try EdgeTX? Take a look at our **[installation guide](https://github.com
 
 View the release notes and download the  **[2.4.0-rc2 release candidate. ](https://github.com/EdgeTX/edgetx/releases/tag/v2.4.0-rc2)**
 
-In the meantime, come chat with us on **[Discord!](https://github.com/EdgeTX/edgetx.github.io/wiki/Community-Guidlines)**
+In the meantime, come chat with us on **[Discord!](https://github.com/EdgeTX/edgetx.github.io/wiki/Community-Guidlines)** or **[Facebook](https://www.facebook.com/groups/edgetx)**
 
 
 [![Discord](https://img.shields.io/discord/839849772864503828.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://github.com/EdgeTX/edgetx.github.io/wiki/Community-Guidlines)
