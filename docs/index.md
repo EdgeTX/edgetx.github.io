@@ -17,10 +17,12 @@ Want to contribute but can’t code or don’t have any unique ideas? You can st
 
 We know that some people in our hobby value consistency and reliability over the cutting-edge features – that is alright. For them, OpenTX will remain a consistent and stable option for their radio transmitters. Select features from EdgeTX will also be added to OpenTX in the future as decided by the OpenTX development team.
 
-Have Questions? Take a look at our 
+Have Questions? Review our 
 [FAQ.](https://github.com/EdgeTX/edgetx.github.io/wiki/Frequently-Asked-Questions)
 
-Want to try EdgeTX? Download the [2.4.0-rc2 release candidate. ](https://github.com/EdgeTX/edgetx/releases/tag/v2.4.0-rc2)
+Want to try EdgeTX? Take a look at our **[installation guide](https://github.com/EdgeTX/edgetx.github.io/wiki/EdgeTX-Installation-Guide)**
+
+View the release notes and download the  **[2.4.0-rc2 release candidate. ](https://github.com/EdgeTX/edgetx/releases/tag/v2.4.0-rc2)**
 
 In the meantime, come chat with us on **[Discord!](https://github.com/EdgeTX/edgetx.github.io/wiki/Community-Guidlines)**
 
