@@ -20,7 +20,7 @@ We know that some people in our hobby value consistency and reliability over the
 Have Questions? Review our 
 [FAQ.](https://github.com/EdgeTX/edgetx.github.io/wiki/Frequently-Asked-Questions)
 
-Want to download the EdgeTX release candidate 3? Follow the instructions in our  **[installation guide](https://github.com/EdgeTX/edgetx.github.io/wiki/EdgeTX-Installation-Guide)**
+Want to download the latest EdgeTX release candidate? Follow the instructions in our  **[installation guide](https://github.com/EdgeTX/edgetx.github.io/wiki/EdgeTX-Installation-Guide)**
 
 View the release notes for the **[2.4.0-rc4 release candidate. ](https://github.com/EdgeTX/edgetx/releases/tag/v2.4.0-rc4)**
 
