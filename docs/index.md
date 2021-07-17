@@ -22,7 +22,7 @@ Have Questions? Review our
 
 Want to download the EdgeTX release candidate 3? Follow the instructions in our  **[installation guide](https://github.com/EdgeTX/edgetx.github.io/wiki/EdgeTX-Installation-Guide)**
 
-View the release notes for the **[2.4.0-rc3 release candidate. ](https://github.com/EdgeTX/edgetx/releases/tag/v2.4.0-rc3)**
+View the release notes for the **[2.4.0-rc4 release candidate. ](https://github.com/EdgeTX/edgetx/releases/tag/v2.4.0-rc4)**
 
 Have ideas or questions? Come chat with us on **[Discord!](https://github.com/EdgeTX/edgetx.github.io/wiki/Community-Guidlines)** or **[Facebook](https://www.facebook.com/groups/edgetx)**
 
