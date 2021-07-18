@@ -29,4 +29,4 @@ Have ideas or questions? Come chat with us on **[Discord!](https://github.com/Ed
 
 [![Discord](https://img.shields.io/discord/839849772864503828.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://github.com/EdgeTX/edgetx.github.io/wiki/Community-Guidlines)
 
-[Release notes 2.4](https://github.com/EdgeTX/edgetx.github.io/blob/master/docs/releasenotes24.md)
+
