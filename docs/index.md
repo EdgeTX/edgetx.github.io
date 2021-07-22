@@ -5,9 +5,7 @@ EdgeTX is the cutting edge of OpenTX. It is the place where innovative ideas and
 We understand that some people in our hobby value consistency and reliability over the cutting-edge features – that is alright. For them, OpenTX will remain a consistent and stable option for their radio transmitters. Select features from EdgeTX will also be added to OpenTX in the future as decided by the OpenTX development team.
 
 > To see the list of improvments as well as limitations of EdgeTX,
-> please review the release notes for the **[2.4.0-rc4 release
-> candidate.
-> ](https://github.com/EdgeTX/edgetx/releases/tag/v2.4.0-rc4)**
+> please review the release notes for the **[2.4 release](https://github.com/EdgeTX/edgetx/releases/tag/v2.4.0).**
 
 **Want to download the latest EdgeTX release candidate?** 
 
