@@ -28,6 +28,8 @@ Have ideas or questions? Come chat with us on **[Discord!](https://github.com/Ed
 
 [![Discord](https://img.shields.io/discord/839849772864503828.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://github.com/EdgeTX/edgetx.github.io/wiki/Community-Guidlines)
 
-**Contribute**
+**Donations**
 
-Want to contribute but can’t code or don’t have any unique ideas? You can still contribute to EdgeTX. We need everyday users to help with testing, issue reporting, documentation, or simply spreading the word.
+Currently, the EdgeTX team is not accepting donations. We believe that it is important to maintain transparency for any received donations and expenditures.  Therefore we want to make sure that the proper groundwork is established before we accept any donations.We are in the process of registering our organization so that we can accept donations and will inform everyone when that is complete. 
+
+In the meantime, you can contribute to EdgeTX in other ways. We need developers as well as everyday users to help with development, testing, issue reporting, documentation, or simply spreading the word. We really appreciate any assistance we get.
