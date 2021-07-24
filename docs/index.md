@@ -7,7 +7,7 @@ We understand that some people in our hobby value consistency and reliability ov
 > To see the list of improvments as well as limitations of EdgeTX,
 > please review the release notes for the **[2.4.0 release](https://github.com/EdgeTX/edgetx/releases/tag/v2.4.0).**
 
-**Want to download the latest EdgeTX release candidate?** 
+**Want to download the latest EdgeTX release?** 
 
 Follow the instructions in our  [installation guide](https://github.com/EdgeTX/edgetx.github.io/wiki/EdgeTX-Installation-Guide)
 
