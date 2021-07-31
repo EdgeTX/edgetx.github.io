@@ -87,11 +87,11 @@ The chair is responsible for closing votes and summarizing PSC member votes or a
 
 The chair may appoint one member of the PSC committee as secretary to take minutes during the meetings or any other administrative tasks as agreed.
 
-## Code of Conduct
+### Code of Conduct
 
 All members of the community are expected to adhere to the  [Community Guildlines](https://github.com/EdgeTX/edgetx.github.io/wiki/Community-Guidlines) in all activities related to EdgeTX. PSC members help maintain user adherence to the community guidelines and can recommend the "time out" or removal of offenders, to be decided by the PSC. 
 
-## Ammendments
+### Ammendments
 
 Changes to this governing document can be proposed on during the regular planned PSC meeting. If no meeting is planned, then a special PSC meeting will be held to review the proposal.  In order for a proposal to be considered for voting, a quorum of 2/3 of the PSC members must be present.
 
