@@ -6,8 +6,7 @@ The name of this open source project is EdgeTX.
 
 ### Purpose
 
-The purpose of EdgeTX is to provide an open source software that allows users to choose freely from a number of compatible vendors and run their Radio Control (RC) models freely, without being bound to closed source
-systems. EdgeTX allows users to experiment and develop new features without limitations and restrictions by vendors and their commercial interests.
+The purpose of EdgeTX is to provide an open source software that allows users to choose freely from a number of compatible vendors and run their Radio Control (RC) models freely, without being bound to closed source systems. EdgeTX allows users to experiment and develop new features without limitations and restrictions by vendors and their commercial interests.
 
 ### Code
 
@@ -47,7 +46,7 @@ Once all nominations for a PSC position have been made, a vote will be taken fro
 
 ### Stepping Down and Removal
 
-If for any reason a PSC member is not able to fully participate then they may step down. If a PSC member is not active in the project (e.g. attending PSC meetings, not participating in discussions, not participating in Code Modification Process, etc.) for a period of two months then the PSC reserves the right to seek nominations to fill that position. Should that person become active again, they would need to be re-elected to participate on the PSC again. Removing members for any reason (inactivity, a person that counteracts the goals of the project, etc.) requires a majority vote from the PSC.  Any vacancy created through resignation or removal must be filled as soon as possible as described previously.
+If for any reason a PSC member is not able to fully participate then they may step down. If a PSC member is not active in the project (e.g. attending PSC meetings, not participating in discussions, not contributing to the project, etc.) for a period of two months then the PSC reserves the right to remove that individual on the PSC and seek nominations to fill that position. Should that person become active again, they would need to be re-elected to participate on the PSC again. Removing members for any reason (inactivity, a person that counteracts the goals of the project, etc.) requires a majority vote from the PSC.  Any vacancy created through resignation or removal must be filled as soon as possible as described previously.
 
 ### Responsibilities
 
