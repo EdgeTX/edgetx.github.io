@@ -44,6 +44,13 @@ When a vacancy in the PSC is created, any member of the PSC may nominate someone
 
 Once all nominations for a PSC position have been made, a vote will be taken from the current PSC.  The nominee with the most votes will be added to the PSC. 
 
+### PSC Voting Process
+
+For actions that require a PSC vote (ie. new PSC members, removal of members, the appointment of PSC Chair, project administrative decisions or disputed technical decisions)  a vote will be called during a PSC meeting.  
+Votes regarding PSC members must be announced prior to the PSC meeting so that all PCS members have the opportunity to vote during the meeting or via proxy. Additionally, all votes regarding PSC members must achieve a 2/3s quorum of the active PSC members to be valid.
+
+Once a vote has been completed,  the results of the election will be posted publically on the announcements Discord channel.
+
 ### Stepping Down and Removal
 
 If for any reason a PSC member is not able to fully participate then they may step down. If a PSC member is not active in the project (e.g. attending PSC meetings, not participating in discussions, not contributing to the project, etc.) for a period of two months then the PSC reserves the right to remove that individual on the PSC and seek nominations to fill that position. Should that person become active again, they would need to be re-elected to participate on the PSC again. Removing members for any reason (inactivity, a person that counteracts the goals of the project, etc.) requires a majority vote from the PSC.  Any vacancy created through resignation or removal must be filled as soon as possible as described previously.
@@ -71,12 +78,6 @@ The PSC is responsible for defining the policies and procedures, including:
 -   Amending the PSC guiding document as needed
 -   Deciding on project and expenditures
 
-#### PSC Voting Process
-
-For actions that require a PSC vote (ie. new PSC members, removal of members, the appointment of PSC Chair, project administrative decisions or disputed technical decisions)  a vote will be called during a PSC meeting.  
-Votes regarding PSC members must be announced prior to the PSC meeting so that all PCS members have the opportunity to vote during the meeting or via proxy. Additionally, all votes regarding PSC members must achieve a 2/3s quorum of the active PSC members to be valid.
-
-Once a vote has been completed,  the results of the election will be posted publically on the announcements Discord channel.
 
 #### Chair Responsibilities
 
