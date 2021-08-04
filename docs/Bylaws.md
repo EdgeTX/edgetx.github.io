@@ -23,6 +23,7 @@ The section that follows describes how the (PSC) is formed and operates to make 
 Current committee members are:
 
 - Raphael Coeffic (Commitee Chair)
+- Robert Janiszewski
 - Peter Feerick
 - Risto Koiva
 - Richard Li
