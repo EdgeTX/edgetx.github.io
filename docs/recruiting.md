@@ -9,7 +9,7 @@
 * Beginner or Intermediate level C++ development
 * LUA development
 * UX / UI design
-* Graphical design (logos, themes, etc)
+* Graphic design (logos, themes, etc)
 * Web design
 * In-depth R/C transmitter knowledge (for QA testing)
 
