@@ -1,12 +1,12 @@
 <p align="center">
-<a href="url"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/unclesam.jpg" align="center" height="641" width="406" ></a>
+<a href="url"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/wantyou.jpg" align="center" height="563" width="575" ></a>
 
 **The EdgeTX team is looking for additional members to help create the cutting-edge.**
   
 ***Specifically, we need people with the following skills:***
   
 * R/C transmitter software development 
-* Beginner or Intermediate level C++ development
+* C++ development (Expert skills not needed, basic coding skills are sufficient)
 * LUA development
 * UX / UI design
 * Graphic design (logos, themes, etc)
