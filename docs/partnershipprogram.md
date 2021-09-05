@@ -34,3 +34,5 @@ EdgeTX team will remain neutral between all partners and will not favor one part
 The EdgeTX team will do its best to faithfully fulfill it’s responsibilities in regards to the partnership agreement, however the EdgeTX Team reserves the right to decide to support, delay support or not support a certain feature or hardware platform based on available resources and time.
 
 The EdgeTX team will do its best to provide a high quality, stable software for use in the manufactures hardware. When issues are found, the EdgeTX team will do it best to resolve these issues as quick as possible. However, no timeline can be guaranteed for fixes. The partnered manufactures are encouraged to keep an open communication channel and express impact of issues that they think are critical so that the EdgeTX team can work to address these issues appropriately. However, EdgeTX assumes no liability for any issues or damages that arise do to the use of its software.
+
+Manufacturers or the EdgeTX Project Steering Committee may decide to end the manufactures participation in the partnership program at any time, without cause. 
