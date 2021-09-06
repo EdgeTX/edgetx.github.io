@@ -39,4 +39,19 @@ Partnered manufacturers or the EdgeTX Project Steering Committee may decide to e
 If you are interested in participating in the Partnership program, please contact a member of the EdgeTX Project Steering Committee for more information. 
 
 ## Official EdgeTX Partners
----
+
+- RadioMaster
+
+- JumperRC
+
+- Eachine
+
+- Flysky
+
+- DJI
+
+- FrSky
+
+- Spektrum
+
+- Team BlackSheep
