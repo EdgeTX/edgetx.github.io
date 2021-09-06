@@ -32,4 +32,4 @@ Have ideas or questions? Come chat with us on **[Discord!](https://github.com/Ed
 
 Currently, the EdgeTX team is not yet accepting donations. We believe that it is important to maintain transparency for any received donations and expenditures.  Therefore we want to make sure that the proper groundwork is established before we accept any donations. We are in the process of registering our organization so that we can accept donations and will inform everyone when that is complete. 
 
-In the meantime, you can contribute to EdgeTX in other ways. We need developers as well as everyday users to help with development, testing, issue reporting, documentation, or simply spreading the word. We really appreciate any assistance we get.
+In the meantime, you can contribute to EdgeTX in other ways. We need developers as well as everyday users to help with development, testing, issue reporting, documentation, or simply spreading the word. We really appreciate any assistance we get. See the [EdgeTX recruiting page](https://github.com/EdgeTX/edgetx.github.io/blob/master/docs/recruiting.md) for more information.
