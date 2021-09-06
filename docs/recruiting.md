@@ -5,7 +5,7 @@
 **The EdgeTX team is looking for additional members to help create the cutting-edge.**
   
 ***Specifically, we need people with the following skills:***
-  
+
 * R/C transmitter software development 
 * C++ development (Expert skills not needed, basic coding skills are sufficient)
 * LUA development
