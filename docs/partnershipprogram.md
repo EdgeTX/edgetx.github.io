@@ -48,10 +48,3 @@ If you are interested in participating in the Partnership program, please contac
 
 - Flysky
 
-- DJI
-
-- FrSky
-
-- Spektrum
-
-- Team BlackSheep
