@@ -1,8 +1,8 @@
 <p align="center">
 <a href="url"><img src="https://raw.githubusercontent.com/EdgeTX/edgetx.github.io/master/images/wantyou.jpg" align="center" height="488" width="396"></a>
 </P>
+<h3>The EdgeTX team is looking for additional members to help create the cutting-edge.</h3>
 
-**The EdgeTX team is looking for additional members to help create the cutting-edge.**
   
 ***Specifically, we need people with the following skills:***
 
