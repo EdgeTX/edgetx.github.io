@@ -1,7 +1,6 @@
-      <a href="https://edge-tx.org/recruiting">
-         <img alt="Home Button" src="/docs/assets/home.png"
-         width=100" height="53">
-      </a>
+<p align="center">
+<a href="https://edgetx.org/index2"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/home.png" align="center" height="53" width="100"></a>
+</P>
 
 **What is EdgeTX?**
 
