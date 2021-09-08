@@ -7,7 +7,7 @@
 <a href="https://edgetx.org/index2"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/wiki.png?raw=true" align="center" height="44" width="83"></a>
 <a href="https://edgetx.org/index2"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/partners.png?raw=true" align="center" height="44" width="83"></a>
 <br>
- <br>
+
   
 **What is EdgeTX?**
 
