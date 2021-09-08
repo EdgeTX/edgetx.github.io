@@ -1,5 +1,6 @@
 <p align="center">
-<a href="url"><img src="https://raw.githubusercontent.com/EdgeTX/edgetx.github.io/master/images/wantyou.jpg" align="center" height="342" width="277"></a>
+<!--<a href="url"><img src="https://raw.githubusercontent.com/EdgeTX/edgetx.github.io/master/images/wantyou.jpg" align="center" height="342" width="277"></a>-->
+<a href="url"><img src="/docs/assets/wantyou.jpg" align="center" height="342" width="277"></a>
 </P>
 <h3>The EdgeTX team is looking for additional members to help create the cutting-edge.</h3>
 
