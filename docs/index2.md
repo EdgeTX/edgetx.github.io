@@ -1,3 +1,8 @@
+      <a href="https://edge-tx.org/recruiting">
+         <img alt="Home Button" src="/docs/assets/home.png"
+         width=100" height="53">
+      </a>
+
 **What is EdgeTX?**
 
 EdgeTX is the cutting edge of OpenTX. It is the place where innovative ideas and cutting-edge features are developed and field-tested by the enthusiasts of our hobby.
