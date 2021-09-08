@@ -6,8 +6,9 @@
 <a href="https://edgetx.org/index2"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/dev.png?raw=true" align="center" height="44" width="83"></a>
 <a href="https://edgetx.org/index2"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/wiki.png?raw=true" align="center" height="44" width="83"></a>
 <a href="https://edgetx.org/index2"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/partners.png?raw=true" align="center" height="44" width="83"></a>
-  
-  
+ <br>
+</p>
+ 
 **What is EdgeTX?**
 
 EdgeTX is the cutting edge of OpenTX. It is the place where innovative ideas and cutting-edge features are developed and field-tested by the enthusiasts of our hobby.
