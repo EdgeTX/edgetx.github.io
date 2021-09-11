@@ -34,6 +34,7 @@
 * In-depth R/C transmitter knowledge (for QA testing)
 
 If you have any of these skills and are intersted in supporting the project by donating a couple of hours per week of your time, please get in contact with the development team via **[Discord!](https://discord.gg/wF9wUKnZ6H)** 
+
 ---
 Come chat with us on **[Discord!](https://github.com/EdgeTX/edgetx.github.io/wiki/Community-Guidlines)** or **[Facebook](https://www.facebook.com/groups/edgetx)**
 
