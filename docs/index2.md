@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://edgetx.org/index2"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/home.png?raw=true" align="center" height="44" width="83"></a>
+<a href="https://edgetx.org/index"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/home.png?raw=true" align="center" height="44" width="83"></a>
 <a href="https://edgetx.org/about"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/about.png?raw=true" align="center" height="46" width="83"></a>
 <a href="https://edgetx.org/faq"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/faq.png?raw=true" align="center" height="44" width="83"></a>
 <a href="https://edgetx.org/getedgetx"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/get.png?raw=true" align="center" height="46" width="83"></a>
