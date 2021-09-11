@@ -1,4 +1,6 @@
 ---
 ---
-
+#main_content {
+  padding-top: 10px;
+}
 @import "{{ site.theme }}";
