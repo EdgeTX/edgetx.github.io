@@ -8,18 +8,20 @@
 <a href="https://github.com/EdgeTX/edgetx.github.io/wiki/EdgeTX-User-WIKI"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/wiki.png?raw=true" align="center" height="44" width="83"></a>
 <a href="https://edgetx.org/partnershipprogram"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/partners.png?raw=true" align="center" height="44" width="83"></a>
 </p>
-
+ <p>&nbsp;</p> 
+ 
 ## Welcome to EdgeTX
 
 
-### News ###
-11.09.2021
+### What's new ###
+---
+**11.09.2021**
 
 <p align="center">
 <a href="url"><img src="https://raw.githubusercontent.com/EdgeTX/edgetx.github.io/master/images/wantyou.jpg" align="center" height="171" width="138"></a>
 </P>
 
-***The EdgeTX team is looking for additional members to help create the cutting-edge.***
+**The EdgeTX team is looking for additional members to help create the cutting-edge.**
   
 ***Specifically, we need people with the following skills:***
 
@@ -32,7 +34,7 @@
 * In-depth R/C transmitter knowledge (for QA testing)
 
 If you have any of these skills and are intersted in supporting the project by donating a couple of hours per week of your time, please get in contact with the development team via **[Discord!](https://discord.gg/wF9wUKnZ6H)** 
-
+---
 Come chat with us on **[Discord!](https://github.com/EdgeTX/edgetx.github.io/wiki/Community-Guidlines)** or **[Facebook](https://www.facebook.com/groups/edgetx)**
 
 [![Discord](https://img.shields.io/discord/839849772864503828.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://github.com/EdgeTX/edgetx.github.io/wiki/Community-Guidlines)
