@@ -10,9 +10,6 @@
 </p>
  <p>&nbsp;</p> 
  
-## Welcome to EdgeTX
-
-
 ### What's new ###
 ---
 **11.09.2021**
