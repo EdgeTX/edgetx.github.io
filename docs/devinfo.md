@@ -1,3 +1,4 @@
+
 <p align="center">
 <a href="https://edgetx.org/index"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/home.png?raw=true" align="center" height="44" width="83"></a>
 <a href="https://edgetx.org/about"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/about.png?raw=true" align="center" height="46" width="83"></a>
@@ -12,5 +13,14 @@
 
 ## Development Information
 
-**Coming soon...**
+### Roadmap
 
+Coming soon... 
+
+---
+If you are interested in contributing to EdgeTX development, please contact the developers in the **#dev** channel on our **[Discord](https://github.com/EdgeTX/edgetx.github.io/wiki/Community-Guidlines)** server.
+
+For information on setting up the build environment, please check out the [EdgeTX Development Wiki.](https://github.com/EdgeTX/edgetx/wiki)
+
+
+Information on our versioning, branch and release strategy can be found here: [Versioning, Branch and Release Strategy.](https://github.com/EdgeTX/edgetx.github.io/wiki/Versioning,-Branch-and-Release-Strategy)

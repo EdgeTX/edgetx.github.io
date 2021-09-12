@@ -10,12 +10,12 @@
 </p>
  <p>&nbsp;</p> 
  
-### What's new ###
+## What's new ##
 ---
 **11.09.2021**
 
 <p align="center">
-<a href="url"><img src="https://raw.githubusercontent.com/EdgeTX/edgetx.github.io/master/images/wantyou.jpg" align="center" height="171" width="138"></a>
+<a href="url"><img src="https://raw.githubusercontent.com/EdgeTX/edgetx.github.io/master/images/wantyou.gif" align="center" height="171" width="138"></a>
 </P>
 
 **The EdgeTX team is looking for additional members to help create the cutting-edge.**
