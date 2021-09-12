@@ -31,7 +31,8 @@ Currently, the EdgeTX team is not yet accepting donations. We believe that it is
 In the meantime, you can contribute to EdgeTX in other ways. We need developers as well as everyday users to help with development, testing, issue reporting, documentation, or simply spreading the word. We really appreciate any assistance we get. See the [EdgeTX recruiting page](https://edgetx.org/recruiting) for more information.
 
 **Project Management**
-For more information about how the EdgeTX project is managed, see our [project bylaws page](https://edgetx.org/bylaws.)
+
+For more information about how the EdgeTX project is managed, see our [project bylaws page.](https://edgetx.org/bylaws)
 
 **Have questions?** 
 
