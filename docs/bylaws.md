@@ -36,7 +36,7 @@ Current committee members are:
 - Raphael Coeffic (Commitee Chair)
 - Robert Janiszewski
 - Peter Feerick
-- Risto Koiva
+- Risto Kõiva
 - Richard Li
 - Phil Eville
 
