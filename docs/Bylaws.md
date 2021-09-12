@@ -9,7 +9,7 @@
 </p>
  <p>&nbsp;</p> 
 
-## EdgeTX Project By-Laws
+# EdgeTX Project By-Laws
 
 ### Name
 
