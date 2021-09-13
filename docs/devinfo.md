@@ -13,8 +13,6 @@
 
 ## Development Information
 
-### Roadmap
-
 <p align="center">
 <a href="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/roadmap.JPG?raw=true"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/roadmap.JPG?raw=true" align="center" height="344" width="656"></a>
 </P>
