@@ -15,7 +15,9 @@
 
 ### Roadmap
 
-Coming soon... 
+<p align="center">
+<a href="url"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/roadmap.JPG?raw=true" align="center" height="295" width="562"></a>
+</P>
 
 ---
 If you are interested in contributing to EdgeTX development, please contact the developers in the **#dev** channel on our **[Discord](https://github.com/EdgeTX/edgetx.github.io/wiki/Community-Guidlines)** server.
