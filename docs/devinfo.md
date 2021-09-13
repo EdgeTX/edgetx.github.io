@@ -16,7 +16,7 @@
 ### Roadmap
 
 <p align="center">
-<a href="url"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/roadmap.JPG?raw=true" align="center" height="295" width="562"></a>
+<a href="url"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/roadmap.JPG?raw=true" align="center" height="492" width="937"></a>
 </P>
 
 ---
