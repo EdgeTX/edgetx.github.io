@@ -22,12 +22,6 @@ If you are interested in see what new features will come in future EdgeTX releas
 
 **11.09.2021**
 
-**EdgeTX Roadmap added to the Dev Info Page
-
----
-
-**11.09.2021**
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/EdgeTX/edgetx.github.io/master/images/wantyou.gif" align="center" height="171" width="138">
 </P>
