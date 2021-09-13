@@ -12,6 +12,19 @@
  
 ## What's new ##
 
+**12.09.2021**
+
+**EdgeTX Roadmap added to the Dev Info Page**
+If you are interested in see what new features will come in future EdgeTX releases, check out the roadmap on the [Dev Info Page.](https://edgetx.org/devinfo)
+
+---
+
+**11.09.2021**
+
+**EdgeTX Roadmap added to the Dev Info Page
+
+---
+
 **11.09.2021**
 
 <p align="center">
