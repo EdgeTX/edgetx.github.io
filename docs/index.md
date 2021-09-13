@@ -15,7 +15,7 @@
 **11.09.2021**
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/EdgeTX/edgetx.github.io/master/images/wantyou.gif" align="center" height="171" width="138"></a>
+<img src="https://raw.githubusercontent.com/EdgeTX/edgetx.github.io/master/images/wantyou.gif" align="center" height="171" width="138">
 </P>
 
 **The EdgeTX team is looking for additional members to help create the cutting-edge.**
