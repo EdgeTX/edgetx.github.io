@@ -12,6 +12,15 @@
  
 ## What's new ##
 
+
+**22.09.2021**
+
+**EdgeTX v2.5.0 RC1 including EdgeTX Companion Available for Testing!**
+
+If you are interested in testing out the EdgeTX v2.5.0 Release Candidate or EdgeTX Companion before the official release, you can download them here: [EdgeTX "Dauntless" 2.5.0-RC1](https://github.com/EdgeTX/edgetx/releases/tag/v2.5.0-rc1)
+
+---
+
 **12.09.2021**
 
 **EdgeTX Roadmap added to the Dev Info Page**
