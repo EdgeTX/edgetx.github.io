@@ -55,12 +55,15 @@ Basically, everything that is supported in OTX 2.3, minus 9X / 9XR-pro.
 
 
 **Does EdgeTX support support ExpressLRS?**
+
 Yes, EdgeTX supports the CRSF protocol which is used by ExpressLRS. 
 
 
 **What are the benefits of EdgeTX?**
+
 One of the main benefits of EdgeTX is touch support for touch-enabled radios. However, we do not feel that is the only benefit that EdgeTX provides. Another benefit that we feel is important to note is the rapid development pace for new features, improvements, and bug fixing. Also, we strive to keep open communication with the community and maintain transparency in how we manage the development of the software.
 
 **Does EdgeTX support CRSFv3?**
+
 No, EdgeTX does not support CRSFv3. It will be supported it in the future.  
 
