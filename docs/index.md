@@ -13,11 +13,11 @@
 ## What's new ##
 
 
-**Oct. 7th, 2021**
+**Oct. 16th, 2021**
 
-**EdgeTX v2.5.0 RC3 including EdgeTX Companion Available for Testing!**
+**EdgeTX v2.5.0 including EdgeTX Companion**
 
-If you are interested in testing out the EdgeTX v2.5.0 Release Candidate or EdgeTX Companion before the official release, you can download them here: [EdgeTX "Dauntless" 2.5.0-RC3](https://github.com/EdgeTX/edgetx/releases/tag/v2.5.0-rc3)
+The second release is out - EdgeTX v2.5.0 with codename "Dauntless". It is the first release to include EdgeTX Companion. You can download the firmware for your radio and the Companion for your computer from: [EdgeTX "Dauntless" 2.5.0](https://github.com/EdgeTX/edgetx/releases/tag/v2.5.0)
 
 ---
 
