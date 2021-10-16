@@ -12,7 +12,7 @@
 ## Get EdgeTX
 
 *To see the list of improvements as well as limitations of EdgeTX,  
-please review the release notes for the* **[2.4.0 release](https://github.com/EdgeTX/edgetx/releases/tag/v2.4.0).**
+please review the release notes for the* **[2.5.0 release](https://github.com/EdgeTX/edgetx/releases/tag/v2.5.0).**
 
 **Want to download the latest EdgeTX release?** 
 
