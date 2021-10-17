@@ -27,3 +27,5 @@ Follow the instructions in our  [installation guide](https://github.com/EdgeTX/e
 > [SD Card Downloads](https://github.com/EdgeTX/edgetx-sdcard/releases)
 
 > [Sound Packs Downloads](https://github.com/EdgeTX/edgetx-sdcard-sounds/releases)
+
+> [EdgeTX Companion](https://github.com/EdgeTX/edgetx.github.io/blob/master/downloads/edgetx-companion-win-v2.5.0.zip)
