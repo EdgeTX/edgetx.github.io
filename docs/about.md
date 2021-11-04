@@ -26,7 +26,7 @@ EdgeTX is a community project – ideas from the community, developed by the com
 
 **Donations**
 
-If you would like to support the project financially, we have a donation system setup at Open Collective. So if you want to help out to run the planned future online-build system and help devs purchase hardware (e.g. radio systems & development equipment) you can set-up a regular donation, or send an one-time donation via the following link: https://opencollective.com/edgetx/donate
+If you would like to support the project financially, we have a donation system setup at Open Collective. So if you want to help out to run the planned future online-build system and help devs purchase hardware (e.g. radio systems & development equipment) you can set-up a regular donation, or send an one-time donation via the following link: [https://opencollective.com/edgetx/donate](https://opencollective.com/edgetx/donate)
 
 The usage of the money will be reported at [OpenCollective](https://opencollective.com/edgetx) and will be transparent to all to see where the money is flowing. This is a distinguishing feature of present bigger R/C radio open-source software projects and was from the beginning crucial for the [EdgeTX project steering members](https://edgetx.org/bylaws). 
 
