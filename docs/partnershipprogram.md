@@ -10,7 +10,7 @@
  <p>&nbsp;</p> 
 <p></p> 
 
-## EdgeTx Partnership Program
+## EdgeTX Partnership Program
 
 The EdgeTX team believes that a close relationship between R/C radio manufacturers and R/C software developers is important for the success of R/C products and ultimately leads to greater satisfaction by the end-users. In order to establish close (but neutral) working relationships with R/C radio manufacturers, EdgeTX has established a partnership program. 
 
