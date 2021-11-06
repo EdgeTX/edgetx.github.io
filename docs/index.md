@@ -7,9 +7,6 @@
 <a href="https://edgetx.org/devinfo"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/dev.png?raw=true" align="center" height="44" width="83"></a>
 <a href="https://github.com/EdgeTX/edgetx.github.io/wiki/EdgeTX-User-WIKI"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/wiki.png?raw=true" align="center" height="44" width="83"></a>
 <a href="https://edgetx.org/partnershipprogram"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/partners.png?raw=true" align="center" height="44" width="83"></a>
-
-Come chat with us on **[Discord!](https://github.com/EdgeTX/edgetx.github.io/wiki/Community-Guidlines)** or **[Facebook](https://www.facebook.com/groups/edgetx)**
-[![Discord](https://img.shields.io/discord/839849772864503828.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://github.com/EdgeTX/edgetx.github.io/wiki/Community-Guidlines)
 </p>
 
  <p>&nbsp;</p> 
