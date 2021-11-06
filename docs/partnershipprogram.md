@@ -18,13 +18,13 @@ By participating in this program, the R/C radio manufacturers are helping suppor
 
 **Benefits of the partnership program:**
 
- - EdgeTX Software support for agreed-upon hardware platforms by the EdgeTX Team
+ - EdgeTX Software support for agreed-upon hardware platforms by the EdgeTX team.
 
  - Bug fixing, new features, and enhancements for agreed-upon hardware platforms.
 
- - Dedicated nightly and release builds for all agreed-upon hardware platforms via Github downloads and EdgeTX flasher.
+ - Dedicated nightly and release builds for all agreed-upon hardware platforms via GitHub downloads and EdgeTX Flasher.
 
- - Detailed and documented regression testing for agreed-upon hardware platforms for all official releases of EdgeTX
+ - Detailed and documented regression testing for agreed-upon hardware platforms for all official releases of EdgeTX.
 
  - Permission to use the ”EdgeTX”, “EdgeTX Approved” and “Official Partner of EdgeTX” logos on merchandise, advertising, and marketing material.
 
@@ -46,9 +46,9 @@ Partners may request the development of new features or support for new platform
 
 EdgeTX team will remain neutral between all partners and will not favor one partner over other partners.
 
-The EdgeTX team will do its best to faithfully fulfill its responsibilities in regards to the partnership agreement, however, the EdgeTX Team reserves the right to decide to support, delay support or not support a certain feature or hardware platform based on available resources and time.
+The EdgeTX team will do its best to faithfully fulfill its responsibilities in regards to the partnership agreement, however, the EdgeTX team reserves the right to decide to support, delay support or not support a certain feature or hardware platform based on available resources and time.
 
-The EdgeTX team will do its best to provide high-quality, stable software for use in the R/C radio manufacture's radios. When issues are found, the EdgeTX team will do its best to resolve these issues as quickly as possible. However, no timeline can be guaranteed for fixes. The partnered R/C radio manufactures are encouraged to keep an open communication channel and express the impact of issues that they think are critical so that the EdgeTX team can work to address these issues appropriately. However, EdgeTX assumes no liability for any issues or damages that arise due to the use of its' software.
+The EdgeTX team will do its best to provide high-quality, stable software for use in the R/C radios. When issues are found, the EdgeTX team will do its best to resolve these issues as quickly as possible. However, no timeline can be guaranteed for fixes. The partnered R/C radio manufactures are encouraged to keep an open communication channel and express the impact of issues that they think are critical so that the EdgeTX team can work to address these issues appropriately. However, EdgeTX assumes no liability for any issues or damages that arise due to the use of its' software.
 
 Either partner may choose to end their collaboration in the partnership program at any time by notifying the other partner. 
 
