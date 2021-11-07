@@ -46,7 +46,7 @@ Partners may request the development of new features or support for new platform
 
 EdgeTX team will remain neutral between all partners and will not favor one partner over other partners.
 
-The EdgeTX team will do its best to faithfully fulfill its responsibilities in regards to the partnership agreement, however, the EdgeTX team reserves the right to decide to support, delay support or not support a certain feature or hardware platform based on available resources and time.
+The EdgeTX team will do its best to faithfully fulfill its responsibilities in regards to the partnership agreement, however, the EdgeTX team reserves the right to decide when to support a certain feature or hardware platform based on available resources and time.
 
 The EdgeTX team will do its best to provide high-quality, stable software for use in the R/C radios. When issues are found, the EdgeTX team will do its best to resolve these issues as quickly as possible. However, no timeline can be guaranteed for fixes. The partnered R/C radio manufactures are encouraged to keep an open communication channel and express the impact of issues that they think are critical so that the EdgeTX team can work to address these issues appropriately. However, EdgeTX assumes no liability for any issues or damages that arise due to the use of its' software.
 
