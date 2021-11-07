@@ -20,7 +20,7 @@ By participating in this program, the R/C radio manufacturers are helping suppor
 
  - EdgeTX Software support for agreed-upon hardware platforms by the EdgeTX team.
 
- - Bug fixing, new features, and enhancements for agreed-upon hardware platforms.
+ - Priority bug fixing, new features, and enhancements for agreed-upon hardware platforms.
 
  - Dedicated nightly and release builds for all agreed-upon hardware platforms via GitHub downloads and EdgeTX Flasher.
 
