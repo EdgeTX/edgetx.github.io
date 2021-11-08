@@ -1,3 +1,4 @@
+
 <p align="center">
 <a href="https://edgetx.org/index"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/home.png?raw=true" align="center" height="44" width="83"></a>
 <a href="https://edgetx.org/about"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/about.png?raw=true" align="center" height="46" width="83"></a>
@@ -10,6 +11,15 @@
  <p>&nbsp;</p> 
 <p></p> 
 
+## Official EdgeTX Partners
+
+<p align="center">
+<a href="url"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/FlySkyLogo.jpg?raw=true" align="center" height="280" width="497"></a>
+<p align="center">
+<a href="url"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/RadioMasterLogo.JPG?raw=true" align="center" height="200" width="497"></a>
+</P>
+ <p>&nbsp;</p> 
+ 
 ## EdgeTX Partnership Program
 
 The EdgeTX team believes that a close relationship between R/C radio manufacturers and R/C software developers is important for the success of R/C products and ultimately leads to greater satisfaction by the end-users. In order to establish close (but neutral) working relationships with R/C radio manufacturers, EdgeTX has established a partnership program. 
@@ -53,12 +63,4 @@ The EdgeTX team will do its best to provide high-quality, stable software for us
 Either party may choose to end their collaboration in the partnership program at any time by notifying the other partner. 
 
 If you are interested in participating in the Partnership program, please contact a member of the [EdgeTX project steering committee](https://edgetx.org/bylaws) for more information (all project steering committee members can be reached via [EdgeTX Discord](https://discord.gg/wF9wUKnZ6H)).
-
-## Official EdgeTX Partners
-
-<p align="center">
-<a href="url"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/FlySkyLogo.jpg?raw=true" align="center" height="320" width="568"></a>
-<p align="center">
-<a href="url"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/RadioMasterLogo.JPG?raw=true" align="center" height="210" width="568"></a>
-</P>
 
