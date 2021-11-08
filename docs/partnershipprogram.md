@@ -14,10 +14,10 @@
 ## Official EdgeTX Partners
 
 <p align="center">
-<a href="url"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/FlySkyLogo.jpg?raw=true" align="center" height="280" width="497"></a>
+<a href="https://www.flysky-cn.com/"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/FlySkyLogo.jpg?raw=true" align="center" height="280" width="497"></a>
 </P>
 <p align="center">
-<a href="url"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/RadioMasterLogo.JPG?raw=true" align="center" height="200" width="497"></a>
+<a href="https://www.radiomasterrc.com/"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/RadioMasterLogo.JPG?raw=true" align="center" height="200" width="497"></a>
 </P>
 
  <p>&nbsp;</p> 
