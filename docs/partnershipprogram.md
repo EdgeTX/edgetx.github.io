@@ -50,7 +50,7 @@ The EdgeTX team will do its best to faithfully fulfill its responsibilities in r
 
 The EdgeTX team will do its best to provide high-quality, stable software for use in the R/C radios. When issues are found, the EdgeTX team will do its best to resolve these issues as quickly as possible. However, no timeline can be guaranteed for fixes. The partnered R/C radio manufactures are encouraged to keep an open communication channel and express the impact of issues that they think are critical so that the EdgeTX team can work to address these issues appropriately. However, EdgeTX assumes no liability for any issues or damages that arise due to the use of its' software.
 
-Either partner may choose to end their collaboration in the partnership program at any time by notifying the other partner. 
+Either party may choose to end their collaboration in the partnership program at any time by notifying the other partner. 
 
 If you are interested in participating in the Partnership program, please contact a member of the [EdgeTX project steering committee](https://edgetx.org/bylaws) for more information. 
 
