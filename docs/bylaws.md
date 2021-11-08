@@ -31,14 +31,14 @@ The section that follows describes how the (PSC) is formed and operates to make 
 
 ### Current Project Steering Committee
 
-Current committee members are:
+The current committee members (and their discord usernames) are:
 
-- Raphael Coeffic (Commitee Chair)
-- Robert Janiszewski
-- Peter Feerick
-- Risto Kõiva
-- Richard Li
-- Phil Eville
+- Raphael Coeffic (pafleraf) - Commitee Chair
+- Robert Janiszewski (JimB40)
+- Peter Feerick (pfeerick)
+- Risto Kõiva (Risto)
+- Richard LI (Richard Li)
+- Phil Eville (EZRipFPV)
 
 ### Structure
 
