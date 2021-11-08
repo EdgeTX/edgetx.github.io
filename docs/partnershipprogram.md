@@ -18,7 +18,9 @@
 <p align="center">
 <a href="url"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/RadioMasterLogo.JPG?raw=true" align="center" height="200" width="497"></a>
 </P>
+
  <p>&nbsp;</p> 
+
  
 ## EdgeTX Partnership Program
 
