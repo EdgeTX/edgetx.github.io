@@ -56,5 +56,9 @@ If you are interested in participating in the Partnership program, please contac
 
 ## Official EdgeTX Partners
 
-... coming soon!
+<p align="center">
+<a href="url"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/FlySkyLogo.jpg?raw=true" align="center" height="320" width="568"></a>
+<p align="center">
+<a href="url"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/RadioMasterLogo.JPG?raw=true" align="center" height="210" width="568"></a>
+</P>
 
