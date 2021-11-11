@@ -41,7 +41,7 @@ By participating in this program, the R/C radio manufacturers are helping suppor
 
  - Permission to use the ”EdgeTX”, “EdgeTX Approved” and “Official Partner of EdgeTX” logos on merchandise, advertising, and marketing material.
 
-**Requirements for manufactures:**
+**Requirements for manufacturers:**
 
  - Provide a reasonable number of hardware devices as requested by the EdgeTX team, to be used for initial development and testing.
 
@@ -61,7 +61,7 @@ EdgeTX team will remain neutral between all partners and will not favor one part
 
 The EdgeTX team will do its best to faithfully fulfill its responsibilities in regards to the partnership agreement, however, the EdgeTX team reserves the right to decide when to support a certain feature or hardware platform based on available resources and time.
 
-The EdgeTX team will do its best to provide high-quality, stable software for use in the R/C radios. When issues are found, the EdgeTX team will do its best to resolve these issues as quickly as possible. However, no timeline can be guaranteed for fixes. The partnered R/C radio manufactures are encouraged to keep an open communication channel and express the impact of issues that they think are critical so that the EdgeTX team can work to address these issues appropriately. However, EdgeTX assumes no liability for any issues or damages that arise due to the use of its' software.
+The EdgeTX team will do its best to provide high-quality, stable software for use in the R/C radios. When issues are found, the EdgeTX team will do its best to resolve these issues as quickly as possible. However, no timeline can be guaranteed for fixes. The partnered R/C radio manufacturers are encouraged to keep an open communication channel and express the impact of issues that they think are critical so that the EdgeTX team can work to address these issues appropriately. However, EdgeTX assumes no liability for any issues or damages that arise due to the use of its' software.
 
 Either party may choose to end their collaboration in the partnership program at any time by notifying the other partner. 
 
