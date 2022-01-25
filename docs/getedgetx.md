@@ -9,7 +9,7 @@ Follow the instructions in our  [installation guide](https://github.com/EdgeTX/e
 
 **Already know what you are doing? Then follow the links below:**
 
-> [EdgeTX Firmware direct download](https://github.com/EdgeTX/edgetx/releases/tag/v2.6.0)
+> [EdgeTX Firmware direct download](https://github.com/EdgeTX/edgetx/releases/latest)
 
 > [EdgeTX Flasher Downloads](https://github.com/EdgeTX/flasher/releases)
 
