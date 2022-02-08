@@ -11,15 +11,16 @@
   padding: 20px 10px 15px 10px;
 }
 .navbar {
-  font-weight: bold;
   display: flex;
   justify-content: space-between;
+  
   list-style: none;
   padding: 5px;
 }
 
 button.nav-item {
   color: white;
+  font-weight: bold;
   background-color: #333;
   
   padding: 12px;
