@@ -1,23 +1,35 @@
 ---
 ---
+
+
+@import "{{ site.theme }}";
+#main_content {
+  padding-top: 10px;
+}
+
+#header_wrap .inner {
+  padding: 20px 10px 15px 10px;
+}
 .navbar {
+  font-weight: bold;
   display: flex;
   justify-content: space-between;
   list-style: none;
   padding: 5px;
 }
-.nav-item{
-  padding: 5px;
-  border-style: solid;
+
+button.nav-item {
+  color: white;
+  background-color: #333;
+  
+  padding: 12px;
+  
+  border-color: white;
   border-width: 2px;
+  border-radius: 0.5em;
+  box-shadow: 3px 3px 3px gray; 
 }
-#main_content {
-  padding-top: 10px;
-}
-@import "{{ site.theme }}";
-#main_content {
-  padding-top: 10px;
-}
-#header_wrap .inner {
-  padding: 20px 10px 15px 10px;
+
+button.nav-item:hover {
+  background-color: #444;
 }
