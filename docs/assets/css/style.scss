@@ -2,7 +2,14 @@
 ---
 .navbar {
   display: flex;
-  justify-content: center;
+  justify-content:space-between;
+  list-style: none;
+  padding: 5px;
+}
+.nav-item{
+  padding: 5px;
+  border-style: solid;
+  border-width: 2px;
 }
 #main_content {
   padding-top: 10px;
