@@ -13,11 +13,13 @@
 .navbar {
   display: flex;
   justify-content: space-between;
-  margin: 5px;
+  margin: 5px 10px;
+  flex-wrap: wrap;
 }
 
 .navbar a {
   width: 13%;
+  min-width: 4rem;
 }
 
 .nav-item {
