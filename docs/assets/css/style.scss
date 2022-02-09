@@ -1,7 +1,6 @@
 ---
 ---
 
-
 @import "{{ site.theme }}";
 #main_content {
   padding-top: 10px;
@@ -10,27 +9,40 @@
 #header_wrap .inner {
   padding: 20px 10px 15px 10px;
 }
+
 .navbar {
   display: flex;
   justify-content: space-between;
-  
-  list-style: none;
-  padding: 5px;
+  margin: 5px;
 }
 
-button.nav-item {
+.navbar a {
+  width: 13%;
+}
+
+.nav-item {
+  height: 100%;
+  width: 100%;
+  padding-top: 2px;
+  padding-bottom: 2px;
+
   color: white;
-  font-weight: bold;
   background-color: #333;
+  font-weight: bold;
+  font-family: inherit;
   
-  padding: 12px;
-  
+  border-radius: inherit;
   border-color: white;
   border-width: 2px;
-  border-radius: 0.5em;
-  box-shadow: 3px 3px 3px gray; 
+  box-shadow: 3px 3px 3px gray;
+  
 }
 
-button.nav-item:hover {
-  background-color: #444;
+.rounded {
+  border-radius: 0.5em;
+}
+
+.nav-item:hover {
+  background-color: #12a1e3;
+  cursor: pointer;
 }
