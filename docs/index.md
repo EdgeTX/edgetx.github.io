@@ -7,7 +7,7 @@
 
 **EdgeTX v2.6.0 with YAML**
 
-The third release is out - EdgeTX v2.6.0 with codename "Santa". It is the first release to include human-readable settings formwat YAML and a new improved themes file and folder structure. You can download the firmware for your radio and the Companion for your computer from: [EdgeTX "Santa" 2.6.0](https://github.com/EdgeTX/edgetx/releases/tag/v2.6.0)
+The third release is out - EdgeTX v2.6.0 with codename "Santa". It is the first release to include human-readable settings format YAML and a new improved themes file and folder structure. You can download the firmware for your radio and the Companion for your computer from: [EdgeTX "Santa" 2.6.0](https://github.com/EdgeTX/edgetx/releases/tag/v2.6.0)
 
 ---
 
