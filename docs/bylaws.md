@@ -26,7 +26,7 @@ The current committee members (and their discord usernames) are:
 - Robert Janiszewski (JimB40)
 - Peter Feerick (pfeerick)
 - Risto Kõiva (Risto)
-- Richard LI (Richard Li)
+- Richard Li (Richard Li)
 - Phil Eville (EZRipFPV)
 
 ### Structure
