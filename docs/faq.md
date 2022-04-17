@@ -22,25 +22,24 @@ No, to manage models in EdgeTX you will need to use EdgeTX Companion. Get it fro
 
 
 **What radio-transmitters are supported?**
-* X9Lite 
+* NV14
 * QX7 (QX7 with Access must be manually compiled and is not available in the Flasher)
-* T12 
-* TX12
 * T8
+* T12 
+* T16
+* T18
 * Tlite
+* TX12
+* TX16S and TX16S mkII
+* X9DP
+* X9DP2019
+* X9Lite
+* X10
+* X12S
 * XLite
 * XLite S
 * XLite Pro (use XLite S Target)
-* X9DP 
-* X9DP2019 
-* X10
-* T16
-* TX16S (RadioMaster)
-* X12S
-* T18
-* NV14
-
-Basically, everything that is supported in OTX 2.3, minus 9X / 9XR-pro.
+* Zorro
 
 
 **Does EdgeTX support support ExpressLRS?**
