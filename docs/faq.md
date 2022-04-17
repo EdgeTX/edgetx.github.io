@@ -57,6 +57,6 @@ One of the main benefits of EdgeTX is touch support for touch-enabled radios. Ho
 No, EdgeTX does not support CRSFv3. It will be supported it in the future.  
 
 
-** Does EdgeTX still have the model wizards?
-Yes, the model wizards are still included included in EdgeTX. However, they no longer start automatically and must be started manually.  The location of the wizards has been changed to SD Card -> Scripts->Wizard.
+**Does EdgeTX still have the model wizards?**
 
+Yes, the model wizards are still included included in EdgeTX. However, they no longer start automatically and must be started manually.  The location of the wizards has been changed to SD Card -> Scripts->Wizard.
