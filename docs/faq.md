@@ -18,7 +18,7 @@ The EdgeTX releases will be tested and considered stable for everyday use. Howev
 
 **Will I still be able to use OpenTX Companion to manage my models with EdgeTX?**
 
-No, to manage models in EdgeTX you will need to use EdgeTX Companion. EdgeTX Companion is available with the release of v2.5.0. and can be downloaded from the Github download page for v2.5.0.
+No, to manage models in EdgeTX you will need to use EdgeTX Companion. EdgeTX Companion is available from the release of v2.5.0. and can be downloaded from the Github download page for latest [EdgeTX release](https://github.com/EdgeTX/edgetx/releases/latest)
 
 
 **What radio-transmitters are supported?**
