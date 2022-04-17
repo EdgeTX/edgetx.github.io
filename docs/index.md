@@ -3,6 +3,14 @@
  
 ## What's new ##
 
+**April 16th, 2022**
+
+**EdgeTX v2.7.0**
+
+The fourth release is out - EdgeTX v2.7.0 with codename "Black Pearl". You can read about the improvements and download the firmware for your radio and the Companion for your computer from [EdgeTX "Black Pearl" 2.7.0](https://github.com/EdgeTX/edgetx/releases/tag/v2.7.0)
+
+---
+
 **Jan. 24th, 2022**
 
 **EdgeTX v2.6.0 with YAML**
