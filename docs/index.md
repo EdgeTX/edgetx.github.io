@@ -11,6 +11,14 @@ The fourth release is out - EdgeTX v2.7.0 with codename "Black Pearl". You can r
 
 ---
 
+**April 12th, 2022**
+
+**Donations via PayPal possible via Open Collective**
+
+Single donations via PayPal finally work now as well at OpenCollective: https://opencollective.com/edgetx
+
+---
+
 **Jan. 24th, 2022**
 
 **EdgeTX v2.6.0 with YAML**
