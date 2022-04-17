@@ -1,7 +1,7 @@
 ## Get EdgeTX
 
 *To see the list of improvements as well as limitations of EdgeTX,  
-please review the release notes for the* **[2.6.0 release](https://github.com/EdgeTX/edgetx/releases/tag/v2.6.0).**
+please review the release notes for the* **[latest EdgeTX release](https://github.com/EdgeTX/edgetx/releases/latest).**
 
 **Want to download the latest EdgeTX release?** 
 
