@@ -3,6 +3,14 @@
  
 ## What's new ##
 
+**May 9th, 2022**
+
+**EdgeTX v2.7.1**
+
+This is a maintenance release for EdgeTX "Black Pearl" v2.7, which primarily fixes two bugs that could cause emergency mode firmware crashes, and also fixes an issue with not being able to update CRSF/ELRS module firmware. There are some other minor fixes or improvements included also. You can read about the improvements and download the firmware for your radio and the Companion for your computer from [EdgeTX "Black Pearl" 2.7.1](https://github.com/EdgeTX/edgetx/releases/tag/v2.7.1)
+
+---
+
 **April 16th, 2022**
 
 **EdgeTX v2.7.0**
