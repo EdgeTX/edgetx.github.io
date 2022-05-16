@@ -15,11 +15,13 @@ Developed and supported by the EdgeTX core development team
 * RadioMaster TX16s
 * RadioMaster Zorro
 
+
 **Manufacturer Supported**
  
 Developed and supported by the manufacturers themselves. Changes are then submitted to the EdgeTX main codebase.
 
 * iFlight Commando8 *(in progress)*
+
 
 **Community supported**
 
