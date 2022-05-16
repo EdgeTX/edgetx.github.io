@@ -14,6 +14,7 @@ Developed and supported by the EdgeTX core development team
 * RadioMaster TX12
 * RadioMaster TX16s
 * RadioMaster Zorro
+
 ---
 
 **Manufacturer Supported**
@@ -21,6 +22,7 @@ Developed and supported by the EdgeTX core development team
 Developed and supported by the manufacturers themselves. Changes are then submitted to the EdgeTX main codebase.
 
 * iFlight Commando8 *(in progress)*
+
 ---
 
 **Community supported**
@@ -41,4 +43,5 @@ Developed and supported by other interested 3rd parties. Changes are then submit
 * FrSky X9D Plus 2019
 * FrSky X9E
 * FrSky X9E Hall
+
 ---
