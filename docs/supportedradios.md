@@ -2,7 +2,7 @@
 
 **Fully Supported Radios** 
 
-Developed and supported by the EdgeTX core development team
+The development and support for EdgeTX is conducted by the EdgeTX core development team and included in the main EdgeTX codebase.
 
 * Flysky NV14
 * Jumper T-Lite
@@ -19,7 +19,7 @@ Developed and supported by the EdgeTX core development team
 
 **Manufacturer Supported**
  
-Developed and supported by the manufacturers themselves. Changes are then submitted to the EdgeTX main codebase.
+The development and support for EdgeTX is conducted by the hardware manufacturers themselves. All changes that are made are then submitted for inclusion into the main EdgeTX codebase.
 
 * iFlight Commando8 *(in progress)*
 
@@ -27,7 +27,7 @@ Developed and supported by the manufacturers themselves. Changes are then submit
 
 **Community supported**
 
-Developed and supported by other interested 3rd parties. Changes are then submitted to the EdgeTX main codebase.
+The development and support for EdgeTX is conducted by other interested 3rd parties from the community. All changes that are made are then submitted for inclusion into the main EdgeTX codebase.
 
 * Frsky Horus X10
 * Frsky Horus X10 Access
