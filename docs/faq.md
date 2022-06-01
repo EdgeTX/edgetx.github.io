@@ -28,7 +28,8 @@ No, to manage models in EdgeTX you will need to use EdgeTX Companion. Get it fro
 * T12 
 * T16
 * T18
-* Tlite
+* T-Lite
+* T-Pro
 * TX12
 * TX16S and TX16S mkII
 * X9DP
