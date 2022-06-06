@@ -10,3 +10,9 @@
 #header_wrap .inner {
   padding: 20px 10px 15px 10px;
 }
+.inner {
+  position: relative;
+  max-width: 840px;
+  padding: 20px 10px;
+  margin: 0 auto;
+}
