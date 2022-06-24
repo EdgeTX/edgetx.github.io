@@ -1,7 +1,7 @@
  
 ## Developer Competition: 
 <p align="center">
-<a href="url"><img src="https://raw.githubusercontent.com/EdgeTX/edgetx.github.io/master/images/DOOM.png" align="center" ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/EdgeTX/edgetx.github.io/master/images/DOOM.png" align="center" height="313" width="433"></a>
 </P>
 
 ### ***-DRAFT-***
