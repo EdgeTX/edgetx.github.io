@@ -27,6 +27,7 @@ The first person to post a working will win the prize:
 **Helpful links to get you started:**
 
 STM32F429 Discovery board Doom implementation: https://github.com/floppes/stm32doom 
+
 *Note: the TX16S has slightly different display resolution (320x240 vs. 480x272) and different touch controller chip (STMPE811 vs. GT911), but same STM32F429 type microcontroller*
 
 EdgeTX TX16S firmware code as reference for interacting with TX16S power circuitry, display, microSD, touchscreen and buttons: https://github.com/EdgeTX/edgetx/
