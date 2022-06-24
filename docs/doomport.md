@@ -11,7 +11,7 @@ Port the DOOM video game so that it can be played on the Radiomaster TX16S.
  
  **Contest Details:**
  
-The game must be controllable using the touchscreen and buttons. ***What about the gimbals?***
+The game must be playable by the user interfaces available on stock TX16S (touchscreen, buttons, roller, gimbals, pots, sliders, switches or any combination of them. Whatever works intuitively and does not require additional hardware or mods to TX16S, will be accepted.).
  
 Must use microSD card for the WAD resource file (unlike the current implementation that uses a USB drive)
 
