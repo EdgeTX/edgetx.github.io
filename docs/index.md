@@ -3,6 +3,14 @@
  
 ## What's new ##
 
+**June 25th, 2022**
+
+**DOOM developer competition**
+
+Be the first developer to port Doom to the RadioMaster TX16S and you will win a set of AG01 gimbals for the TX16S (sponsored by RadioMaster). Submissions due 9 September 2022. Full contest details can be found under: [Doom Developer Competition](https://edgetx.org/doomport)
+
+---
+
 **May 9th, 2022**
 
 **EdgeTX v2.7.1**
