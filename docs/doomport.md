@@ -25,7 +25,7 @@ Submissions shall be posted into the [EdgeTX Discord](https://discord.gg/wF9wUKn
 The first person to post working code with an accompanying video, will win the prize: **1 set of Radiomaster AG01 gimbals** - including free shipping world-wide.
 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=82-fAHKRMVE" target="_blank"><img src="https://raw.githubusercontent.com/EdgeTX/edgetx.github.io/master/images/RM_AG01_video.jpg" align="center" width="497"></a>
+<a href="https://www.youtube.com/watch?v=82-fAHKRMVE" target="_blank"><img src="https://raw.githubusercontent.com/EdgeTX/edgetx.github.io/master/images/RM_AG01_video.jpg" align="center" width="500"></a>
 </p>
 
 *Note: winner is responsible for any VAT or customs fees applicable in their country.*
@@ -44,4 +44,8 @@ TX16S schematics with detailed explanation of functionality: [RCGroups Blog post
 
 ### Bonus
 
-A solution that can be flashed via EdgeTX bootloader without having to resort to DFU flashing (e.g. `doom_tx16s_fw.bin` under SD card `\FIRMWARE` and Doom shareware WAD file under `\DOOM\doom1.wad`).
+A solution that can be flashed via EdgeTX bootloader without having to resort to DFU flashing (e.g. `doom_tx16s_fw.bin` under SD card `\FIRMWARE` and Doom shareware WAD file under `\DOOM\doom1.wad`) will receive a bonus prize - [RadioMaster Sticky360 Gimbal Stick Ends for TX16S](https://www.radiomasterrc.com/collections/tx16s-accessories/products/sticky360-gimbal-stick-ends-for-tx16s) (the winner can pick the color).
+
+<p align="center">
+<a href="https://www.youtube.com/watch?v=W80j61uyR6g" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0609/8324/7079/files/STICKY360-1200X900_1024x1024.gif" align="center" width="500"></a>
+</p>
