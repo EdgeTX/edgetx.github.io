@@ -4,7 +4,11 @@
 <a><img src="https://raw.githubusercontent.com/EdgeTX/edgetx.github.io/master/images/Doomport.jpg" align="center" height="318" width="366"></a>
 </P>
 
-### ***-DRAFT-***
+<h2>sponsored by:</h2>
+<p align="center">
+<a href="https://www.radiomasterrc.com/" target="_blank"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/RadioMasterLogo.png?raw=true" align="center" width="497"></a>
+</p>
+
 **Task:** 
 
 Port the DOOM video game so that it can be played on the Radiomaster TX16S.
@@ -15,9 +19,13 @@ The game must be playable by the user interfaces available on stock TX16S (touch
  
 Must use microSD card for the WAD resource file (unlike the [current STM32F429 implementation](https://github.com/floppes/stm32doom) that uses a USB drive).
 
-Submissions shall be posted into the EdgeTX Discord **#doom-dev-competition** channel with links to the GitHub repo of the working code and a YouTube video presenting/showing the result.
+Submissions shall be posted into the [EdgeTX Discord](https://discord.gg/wF9wUKnZ6H) **#doom-dev-competition** channel with links to the GitHub repo of the working code and a YouTube video presenting/showing the result.
 
-The first person to post a working will win the prize: **1 set of Radiomaster AG01 gimbals** - including free shipping world-wide.
+The first person to post working code with an accompanying video, will win the prize: **1 set of Radiomaster AG01 gimbals** - including free shipping world-wide.
+
+<p align="center">
+<a href="https://www.youtube.com/watch?v=82-fAHKRMVE" target="_blank"><img src="https://raw.githubusercontent.com/EdgeTX/edgetx.github.io/master/images/RM_AG01_video.jpg" align="center" width="500"></a>
+</p>
 
 *Note: winner is responsible for any VAT or customs fees applicable in their country.*
 
@@ -33,6 +41,10 @@ EdgeTX TX16S firmware code as reference for interacting with TX16S power circuit
 
 TX16S schematics with detailed explanation of functionality: [RCGroups Blog post: TX16S schematic diagram](https://www.rcgroups.com/forums/showthread.php?3869543-Blog-17-RadioMaster-TX16S-schematic-diagram)
 
-**Bonus**
+### Bonus
 
-A solution that can be flashed via EdgeTX bootloader without having to resort to DFU flashing (e.g. `doom_tx16s_fw.bin` under SD card `\FIRMWARE` and Doom shareware WAD file under `\DOOM\doom1.wad`).
+A solution that can be flashed via EdgeTX bootloader without having to resort to DFU flashing (e.g. `doom_tx16s_fw.bin` under SD card `\FIRMWARE` and Doom shareware WAD file under `\DOOM\doom1.wad`) will receive a bonus prize - [RadioMaster Sticky360 Gimbal Stick Ends for TX16S](https://www.radiomasterrc.com/collections/tx16s-accessories/products/sticky360-gimbal-stick-ends-for-tx16s) (the winner can pick the color).
+
+<p align="center">
+<a href="https://www.youtube.com/watch?v=W80j61uyR6g" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0609/8324/7079/files/STICKY360-1200X900_1024x1024.gif" align="center" width="500"></a>
+</p>
