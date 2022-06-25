@@ -9,7 +9,6 @@
 <a href="https://www.radiomasterrc.com/" target="_blank"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/RadioMasterLogo.png?raw=true" align="center" width="497"></a>
 </p>
 
-### ***-DRAFT-***
 **Task:** 
 
 Port the DOOM video game so that it can be played on the Radiomaster TX16S.
