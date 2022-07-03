@@ -13,6 +13,6 @@ Information on our versioning, branch and release strategy can be found here: [V
 
 Other useful information for developers:
 
-[EdgeTX 2.6 Lua Reference Guide](https://luadoc.edgetx.org/v/edgetx-2.6/)
+[EdgeTX Lua Reference Guide](https://luadoc.edgetx.org/)
 
 [EdgeTX Build Environment Docker Images](https://github.com/EdgeTX/build-edgetx)

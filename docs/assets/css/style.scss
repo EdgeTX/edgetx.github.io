@@ -1,6 +1,3 @@
----
----
-
 @import "{{ site.theme }}";
 #main_content {
   padding-top: 10px;
@@ -8,6 +5,9 @@
 
 #header_wrap .inner {
   padding: 20px 10px 15px 10px;
+  position: relative;
+  max-width: 840px;
+  margin: 0 auto;
 }
 
 .navbar {
@@ -48,4 +48,11 @@
 .nav-item:hover {
   background-color: #12a1e3;
   cursor: pointer;
+}
+
+.inner {
+  position: relative;
+  max-width: 840px;
+  padding: 20px 10px;
+  margin: 0 auto;
 }

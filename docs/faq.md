@@ -18,29 +18,29 @@ The EdgeTX releases will be tested and considered stable for everyday use. Howev
 
 **Will I still be able to use OpenTX Companion to manage my models with EdgeTX?**
 
-No, to manage models in EdgeTX you will need to use EdgeTX Companion. EdgeTX Companion is available with the release of v2.5.0. and can be downloaded from the Github download page for v2.5.0.
+No, to manage models in EdgeTX you will need to use EdgeTX Companion. Get it from [EdgeTX GitHub](https://github.com/EdgeTX/edgetx/releases/latest)
 
 
 **What radio-transmitters are supported?**
-* X9Lite 
+* NV14
 * QX7 (QX7 with Access must be manually compiled and is not available in the Flasher)
-* T12 
-* TX12
 * T8
-* Tlite
+* T12 
+* T16
+* T18
+* T-Lite
+* T-Pro
+* TX12
+* TX16S and TX16S mkII
+* X9DP
+* X9DP2019
+* X9Lite
+* X10
+* X12S
 * XLite
 * XLite S
 * XLite Pro (use XLite S Target)
-* X9DP 
-* X9DP2019 
-* X10
-* T16
-* TX16S (RadioMaster)
-* X12S
-* T18
-* NV14
-
-Basically, everything that is supported in OTX 2.3, minus 9X / 9XR-pro.
+* Zorro
 
 
 **Does EdgeTX support support ExpressLRS?**
@@ -58,6 +58,6 @@ One of the main benefits of EdgeTX is touch support for touch-enabled radios. Ho
 No, EdgeTX does not support CRSFv3. It will be supported it in the future.  
 
 
-** Does EdgeTX still have the model wizards?
-Yes, the model wizards are still included included in EdgeTX. However, they no longer start automatically and must be started manually.  The location of the wizards has been changed to SD Card -> Scripts->Wizard.
+**Does EdgeTX still have the model wizards?**
 
+Yes, the model wizards are still included included in EdgeTX. However, they no longer start automatically and must be started manually.  The location of the wizards has been changed to SD Card -> Scripts->Wizard.

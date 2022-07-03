@@ -3,11 +3,43 @@
  
 ## What's new ##
 
+**June 25th, 2022**
+
+**DOOM developer competition**
+
+Be the first developer to port Doom to the RadioMaster TX16S and you will win a set of AG01 gimbals for the TX16S (sponsored by RadioMaster). Submissions due 9 September 2022. Full contest details can be found under: [Doom Developer Competition](https://edgetx.org/doomport)
+
+---
+
+**May 9th, 2022**
+
+**EdgeTX v2.7.1**
+
+This is a maintenance release for EdgeTX "Black Pearl" v2.7, which primarily fixes two bugs that could cause emergency mode firmware crashes, and also fixes an issue with not being able to update CRSF/ELRS module firmware. There are some other minor fixes or improvements included also. You can read about the improvements and download the firmware for your radio and the Companion for your computer from [EdgeTX "Black Pearl" 2.7.1](https://github.com/EdgeTX/edgetx/releases/tag/v2.7.1)
+
+---
+
+**April 16th, 2022**
+
+**EdgeTX v2.7.0**
+
+The fourth release is out - EdgeTX v2.7.0 with codename "Black Pearl". You can read about the improvements and download the firmware for your radio and the Companion for your computer from [EdgeTX "Black Pearl" 2.7.0](https://github.com/EdgeTX/edgetx/releases/tag/v2.7.0)
+
+---
+
+**April 12th, 2022**
+
+**Donations via PayPal possible via Open Collective**
+
+Single donations via PayPal finally work now as well at OpenCollective: https://opencollective.com/edgetx
+
+---
+
 **Jan. 24th, 2022**
 
 **EdgeTX v2.6.0 with YAML**
 
-The third release is out - EdgeTX v2.6.0 with codename "Santa". It is the first release to include human-readable settings formwat YAML and a new improved themes file and folder structure. You can download the firmware for your radio and the Companion for your computer from: [EdgeTX "Santa" 2.6.0](https://github.com/EdgeTX/edgetx/releases/tag/v2.6.0)
+The third release is out - EdgeTX v2.6.0 with codename "Santa". It is the first release to include human-readable settings format YAML and a new improved themes file and folder structure. You can download the firmware for your radio and the Companion for your computer from [EdgeTX "Santa" 2.6.0](https://github.com/EdgeTX/edgetx/releases/tag/v2.6.0)
 
 ---
 
@@ -27,7 +59,7 @@ We understand that there is great interest in EdgeTX and EdgeTX Companion suppor
 
 **EdgeTX is now accepting donations via Open Collective**
 
-If you would like to support EdgeTX financially, we have a donation system setup at Open Collective. All money that is donated will be used for our planned online-build system as well as to help developers purchase needed hardware (e.g. radio systems & development equipment). You can send an one-time donation or set-up a reoccuring donation via the following link: [https://opencollective.com/edgetx/donate](https://opencollective.com/edgetx/donate)
+If you would like to support EdgeTX financially, we have a donation system setup at Open Collective. All money that is donated will be used for our planned online-build system as well as to help developers purchase needed hardware (e.g. radio systems & development equipment). You can send a one-time donation or set up a recurring donation via the following link: [https://opencollective.com/edgetx/donate](https://opencollective.com/edgetx/donate)
 
 The usage of the money will be reported at [OpenCollective](https://opencollective.com/edgetx) and will be transparent for all to see what the money is being used for.  Your support is very much appreciated!
 
@@ -37,7 +69,7 @@ The usage of the money will be reported at [OpenCollective](https://opencollecti
 
 **EdgeTX v2.5.0 including EdgeTX Companion**
 
-The second release is out - EdgeTX v2.5.0 with codename "Dauntless". It is the first release to include EdgeTX Companion. You can download the firmware for your radio and the Companion for your computer from: [EdgeTX "Dauntless" 2.5.0](https://github.com/EdgeTX/edgetx/releases/tag/v2.5.0)
+The second release is out - EdgeTX v2.5.0 with codename "Dauntless". It is the first release to include EdgeTX Companion. You can download the firmware for your radio and the Companion for your computer from [EdgeTX "Dauntless" 2.5.0](https://github.com/EdgeTX/edgetx/releases/tag/v2.5.0)
 
 ---
 
@@ -45,7 +77,7 @@ The second release is out - EdgeTX v2.5.0 with codename "Dauntless". It is the f
 
 **EdgeTX Roadmap added to the Dev Info Page**
 
-If you are interested in see what new features will come in future EdgeTX releases, check out the roadmap on the [Dev Info Page.](https://edgetx.org/devinfo)
+If you are interested in seeing what new features will come in future EdgeTX releases, check out the roadmap on the [Dev Info Page.](https://edgetx.org/devinfo)
 
 ---
 
@@ -67,7 +99,7 @@ If you are interested in see what new features will come in future EdgeTX releas
 * Web design
 * In-depth R/C transmitter knowledge (for QA testing)
 
-If you have any of these skills and are intersted in supporting the project by donating a couple of hours per week of your time, please get in contact with the development team via **[Discord!](https://discord.gg/wF9wUKnZ6H)** 
+If you have any of these skills and are interested in supporting the project by donating a couple of hours per week of your time, please get in contact with the development team via **[Discord!](https://discord.gg/wF9wUKnZ6H)** 
 
 ---
 
