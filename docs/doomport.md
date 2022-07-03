@@ -33,6 +33,8 @@ The first person to post working code with an accompanying video, will win the p
 
 **Helpful links to get you started:**
 
+Jumper T16 Doom implementation: [https://github.com/rocketstrong600/JumperT16Doom](https://github.com/rocketstrong600/JumperT16Doom)
+
 STM32F429 Discovery board Doom implementation: [https://github.com/floppes/stm32doom](https://github.com/floppes/stm32doom)
 
 *Note: the TX16S has slightly different display resolution (320x240 vs. 480x272) and different touch controller chip (STMPE811 vs. GT911), but same STM32F429 type microcontroller.*
