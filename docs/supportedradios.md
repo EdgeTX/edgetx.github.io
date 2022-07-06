@@ -22,6 +22,7 @@ The development and support for EdgeTX is conducted by the EdgeTX core developme
 The development and support for EdgeTX is conducted by the hardware manufacturers themselves. All changes that are made are then submitted for inclusion into the main EdgeTX codebase.
 
 * iFlight Commando8 *(in progress)*
+* BetaFPV LiteRadio3 Pro *(in progress)*
 
 ---
 
