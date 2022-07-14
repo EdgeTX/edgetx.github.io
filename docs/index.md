@@ -3,6 +3,19 @@
  
 ## What's new ##
 
+**July 14th, 2022**
+
+**EdgeTX Fest**
+
+Join us on September 10th, 2022 for the EdgeTX Fest.  More information at:
+[https://edgetx.org/fest2022](https://edgetx.org/fest2022)
+<p></p> 
+<p align="center">
+<a><img src="https://github.com/phileville/edgetx.github.io/blob/master/images/ETXFEST.png?raw=true" align="center" width="300
+"></a>
+</P>
+
+---
 **June 25th, 2022**
 
 **DOOM developer competition**
