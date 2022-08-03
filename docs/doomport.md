@@ -1,3 +1,4 @@
+
  
 ## Developer Competition: 
 <p align="center">
@@ -9,6 +10,23 @@
 <a href="https://www.radiomasterrc.com/" target="_blank"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/RadioMasterLogo.png?raw=true" align="center" width="497"></a>
 </p>
 
+---
+**August 2nd, 2022**
+
+**Doom Developer Porting Competition Winner – David Pham-Van!**
+
+Congratulations to David Pham-Van, a.k.a. DavBfv, for completing the Doom Porting Developer Competition! David was the first developer to successfully port the Doom video game so that it can be played on the Radiomaster TX16S.
+
+Additionally, David also met the bonus criteria to allow the port to be flashed simply via the EdgeTX standard flasher. For his efforts, David will receive a pair of [Radiomaster AG01 gimbals for the TX16S](https://www.radiomasterrc.com/products/ag01-cnc-hall-gimbals-for-tx16s) as well as a pair of [RadioMaster Sticky360 Gimbal Stick Ends for TX16S](https://www.radiomasterrc.com/collections/tx16s-accessories/products/sticky360-gimbal-stick-ends-for-tx16s).
+
+Installation and gameplay demo link: [https://www.youtube.com/watch?v=yo2eKt-qTW4](https://www.youtube.com/watch?v=yo2eKt-qTW4)
+
+Github repository and Installation instructions: [GitHub - DavBfr/edgetx-doom](https://github.com/DavBfr/edgetx-doom)
+
+The Doom firmware file (already compiled): [https://drive.google.com/file/d/1vqWwOLLE7gSl_91TvnXWzvnFCGKv-4Os/view?usp=sharing](https://drive.google.com/file/d/1vqWwOLLE7gSl_91TvnXWzvnFCGKv-4Os/view?usp=sharing)
+
+
+---
 **Task:** 
 
 Port the DOOM video game so that it can be played on the Radiomaster TX16S.
