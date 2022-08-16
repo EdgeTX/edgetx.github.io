@@ -22,25 +22,25 @@ No, to manage models in EdgeTX you will need to use EdgeTX Companion. Get it fro
 
 
 **What radio-transmitters are supported?**
-* NV14
-* QX7 (QX7 with Access must be manually compiled and is not available in the Flasher)
-* T8
-* T12 
-* T16
-* T18
-* T-Lite
-* T-Pro
-* TX12
-* TX16S and TX16S mkII
-* X9DP
-* X9DP2019
-* X9Lite
-* X10
-* X12S
-* XLite
-* XLite S
-* XLite Pro (use XLite S Target)
-* Zorro
+* Flysky NV14
+* FrSky QX7 (QX7 with Access must be manually compiled and is not available in the Flasher)
+* FrSky X9DP
+* FrSky X9DP2019
+* FrSky X9Lite
+* FrSky X10
+* FrSky X12S
+* FrSky XLite
+* FrSky XLite S
+* FrSky XLite Pro (use XLite S Target)
+* Jumper T12 
+* Jumper T16
+* Jumper T18
+* Jumper T-Lite
+* Jumper T-Pro
+* RadioMaster T8
+* RadioMaster TX12
+* RadioMaster TX16S and TX16S mkII
+* RadioMaster Zorro
 
 
 **Does EdgeTX support support ExpressLRS?**
