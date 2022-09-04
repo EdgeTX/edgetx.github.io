@@ -28,7 +28,7 @@ Join us on September 10th, 2022 for the EdgeTX Fest.  More information at:
 [https://edgetx.org/fest2022](https://edgetx.org/fest2022)
 <p></p> 
 <p align="center">
-<a href="https://edgetx.org/fest2022"><img src="https://github.com/phileville/edgetx.github.io/blob/master/images/ETXFEST.png?raw=true" align="center" width="350
+<a href="https://edgetx.org/fest2022"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/ETXFEST.png?raw=true" align="center" width="350
 "></a>
 </P>
 
