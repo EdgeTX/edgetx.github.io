@@ -4,6 +4,27 @@
 ## What's new ##
 
 
+**September 17th, 2022**
+
+**EdgeTX Fest 2022 - Thank you for celebrating the 1st year of EdgeTX with us!**
+
+As many of you know, last Saturday was the EdgeTX Fest – a celebration of the first year of EdgeTX.
+ 
+Visitors at the fest were able to try out some of the EdgeTX-supported radios, including the brand new Flysky EL18 that was publicly revealed for the first time at the fest. New input concepts were also presented, such as radio orientation control via IMU and control via a 6-dimensional SpaceMouse knob. Visitors could also participate in several small competitions, such as RC Car bowling and Tiny Whoop balloon popping. Overall, the event was a great success.
+
+Thank you to all that came out to the EdgeTX Fest to celebrate the first year of EdgeTX with us. Your attendance made for a fun and enjoyable event!  Congratulations to all the contest and drawing winners.  In total, 11 radios and 4 accessory sets were awarded to lucky guests!
+
+Special thanks to our event sponsors for providing the prizes and giveaways for the event – RadioMaster, FlySky, 3DConnexion, BetaFPV, and Jumper and to the NLV Modellflug Saarmund e.V. for their cooperation in the planning and running of the event.
+
+Thanks again to all participants, sponsors, and supporters of the event.  We are excited to see what the next year will bring to EdgeTX and looking forward to celebrating the second year of EdgeTX next year!
+<p></p> 
+<p align="center">
+<a href="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/EdgeTXFestCol.jpg?raw=true"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/EdgeTXFestCol.jpg?raw=true" align="center" width="800
+"></a>
+</P>
+
+---
+
 **August 2nd, 2022**
 
 **Doom Developer Porting Competition Winner – David Pham-Van!**
