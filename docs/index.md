@@ -4,13 +4,11 @@
 ## What's new ##
 
 
-**September 17th, 2022**
+**September 10th, 2022**
 
 **EdgeTX Fest 2022 - Thank you for celebrating the 1st year of EdgeTX with us!**
 
-As many of you know, last Saturday was the EdgeTX Fest – a celebration of the first year of EdgeTX.
- 
-Visitors at the fest were able to try out some of the EdgeTX-supported radios, including the brand new [Flysky EL18](https://www.flysky-cn.com/el18-specifications) that was publicly revealed for the first time at the fest. Users were able to test the revamped user interface with LVGL backend and check out new functions, such as model labels. Novel input concepts were also presented, such as radio orientation control via IMU and control via a 6-dimensional [SpaceMouse](https://github.com/EdgeTX/edgetx/pull/1853) knob. Visitors could also participate in several small competitions, such as RC Car bowling and Tiny Whoop balloon popping. Overall, the event was a great success.
+Visitors at the fest, that was held this year near Potsdam/Germany, were able to try out some of the EdgeTX-supported radios, including the brand new [Flysky EL18](https://www.flysky-cn.com/el18-specifications) that was publicly revealed for the first time at the fest. Users were able to test the revamped user interface with LVGL backend and check out new functions, such as model labels. Novel input concepts were also presented, such as radio orientation control via IMU and control via a 6-dimensional [SpaceMouse](https://github.com/EdgeTX/edgetx/pull/1853) knob. Visitors could also participate in several small competitions, such as RC Car bowling and Tiny Whoop balloon popping. Overall, the event was a great success.
 
 Thank you to all that came out to the EdgeTX Fest to celebrate the first year of EdgeTX with us. Your attendance made for a fun and enjoyable event!  Congratulations to all the contest and drawing winners.  In total, 11 radios and 4 accessory sets were awarded to lucky guests!
 
