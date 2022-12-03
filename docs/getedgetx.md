@@ -13,7 +13,7 @@ Follow the instructions in our  [installation guide](https://github.com/EdgeTX/e
 
 > [EdgeTX Flasher](https://github.com/EdgeTX/flasher/releases) - Tool for downloading and flashing EdgeTX to your radio, including SD card contents - requires installation
 
-> [EdgeTX Firmware direct download](https://github.com/EdgeTX/edgetx/releases/download/v2.7.1/edgetx-firmware-v2.7.1.zip)
+> [EdgeTX Firmware direct download](https://github.com/EdgeTX/edgetx/releases/download/v2.8.0/edgetx-firmware-v2.8.0.zip)
 
 > [SD Card Downloads](https://github.com/EdgeTX/edgetx-sdcard/releases)
 
@@ -21,17 +21,14 @@ Follow the instructions in our  [installation guide](https://github.com/EdgeTX/e
 
 **Looking for EdgeTX Companion? See the links below:**
 
->[EdgeTX Companion - Windows 32bit](https://github.com/EdgeTX/edgetx/releases/download/v2.7.1/edgetx-cpn-win32-v2.7.1.zip)
+>[EdgeTX Companion - Windows 32bit](https://github.com/EdgeTX/edgetx/releases/download/v2.8.0/edgetx-cpn-win32-v2.8.0.zip)
 
->[EdgeTX Companion - Windows 64bit](https://github.com/EdgeTX/edgetx/releases/download/v2.7.1/edgetx-cpn-win64-v2.7.1.zip)
+>[EdgeTX Companion - Windows 64bit](https://github.com/EdgeTX/edgetx/releases/download/v2.8.0/edgetx-cpn-win64-v2.8.0.zip)
 
->[EdgeTX Companion - Mac OS X](https://github.com/EdgeTX/edgetx/releases/download/v2.7.1/edgetx-cpn-osx-v2.7.1.zip)
+>[EdgeTX Companion - Mac OS X](https://github.com/EdgeTX/edgetx/releases/download/v2.8.0/edgetx-cpn-osx-v2.8.0.zip)
 
->[EdgeTX Companion - Linux](https://github.com/EdgeTX/edgetx/releases/download/v2.7.1/edgetx-cpn-linux-v2.7.1.zip)
+>[EdgeTX Companion - Linux](https://github.com/EdgeTX/edgetx/releases/download/v2.8.0/edgetx-cpn-linux-v2.8.0.zip)
 
-**Looking for EdgeTX in a languge other than english? See the links below:**
+**Looking for EdgeTX in a languge other than english? See the link below:**
 
->[EdgeTX 2.7.1 Multilingual builds](http://files.portabledev.xyz/d/d87fe9040f844253b2b4/)
-
->[EdgeTX 2.7.1 Multilingual builds NOHELI](http://files.portabledev.xyz/d/7e7a668d887d4930a565/)
-
+>[EdgeTX 2.8.0 Multilingual builds](https://github.com/pfeerick/lang-firmwares/releases/tag/release)
