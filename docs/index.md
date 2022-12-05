@@ -4,6 +4,14 @@
 ## What's new ##
 
 
+**November 27th, 2022**
+
+**EdgeTX v2.8.0**
+
+The wait is finally over... v2.8.0 is here, with a refreshed UI, new features and bug fixes.  A big thank-you to everyone who has reported issues, and helped in squashing bugs during the journey to v2.8.0. Check out the release notes to see all the changes: [https://github.com/EdgeTX/edgetx/releases/tag/v2.8.0](https://github.com/EdgeTX/edgetx/releases/tag/v2.8.0 "https://github.com/EdgeTX/edgetx/releases/tag/v2.8.0")
+
+---
+
 **September 10th, 2022**
 
 **EdgeTX Fest 2022 - Thank you for celebrating the 1st year of EdgeTX with us!**
