@@ -28,6 +28,7 @@ The current committee members (and their discord usernames) are:
 - Risto Kõiva (Risto)
 - Richard Li (Richard Li)
 - Phil Eville (EZRipFPV)
+- Malte Langermann (Malte)
 
 ### Structure
 
@@ -37,7 +38,7 @@ One member of the PSC is appointed the Chair, who has additional responsibilitie
 
 ### Terms
 
-Positions in the PSC have a term of 1 year. Terms will expire at the beginning of the calendar year, although committee members should continue to serve until a replacement has been officially voted in. The PSC first term will expire on 30 Dec 2022.
+Positions in the PSC have a term of 1 year. Terms will expire at the beginning of the calendar year, although committee members should continue to serve until a replacement has been officially voted in. The PSC second term will expire on 31 Dec 2023.
 
 ### Committee Member Elections
 
