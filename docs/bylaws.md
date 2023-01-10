@@ -44,7 +44,7 @@ Positions in the PSC have a term of 1 year. Terms will expire at the beginning o
 
 When a vacancy in the PSC is created, any member of the PSC may nominate someone for the PSC. Nominees must indicate acceptance of the nomination to be eligible for election. A self-nomination is treated as already being accepted by the nominee.
 
-Once all nominations for a PSC position have been made, a vote will be taken from the current PSC.  The nominee with the most votes will be added to the PSC. 
+Once all nominations for a PSC position have been made, a vote will be taken from the current PSC.  The nominee with the most votes from the majority of the voting PSC members will be added to the PSC. 
 
 ### PSC Voting Process
 
