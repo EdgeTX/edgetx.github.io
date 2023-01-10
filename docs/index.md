@@ -12,20 +12,19 @@ EdgeTX is governed by a project steering committee (PSC) that meets regularly to
 
 On December 7th of 2022, elections were held in accordance with the project bylaws and as a result, the following people were voted to be the on PSC for 2023:
 
-Raphael Coeffic (pafleraf) - Re-elected
-Robert Janiszewski (JimB40) - Re-elected
-Peter Feerick (pfeerick) - Re-elected
-Risto Kõiva (Risto) – Re-elected
-Richard Li (Richard Li) – Re-elected
-Phil Eville (EZRipFPV) – Re-elected
-Malte Langermann (Malte) – New member
+Raphael Coeffic (pafleraf) - Re-elected  
+Robert Janiszewski (JimB40) - Re-elected  
+Peter Feerick (pfeerick) - Re-elected  
+Risto Kõiva (Risto) – Re-elected  
+Richard Li (Richard Li) – Re-elected  
+Phil Eville (EZRipFPV) – Re-elected  
+Malte Langermann (Malte) – New member  
 
 On the 8th of January 2023, the new PSC met for the first time. During this meeting, Raphael Coeffic was voted to be the Committee Chair for 2023.
 
 The PSC extends a warm welcome to its newest member, Malte Langermann, whose knowledge and experience will be a valuable addition to the PSC and EdgeTX.
 
-See the page below for more information about the EdgeTX PSC and the EdgeTX project bylaws.
-https://edgetx.org/bylaws
+See the [EdgeTX project bylaws](https://edgetx.org/bylaws) page for more information about the EdgeTX PSC.
 
 ---
 
