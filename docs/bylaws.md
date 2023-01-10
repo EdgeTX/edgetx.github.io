@@ -22,7 +22,7 @@ The section that follows describes how the (PSC) is formed and operates to make 
 
 The current committee members (and their discord usernames) are:
 
-- Raphael Coeffic (pafleraf) - Commitee Chair
+- Raphael Coeffic (pafleraf) - Committee Chair
 - Robert Janiszewski (JimB40)
 - Peter Feerick (pfeerick)
 - Risto Kõiva (Risto)
