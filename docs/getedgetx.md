@@ -5,7 +5,7 @@ please review the release notes for the* **[latest EdgeTX release](https://githu
 
 **Want to download the latest EdgeTX release?** 
 
-Follow the instructions in our  [installation guide](https://github.com/EdgeTX/edgetx.github.io/wiki/EdgeTX-Installation-Guide)
+Follow the instructions in our  [installation guide](https://edgetx.gitbook.io/edgetx-user-manual/edgetx-how-to/update-from-opentx-to-edgetx)
 
 **Already know what you are doing? Then follow the links below:**
 
