@@ -29,6 +29,6 @@ Follow the instructions in our  [installation guide](https://edgetx.gitbook.io/e
 
 >[EdgeTX Companion - Linux](https://github.com/EdgeTX/edgetx/releases/download/v2.8.0/edgetx-cpn-linux-v2.8.0.zip)
 
-**Looking for EdgeTX in a languge other than english? See the link below:**
+**Looking for EdgeTX in a language other than english? See the link below:**
 
 >[EdgeTX 2.8.0 Multilingual builds](https://github.com/pfeerick/lang-firmwares/releases/tag/release)
