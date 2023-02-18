@@ -7,6 +7,10 @@ please review the release notes for the* **[latest EdgeTX release](https://githu
 
 Follow the instructions in our  [installation guide](https://edgetx.gitbook.io/edgetx-user-manual/edgetx-how-to/update-from-opentx-to-edgetx)
 
+**Running into an issue with EdgeTX? Take a look at our FAQ.** 
+
+[Frequently Asked Questions](https://edgetx.org/faq)
+
 **Already know what you are doing? Then follow the links below:**
 
 > [EdgeTX Buddy](https://buddy.edgetx.org/) - Online tool for downloading and flashing EdgeTX to your radio, including SD card contents
