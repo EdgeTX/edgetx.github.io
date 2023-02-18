@@ -14,7 +14,7 @@ The most common cause for your radio to go into Emergency mode is when it cannot
 
 **I updated to EdgeTX from OpenTX, but my radio still says “Welcome to OpenTX” when I turn it on. How do I fix that?**
 
-Ensure that you update your sound pack as described in the [Update Instructions.](https://edgetx.gitbook.io/edgetx-user-manual/edgetx-how-to/update-from-opentx-to-edgetx) Make sure that the language folder (**EN** for English language) is in the **Sounds** folder on the SD Card (**SOUNDS**/(**language**)/). Also, ensure that your **voice language** setting in the **Radio Settings** matches the installed sound pack folder. (example: English selected for EN sound pack folder, German selected for DE sound pack folder).
+Ensure that you update your sound pack as described in the [Update Instructions.](https://github.com/EdgeTX/edgetx.github.io/wiki/EdgeTX-Installation-Guide) Make sure that the language folder (**EN** for English language) is in the **Sounds** folder on the SD Card (**SOUNDS**/(**language**)/). Also, ensure that your **voice language** setting in the **Radio Settings** matches the installed sound pack folder. (example: English selected for EN sound pack folder, German selected for DE sound pack folder).
 
 **I do not see any sound files when I create a global/special function for Play Track/BGMusic Why is that?**
 
