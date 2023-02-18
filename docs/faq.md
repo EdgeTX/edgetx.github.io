@@ -10,7 +10,7 @@ See the steps mentioned above. Ensure your radio is powered on when plugging it 
 
 **My radio goes into Emergency mode when I power it on or at random times. Why is that?**
 
-The most common cause for your radio to go into Emergency mode is it cannot properly access the SD card or its contents. This can be caused by a defective SD card, missing SD card files, or a defective SD card port on the radio (rare). In many cases, installing a new, high-quality SD card with fresh SD card contents will fix this issue.
+The most common cause for your radio to go into Emergency mode is when it cannot properly access the SD card or its contents. This can be caused by a defective SD card, missing SD card files, or a defective SD card port on the radio (rare). In many cases, installing a new, high-quality SD card with fresh SD card contents will fix this issue.
 
 **I updated to EdgeTX from OpenTX, but my radio still says “Welcome to OpenTX” when I turn it on. How do I fix that?**
 
@@ -26,7 +26,7 @@ Ensure that the images are placed in the **IMAGES** folder on the SD Card. The i
 
 **Why is my radio so slow when navigating on the Select Model screen?**
 
-This is usually caused by when the model image files are too large. The ideal model image size is 192x114 pixels and the ideal file format is .png
+This is usually caused when the model image files are too large. The ideal model image size is 192x114 pixels and the ideal file format is .png
 
 **Where can I find image files of different RC models to use with my radio?**
 
@@ -68,7 +68,7 @@ A collection of LUA Scripts compatible with EdgetX can be found here: [https://g
 
 **When will EdgeTX work on the TBS Mambo and Tango2?**
 
-Team Blacksheep is developing a version of EdgeTX that will be compatible with the TBS Mambo and Tango2. The EdgeTX team does not know when, if, and when it will be complete. Please get in touch with Team Black Sheep for more information. [https://team-blacksheep.freshdesk.com/support/home](https://team-blacksheep.freshdesk.com/support/home)
+Team Blacksheep is developing a version of EdgeTX that will be compatible with the TBS Mambo and Tango2. The EdgeTX team does not know when it will be complete. Please get in touch with Team Black Sheep for more information. [https://team-blacksheep.freshdesk.com/support/home](https://team-blacksheep.freshdesk.com/support/home)
 
 **Does EdgeTX still have the model wizards?**
 
