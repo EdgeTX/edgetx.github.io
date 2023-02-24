@@ -16,6 +16,12 @@ Some radios require you to press a button when plugging the radio into the compu
 
 The most common cause for your radio to go into Emergency mode is when it cannot properly access the SD card or its contents. This can be caused by a defective SD card, missing SD card files, or a defective SD card port on the radio (rare). In many cases, installing a new, high-quality SD card with fresh SD card contents will fix this issue.
 
+**After flashing EdgeTX on my radio, it has a "No SD Card" error even though the same working SD card is installed. What could be the problem?**
+
+When this error is displayed, the SD card cannot be read. Most of the time, this is due to something physical (slot/contacts). Sometimes the card needs to be correctly re-formatted.
+
+The RadioKing TX18S and early models of the Jumper T18 have a design flaw with the SD card sensor, which results in the radio displaying this error even though an SD card was installed. The manufacturer worked around this issue by creating a custom version of OpenTX that disabled the SD card check in the software. For those radios with this issue, users must use the manufacturer's custom firmware, as EdgeTX will not work.
+
 **I updated to EdgeTX from OpenTX, but my radio still says “Welcome to OpenTX” when I turn it on. How do I fix that?**
 
 Ensure that you update your sound pack as described in the [Update Instructions.](https://github.com/EdgeTX/edgetx.github.io/wiki/EdgeTX-Installation-Guide) Make sure that the language folder (**EN** for English language) is in the **Sounds** folder on the SD Card (**SOUNDS**/(**language**)/). Also, ensure that your **voice language** setting in the **Radio Settings** matches the installed sound pack folder. (example: English selected for EN sound pack folder, German selected for DE sound pack folder).
