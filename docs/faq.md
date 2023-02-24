@@ -8,6 +8,10 @@ Ensure that your USB cable is not defective or only charging capable – if not 
 
 See the steps mentioned above. Ensure your radio is powered on when plugging it in via USB. Also, check that your SD card is installed correctly.
 
+**My radio will not connect to my computer in DFU mode even though I plug it in with it powered off. Why is that?**
+
+Some radios require you to press a button when plugging the radio into the computer to connect in DFU mode. The Jumper T-Pro has the DFU button at the top near the USB port. The Flysky NV18/EL18 have the DFU button concealed down the innermost lanyard holder screw-hole.
+
 **My radio goes into Emergency mode when I power it on or at random times. Why is that?**
 
 The most common cause for your radio to go into Emergency mode is when it cannot properly access the SD card or its contents. This can be caused by a defective SD card, missing SD card files, or a defective SD card port on the radio (rare). In many cases, installing a new, high-quality SD card with fresh SD card contents will fix this issue.
