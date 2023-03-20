@@ -23,6 +23,8 @@ By participating in this program, the R/C radio manufacturers are helping suppor
 **Benefits of the partnership program:**
 
  - EdgeTX Software support for agreed-upon hardware platforms by the EdgeTX team.
+ 
+ - Consulting regarding transmitter hardware and software design.
 
  - Priority bug fixing, new features, and enhancements for agreed-upon hardware platforms.
 
@@ -34,11 +36,15 @@ By participating in this program, the R/C radio manufacturers are helping suppor
 
 **Requirements for manufacturers:**
 
- - Provide a reasonable number of hardware devices as requested by the EdgeTX team, to be used for initial development and testing.
+ - Provide a technical contact person for communication with the EdgeTX Team.
+ 
+ - Provide a sales or marketing contact person for communication with the EdgeTX Team.
+ 
+ - Provide schematics, and other technical information for the EdgeTX-supported hardware to the PSC (not to be shared with others, including other partners).
+ 
+ - Provide a reasonable number of hardware devices, as requested by the EdgeTX team, to be used for initial development and testing.
 
  - Provide a monthly or annual donation (amount to be agreed upon with the EdgeTX team) to help defray the cost of the online build systems, events, and other administrative expenses (to be used at the sole discretion of the EdgeTX team).
-
- - Provide technical information regarding desired supported platforms as requested by the EdgeTX team.
 
 **Additional  important information:**
 
