@@ -3,7 +3,13 @@
 
 **What is  EdgeTX?**
 
-EdgeTX is the cutting edge of OpenTX. It is the place where innovative ideas and cutting-edge features are developed and field-tested by the enthusiasts of our hobby.
+EdgeTX is an open-source firmware for remote control transmitters used in hobbyist RC (radio-controlled) flying and other activities. It is highly customizable, allowing users to configure their transmitters and adjust settings to suit their individual preferences and specific needs.
+
+EdgeTX supports a wide range of RC protocols and can be used with a variety of different transmitters, making it a popular choice among the RC community. Its flexible and powerful features make it a versatile tool for advanced users who want to take their RC activities to the next level.
+
+The EdgeTX project was started on May 6, 2021, as a fork of OpenTX (another open-source radio controller firmware) to create a more optimized, touch-enabled user interface. EdgeTX offers many of the same features as OpenTX. However, it also includes some unique features and improvements over OpenTX, such as a touch-friendly user interface, improved support for Lua scripting, easier integration with third-party hardware, a rapid development cycle, and many other enhancements.
+
+Overall, EdgeTX aims to provide a more user-friendly and streamlined experience for hobbyist RC enthusiasts who want a powerful and customizable firmware for their transmitters. 
 
 **Who is the EdgeTX team?**
 
