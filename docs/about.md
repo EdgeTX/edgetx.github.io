@@ -15,9 +15,9 @@ Overall, EdgeTX aims to provide a more user-friendly and streamlined experience 
 
 EdgeTX is a community project – ideas from the community, developed by the community, and enjoyed by the community! The devs for EdgeTX are not the only ones with good ideas. The everyday users understand which features we need to make the software better and which features need to be changed. We need your feedback and ideas to make EdgeTX an awesome user experience.
 
-Join our community - **[Discord!](https://github.com/EdgeTX/edgetx.github.io/wiki/Community-Guidlines)** or **[Facebook](https://www.facebook.com/groups/edgetx)**
+Join our community - **[Discord!](https://github.com/EdgeTX/edgetx.github.io/wiki/Community-Guidlines)** or **[Facebook](https://www.facebook.com/groups/edgetx)**  or **[RCGroups.com] (https://www.rcgroups.com/forums/showthread.php?3916381-Official-EdgeTX-Discussion-Thread)**
 
-[![Discord](https://img.shields.io/discord/839849772864503828.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://github.com/EdgeTX/edgetx.github.io/wiki/Community-Guidlines) or **[RCGroups.com] (https://www.rcgroups.com/forums/showthread.php?3916381-Official-EdgeTX-Discussion-Thread)
+[![Discord](https://img.shields.io/discord/839849772864503828.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://github.com/EdgeTX/edgetx.github.io/wiki/Community-Guidlines)
 
 **Project Management**
 
