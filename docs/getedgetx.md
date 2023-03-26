@@ -15,8 +15,6 @@ Follow the instructions in our  [installation guide](https://edgetx.gitbook.io/e
 
 > [EdgeTX Buddy](https://buddy.edgetx.org/) - Online tool for downloading and flashing EdgeTX to your radio, including SD card contents
 
-> [EdgeTX Flasher](https://github.com/EdgeTX/flasher/releases) - Tool for downloading and flashing EdgeTX to your radio, including SD card contents - requires installation
-
 > [EdgeTX Firmware direct download](https://github.com/EdgeTX/edgetx/releases/download/v2.8.0/edgetx-firmware-v2.8.0.zip)
 
 > [SD Card Downloads](https://github.com/EdgeTX/edgetx-sdcard/releases)
