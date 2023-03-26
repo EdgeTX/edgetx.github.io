@@ -5,10 +5,8 @@
 ## Official EdgeTX Partners
 
 <p align="center">
-<a href="https://www.flysky-cn.com/" target="_blank"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/FlySkyLogo.png?raw=true" align="center" width="497"></a>
-</P>
-<p align="center">
-<a href="https://www.radiomasterrc.com/" target="_blank"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/RadioMasterLogo.png?raw=true" align="center" width="497"></a>
+<a href="https://www.flysky-cn.com/" target="_blank"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/FlySkyLogo.png?raw=true" align="center" width="330"></a>
+<a href="https://www.radiomasterrc.com/" target="_blank"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/RadioMasterLogo.png?raw=true" align="center" width="330"></a><a href="https://www.jumper-rc.com/" target="_blank"><img src="https://github.com/EdgeTX/edgetx.github.io/blob/master/images/Jumper.png?raw=true" align="center" width="330"></a>
 </P>
 
  <p>&nbsp;</p> 
