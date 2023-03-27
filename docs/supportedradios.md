@@ -2,9 +2,8 @@
 
 **Officially Supported Radios** 
 
-The development and support for EdgeTX is conducted by the EdgeTX core development team and included in the main EdgeTX codebase.
+The development and support for EdgeTX is conducted by the EdgeTX core development team with the support of developers from the community. Firmware for these radios is included in the main EdgeTX codebase.
 
-* Eachine TX16S (since v2.4)
 * Flysky NV14 (since v2.5)
 * Flysky EL18 (since v2.8)
 * Jumper T-Lite (since v2.4)
@@ -13,7 +12,7 @@ The development and support for EdgeTX is conducted by the EdgeTX core developme
 * Jumper T-16 / T16 Plus / T16 Pro Hall (since v2.4)
 * Jumper T-18 / T18 Lite / T18 Pro (since v2.4)
 * RadioMaster Boxer (since v2.8.1)
-* RadioMaster T8 / T8 Pro (since v2.4)
+* RadioMaster T8 Pro (since v2.4)
 * RadioMaster TX12 / TX12 Mark II (since v2.4)
 * RadioMaster TX16S / RadioMaster TX16S MAX / RadioMaster TX16S Mark II (since v2.4)
 * RadioMaster Zorro (since v2.6)
@@ -22,7 +21,7 @@ The development and support for EdgeTX is conducted by the EdgeTX core developme
 
 **Manufacturer Supported**
  
-The development and support for EdgeTX is conducted by the hardware manufacturers themselves. All changes that are made are then submitted for inclusion into the main EdgeTX codebase.
+The development and support for EdgeTX is conducted by the hardware manufacturers themselves. All changes made by the manufacturer are then submitted for review and inclusion into the main EdgeTX codebase.
 
 * iFlight Commando8 (since v2.8)
 * BetaFPV LiteRadio3 Pro (since v2.8)
@@ -31,8 +30,9 @@ The development and support for EdgeTX is conducted by the hardware manufacturer
 
 **Community supported**
 
-The development and support for EdgeTX is conducted by other interested 3rd parties from the community. All changes that are made are then submitted for inclusion into the main EdgeTX codebase.
+The development and support for EdgeTX is conducted by other interested 3rd parties from the community. Changes can be proposed as pull-requests to be considered for inclusion into the main EdgeTX codebase.
 
+* Eachine TX16S (since v2.4)
 * FrSky QX7 / QX7S / QX7 ACCESS / QX7S ACCESS (since v2.4)
 * FrSky X9 Lite / X9 Lite S (since v2.4)
 * FrSky X9D / X9D+ / X9D+ SE (since v2.4)
