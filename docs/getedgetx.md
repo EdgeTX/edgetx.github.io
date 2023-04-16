@@ -1,11 +1,13 @@
 ## Get EdgeTX
 
-*To see the list of improvements as well as limitations of EdgeTX,  
-please review the release notes for the* **[latest EdgeTX release](https://github.com/EdgeTX/edgetx/releases/latest).**
+**Are you interested in installing EdgeTX on your radio? Check to see if your radio is supported on our [supported radios](https://edgetx.org/supportedradios) page.**
 
-**Want to download the latest EdgeTX release?** 
+**Ready to install EdgeTX?** 
 
 Follow the instructions in our  [installation guide](https://edgetx.gitbook.io/edgetx-user-manual/edgetx-how-to/update-from-opentx-to-edgetx)
+
+*To see the list of improvements as well as limitations of EdgeTX,  
+please review the release notes for the* **[latest EdgeTX release](https://github.com/EdgeTX/edgetx/releases/latest).**
 
 **Running into an issue with EdgeTX? Take a look at our FAQ.** 
 
