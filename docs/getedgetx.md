@@ -31,7 +31,7 @@ please review the release notes for the* **[latest EdgeTX release](https://githu
 
 >[EdgeTX Companion - Mac OS X](https://github.com/EdgeTX/edgetx/releases/download/v2.8.4/edgetx-cpn-osx-v2.8.4.zip)
 
->[EdgeTX Companion - Linux](https://github.com/EdgeTX/edgetx/releases/download/v2.8.3/edgetx-cpn-linux-v2.8.3.zip)
+>[EdgeTX Companion - Linux](https://github.com/EdgeTX/edgetx/releases/download/v2.8.4/edgetx-cpn-linux-v2.8.4.zip)
 
 **Looking for EdgeTX in a language other than english? See the link below:**
 
