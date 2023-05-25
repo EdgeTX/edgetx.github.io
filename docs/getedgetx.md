@@ -35,4 +35,4 @@ please review the release notes for the* **[latest EdgeTX release](https://githu
 
 **Looking for EdgeTX in a language other than english? See the link below:**
 
->[EdgeTX 2.8.3 Multilingual builds](https://github.com/pfeerick/lang-firmwares/releases/tag/v2.8.4)
+>[EdgeTX 2.8.4 Multilingual builds](https://github.com/pfeerick/lang-firmwares/releases/tag/v2.8.4)
