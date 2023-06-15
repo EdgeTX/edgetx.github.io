@@ -12,7 +12,7 @@ We are currently searching for a great location in central Europe to host this s
 
 Our target timeframe for this memorable occasion is the first half of September.  To ensure convenience for everyone, we prefer a location within a 500km radius of Erfurt, Germany. Rest assured, all expenses associated with the event will be covered by the EdgeTX Team. We are also open to collaborating with your club's planned event, adding an extra layer of excitement to the festivities.
 
-If you are interested or would like some more details, please visit the event page at: https://edgetx.org/fest2023. Let's come together and make this event truly special!
+If If you are interested or would like some more details, please visit the event page at: [https://edgetx.org/fest2023](https://edgetx.org/fest2023). Let's come together and make this event truly special!
 
 ---
 
