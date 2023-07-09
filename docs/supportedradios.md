@@ -7,10 +7,12 @@ The development and support for EdgeTX is conducted by the EdgeTX core developme
 * Flysky NV14 (since v2.5)
 * Flysky EL18 (since v2.8)
 * Jumper T-Lite (since v2.4)
+* Jumper T-Lite v2 (Planned 2.10 for full support)* [Current firmware available here.](https://github.com/EdgeTX/edgetx.github.io/blob/master/downloads/TPROV2-PROD-09-07-23.bin)
 * Jumper T-Pro (since v2.6)
 * Jumper T-12 / T12 Plus / T12 Pro Hall (since v2.4)
 * Jumper T-16 / T16 Plus / T16 Pro Hall (since v2.4)
 * Jumper T-18 / T18 Lite / T18 Pro (since v2.4)
+* Jumper T-20 (Planned 2.10 for full support)* [Current firmware available here.](https://github.com/EdgeTX/edgetx.github.io/blob/master/downloads/T20-PROD-09-07-23.bin)
 * RadioMaster Boxer (since v2.8.1)
 * RadioMaster T8 Pro (since v2.4)
 * RadioMaster TX12 / TX12 Mark II (since v2.4)
@@ -43,3 +45,4 @@ The development and support for EdgeTX is conducted by other interested 3rd part
 * FrSky X-Lite / X-Lite S / X-Lite Pro (since v2.4)
 
 ---
+***Note**: To better support the manufacturers' release timelines, the manufacturers' can release an EdgeTX-supported radio with a "ready for manufacture" version of EdgeTX that has been developed in collaboration with the EdgeTX team that has not yet been merged into the main codebase. As a result, this firmware will not be available in EdgeTX Buddy or EdgeTX Companion until the next minor EdgeTX release. 
