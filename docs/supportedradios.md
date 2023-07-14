@@ -1,6 +1,5 @@
-## Supported Radios
 
-**Officially Supported Radios** 
+###Officially Supported Radios
 
 The development and support for EdgeTX is conducted by the EdgeTX core development team with the support of developers from the community. Firmware for these radios is included in the main EdgeTX codebase.
 
@@ -21,7 +20,7 @@ The development and support for EdgeTX is conducted by the EdgeTX core developme
 
 ---
 
-**Manufacturer Supported**
+###Manufacturer Supported
  
 The development and support for EdgeTX is conducted by the hardware manufacturers themselves. All changes made by the manufacturer are then submitted for review and inclusion into the main EdgeTX codebase.
 
@@ -30,7 +29,7 @@ The development and support for EdgeTX is conducted by the hardware manufacturer
 
 ---
 
-**Community supported**
+###Community Supported
 
 The development and support for EdgeTX is conducted by other interested 3rd parties from the community. Changes can be proposed as pull-requests to be considered for inclusion into the main EdgeTX codebase.
 

@@ -1,0 +1,63 @@
+site_name: EdgeTX
+repo_url: https://github.com/EdgeTX/edgetx
+repo_name: EdgeTX/edgetx
+
+
+# Copyright
+copyright: Copyright &copy; 2021-2023 EdgeTX
+
+nav:
+    - For Users:
+        - Welcome to EdgeTX!: index.md
+        - Get EdgeTX: getedgetx.md 
+        - Check Supported Radios: supportedradios.md 
+        - User Guide: https://edgetx.gitbook.io/edgetx-user-manual/
+        - FAQ: faq.md
+        - About EdgeTX: about.md
+        - Project Bylaws: bylaws.md
+    - For Developers: devinfo.md 
+    - For Manufacturers: 
+        - EdgeTX on your radio: edgetxsupport.md
+        - Hardware requirements for EdgeTX: Radio-hardware-specifications-for-EdgeTX.md
+        - Partnership Program: partnershipprogram.md
+    - Fest 2023:
+        - Fest 2023: fest2023.md
+theme:
+  name: material
+  custom_dir: overrides
+  logo: assets/logo.png
+  palette:
+    primary: custom
+  features:
+    - announce.dismiss
+    - navigation.instant
+    - navigation.tabs
+    - navigation.indexes
+    - search.highlight
+    - search.suggest
+    - toc.follow
+   
+extra_css:
+  - stylesheets/extra.css
+  
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/wF9wUKnZ6H
+      name: Connect with us on Discord
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/groups/edgetx
+      name: Join the Facebook group
+    - icon: fontawesome/solid/globe
+      link: https://www.rcgroups.com/forums/showthread.php?3916381-Official-EdgeTX-Discussion-Thread
+      name: Follow the EdgeTX thread on RCGroups.com
+    - icon: fontawesome/solid/hand-holding-dollar
+      link: https://opencollective.com/edgetx
+      name: Make a donation
+markdown_extensions:
+  - toc:
+      permalink: true
+     
+ 
+
+   
