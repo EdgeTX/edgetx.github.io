@@ -2,7 +2,7 @@ name: NewSite
 on:
   push:
     branches:
-      - master
+      - Site2.0
 permissions:
   contents: write
 jobs:
