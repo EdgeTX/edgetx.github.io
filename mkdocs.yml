@@ -9,11 +9,11 @@ copyright: Copyright &copy; 2021-2023 EdgeTX
 nav:
     - For Users:
         - Welcome to EdgeTX!: index.md
+        - About EdgeTX: about.md
         - Get EdgeTX: getedgetx.md 
         - Check Supported Radios: supportedradios.md 
         - User Guide: https://edgetx.gitbook.io/edgetx-user-manual/
         - FAQ: faq.md
-        - About EdgeTX: about.md
         - Project Bylaws: bylaws.md
     - For Developers: devinfo.md 
     - For Manufacturers: 

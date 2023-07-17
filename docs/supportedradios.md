@@ -1,4 +1,6 @@
 
+Below is a list of EdgeTX compatable radios and there level of support.
+
 ###Officially Supported Radios
 
 The development and support for EdgeTX is conducted by the EdgeTX core development team with the support of developers from the community. Firmware for these radios is included in the main EdgeTX codebase.
