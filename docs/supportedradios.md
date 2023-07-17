@@ -1,14 +1,16 @@
-## Supported Radios
 
-**Officially Supported Radios** 
+Below is a list of EdgeTX compatable radios and there level of support.
+
+###Officially Supported Radios
 
 The development and support for EdgeTX is conducted by the EdgeTX core development team with the support of developers from the community. Firmware for these radios is included in the main EdgeTX codebase.
 
 * Flysky NV14 (since v2.5)
 * Flysky EL18 (since v2.8)
 * Jumper T-Lite (since v2.4)
+* Jumper T-Lite v2 (Planned v2.9)
 * Jumper T-Pro (since v2.6)
-* Jumper T-Pro v2 (Planned 2.9 for full support)* [Current firmware available here.](https://github.com/EdgeTX/edgetx.github.io/blob/master/downloads/TPROV2-PROD-09-07-23.bin)
+* Jumper T-Pro v2 (Planned 2.10 for full support)* [Current firmware available here.](https://github.com/EdgeTX/edgetx.github.io/blob/master/downloads/TPROV2-PROD-09-07-23.bin)
 * Jumper T-12 / T12 Plus / T12 Pro Hall (since v2.4)
 * Jumper T-16 / T16 Plus / T16 Pro Hall (since v2.4)
 * Jumper T-18 / T18 Lite / T18 Pro (since v2.4)
@@ -21,7 +23,7 @@ The development and support for EdgeTX is conducted by the EdgeTX core developme
 
 ---
 
-**Manufacturer Supported**
+###Manufacturer Supported
  
 The development and support for EdgeTX is conducted by the hardware manufacturers themselves. All changes made by the manufacturer are then submitted for review and inclusion into the main EdgeTX codebase.
 
@@ -30,7 +32,7 @@ The development and support for EdgeTX is conducted by the hardware manufacturer
 
 ---
 
-**Community supported**
+###Community Supported
 
 The development and support for EdgeTX is conducted by other interested 3rd parties from the community. Changes can be proposed as pull-requests to be considered for inclusion into the main EdgeTX codebase.
 

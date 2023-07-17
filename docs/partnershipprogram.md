@@ -1,4 +1,7 @@
-
+---
+hide:
+  - toc
+---
 
 <p></p> 
 
@@ -60,5 +63,5 @@ The EdgeTX team will do its best to provide high-quality, stable software for us
 
 Either party may choose to end their collaboration in the partnership program at any time by notifying the other partner. 
 
-If you are interested in participating in the Partnership program, please contact a member of the [EdgeTX project steering committee](https://edgetx.org/bylaws) for more information (all project steering committee members can be reached via [EdgeTX Discord](https://discord.gg/wF9wUKnZ6H)).
+If you are interested in participating in the Partnership program, please contact the EdgeTX project steering committee either on [Discord](https://discord.gg/wF9wUKnZ6H) or via email at: psc@edgetx.org for more information.
 

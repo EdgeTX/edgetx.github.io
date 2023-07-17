@@ -1,5 +1,3 @@
-## About EdgeTX
-
 
 ### What is EdgeTX?
 
@@ -25,15 +23,15 @@ The EdgeTX Project Steering Committee (PSC) is the official governing body of th
 
 The current committee members (and their discord usernames) are:
 
-Raphael Coeffic (pafleraf) - Committee Chair
-Robert Janiszewski (JimB40)
-Peter Feerick (pfeerick)
-Risto Kõiva (Risto)
-Richard Li (Richard Li)
-Phil Eville (EZRipFPV)
-Malte Langermann (Malte)
+- Raphael Coeffic (pafleraf) - Committee Chair
+- Robert Janiszewski (JimB40)
+- Peter Feerick (pfeerick)
+- Risto Kõiva (Risto)
+- Richard Li (Richard Li)
+- Phil Eville (EZRipFPV)
+- Malte Langermann (Malte)
 
-For more information about how the EdgeTX project is managed, see our [project bylaws page.](https://edgetx.org/bylaws)
+For more information about how the EdgeTX project is managed, see our [project bylaws page.](bylaws.md)
 
 ### Donations
 
@@ -45,5 +43,6 @@ You can also contribute to EdgeTX in other ways. We need developers as well as e
 
 ### Have questions?
 
-Review our [FAQ.](https://github.com/EdgeTX/edgetx.github.io/wiki/Frequently-Asked-Questions)
+Feel free to contact the EdgeTX project steering committee either on [Discord](https://discord.gg/wF9wUKnZ6H) or via email at: psc@edgetx.org 
+
 
