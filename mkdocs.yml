@@ -35,6 +35,7 @@ theme:
     - search.highlight
     - search.suggest
     - toc.follow
+    - navigation.top
    
 extra_css:
   - stylesheets/extra.css
