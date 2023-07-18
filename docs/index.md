@@ -3,9 +3,6 @@ hide:
   - toc
 ---
 
-<p align="center">
-<a><img src="assets/edgehog.png" align="center" width="300"></a>
-</P>
 
 ## What's new ##
 
