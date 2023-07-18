@@ -2,6 +2,21 @@
 ## What's new ##
 
 
+**July 18th, 2023**
+
+**EdgeTX Fest 2023**
+
+Join us on September 9th & 10th, 2023, for the EdgeTX Fest. We will celebrate the 2nd year of EdgeTX and the 50th year of our gracious hosts, the Heideflieger Hövelhof e.V Model Flight Club in Hövelhof, Germany. More information at:
+ https://edgetx.org/fest2023](https://edgetx.org/fest2023)
+<p></p> 
+<p align="center">
+<a><img src="/assets/fest2023_web.png?raw=true" align="center" width="350
+"></a>
+</P>
+
+---
+
+
 **July 7, 2023**
 
 **EdgeTX 2.9 RC1 has been released!**
