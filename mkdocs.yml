@@ -24,7 +24,7 @@ nav:
 theme:
   name: material
   custom_dir: overrides
-  logo: assets/logo.png
+  logo: assets/logo_old.png
   palette:
     primary: custom
   features:
