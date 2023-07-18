@@ -16,7 +16,7 @@ Join us on September 9th & 10th, 2023, for the EdgeTX Fest. We will celebrate th
  
 <p></p> 
 <p align="center">
-<a><img src="/assets/fest2023_web.png?raw=true" align="center" width="350
+<a><img src="/assets/fest2023_web.jpg?raw=true" align="center" width="350
 "></a>
 </P>
 
