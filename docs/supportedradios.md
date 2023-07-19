@@ -1,5 +1,5 @@
 
-Below is a list of EdgeTX compatable radios and there level of support.
+Below is a list of EdgeTX-compatible radios and their level of support.
 
 ###Officially Supported Radios
 
