@@ -2,6 +2,33 @@
 ## What's new ##
 
 
+**July 21, 2023**
+
+**Introducing Eddie the EdgeHog!**
+
+
+As we celebrate the start of the 3rd year of the EdgeTX, we are thrilled to unveil the brand-new EdgeTX logo and our new mascot, Eddie the EdgeHog! This fresh, captivating design represents a significant milestone in our journey towards open-source excellence in the world of Radio Control transmitters.
+
+<a><img src="/assets/edgehog.png?raw=true" align="center" width="400"></a>
+
+**🦔 Meet Eddie, Your Trusty Companion 🦔**
+
+Eddie the EdgeHog embodies the spirit of EdgeTX, combining cutting-edge technology and a playful, adventurous personality. With his sharp intellect and fearless attitude, Eddie is the perfect symbol for our ever-evolving open-source firmware that powers an incredible array of RC transmitters.
+
+**🎉 A New Era Begins 🎉**
+
+As we enter the third year of the EdgeTX project, we want to extend our heartfelt gratitude to the entire community. Your passion, feedback, and continuous support have fueled our progress, inspiring us to reach new heights. Together, we've built a thriving ecosystem that empowers RC enthusiasts worldwide.
+
+Additionally, we want to take a moment to express our heartfelt gratitude to the brilliant mind behind the stunning new Eddie the EdgeHog logo - Martin Hotar! Martin's exceptional talent, creativity, and dedication have brought Eddie to life in a way that exceeded all our expectations.
+
+Stay tuned for more exciting updates, feature enhancements, and collaborative events as we embark on this new chapter with Eddie by our side!
+
+Thank you all for being a part of EdgeTX.
+
+Happy Flying!
+
+---
+
 **July 18th, 2023**
 
 **EdgeTX Fest 2023**
