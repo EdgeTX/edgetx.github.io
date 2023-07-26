@@ -2,17 +2,35 @@
 ## What's new ##
 
 
-**July 18th, 2023**
+**July 26, 2023**
 
-**EdgeTX Fest 2023**
+**Unveiling our new logo!**
 
-Join us on September 9th & 10th, 2023, for the EdgeTX Fest. We will celebrate the 2nd year of EdgeTX and the 50th year of our gracious hosts, the Heideflieger Hövelhof e.V Model Flight Club in Hövelhof, Germany. More information at:
- [https://edgetx.org/fest2023](https://edgetx.org/fest2023)
-<p></p> 
+As we celebrate the start of the 3rd year of the EdgeTX, we are thrilled to unveil the brand-new EdgeTX logo and our new mascot, Eddie the Edgehog! This fresh, captivating design represents a significant milestone in our journey towards open-source excellence in the world of Radio Control transmitters.
+
 <p align="center">
-<a><img src="/assets/fest2023_web.jpg?raw=true" align="center" width="350
-"></a>
+<a><img src="/assets/logo.png?raw=true" align="center" width="250"></a>
 </P>
+
+**🦔 Meet Eddie, Your Trusty Companion 🦔**
+
+Eddie the Edgehog embodies the spirit of EdgeTX, combining cutting-edge technology and a playful, adventurous personality. With his sharp intellect and fearless attitude, Eddie is the perfect symbol for our ever-evolving open-source firmware that powers an incredible array of RC transmitters.
+
+<p align="center">
+<a><img src="/assets/edgehog.png?raw=true" align="center" width="400"></a>
+</P>
+
+**🎉 A New Era Begins 🎉**
+
+As we enter the third year of EdgeTX, we want to extend our heartfelt gratitude to the entire community. Your passion, feedback, and continuous support have fueled our progress, inspiring us to reach new heights. Together, we've built a thriving ecosystem that empowers RC enthusiasts worldwide.
+
+Additionally, we want to take a moment to express our heartfelt gratitude to the brilliant mind behind the stunning new logo and mascot - Martin Hotar! Martin's exceptional talent, creativity, and dedication have brought Eddie to life in a way that exceeded all our expectations.
+
+Stay tuned for more exciting updates, feature enhancements, and collaborative events as we embark on this new chapter with Eddie by our side!
+
+Thank you all for being a part of EdgeTX.
+
+Happy Flying!
 
 ---
 

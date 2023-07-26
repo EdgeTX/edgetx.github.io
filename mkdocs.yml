@@ -15,6 +15,7 @@ nav:
         - User Guide: https://edgetx.gitbook.io/edgetx-user-manual/
         - FAQ: faq.md
         - Project Bylaws: bylaws.md
+        - Using EdgeTX Logos: logos.md
     - For Developers: devinfo.md 
     - For Manufacturers: 
         - EdgeTX on your radio: edgetxsupport.md
@@ -24,7 +25,8 @@ nav:
 theme:
   name: material
   custom_dir: overrides
-  logo: assets/logo_old.png
+  logo: assets/logo.png
+  favicon: assets/logo.png
   palette:
     primary: custom
   features:
