@@ -18,7 +18,9 @@ You are permitted to use the above-mentioned Logos for private use only. Such us
 
 Logos are available to download for use here: 
 
-[EdgeTX logos in .svg format](https://github.com/EdgeTX/edgetx.github.io/blob/master/downloads/EdgeTX_Logos_svg.zip)
+[EdgeTX logos in .svg (Vector) format](https://github.com/EdgeTX/edgetx.github.io/blob/master/downloads/EdgeTX_logos_svg.zip)
+
+[EdgeTX logos in .png (Raster)format](https://github.com/EdgeTX/edgetx.github.io/blob/master/downloads/EdgeTX_logos_png.zip)
 
 
 ### Prohibited Use:
