@@ -7,7 +7,7 @@ hide:
 <a><img src="/assets/logos.png?raw=true" align="center" width="400"></a>
 </P>
 
-The EdgeTX text logo, star logo, and mascot logo - "Eddie the Edgehog" (in variations described below) are protected by copyright laws and international treaty provisions. Unauthorized reproduction or distribution of these Logos or any portion thereof may result in severe civil and criminal penalties and will be prosecuted to the maximum extent possible under the law.
+The EdgeTX star logo, text logo, and mascot logo - "Eddie the Edgehog" (in variations described below) are protected by copyright laws and international treaty provisions. Unauthorized reproduction or distribution of these Logos or any portion thereof may result in severe civil and criminal penalties and will be prosecuted to the maximum extent possible under the law.
 
 ### Permitted Use:
 You are permitted to use the above-mentioned Logos for private use only. Such use is subject to the following conditions:
@@ -16,7 +16,10 @@ You are permitted to use the above-mentioned Logos for private use only. Such us
 
 2. The Logo may not be used in a manner that could create confusion, mislead consumers, or imply endorsement or sponsorship without prior written permission.
 
-Logos are available to download for use here: [Insert Link]
+Logos are available to download for use here: 
+
+[EdgeTX logos in .svg format](https://github.com/EdgeTX/edgetx.github.io/blob/master/downloads/EdgeTX_Logos_svg.zip)
+
 
 ### Prohibited Use:
 Any use of the Logos not expressly permitted in this statement is strictly prohibited, including but not limited to:
