@@ -13,18 +13,20 @@ For small changes (spelling errors or re-phrasing cetain blocks of text) you can
 
 For bigger changes (new pages, core website changes)
 
-1. Create a fork of the edgetx.github.io repository to your private Github account.
-2. Deploy your fork via github pages (this will allow us later to preview your proposed changes online). https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+1. Create a fork of the edgetx.github.io repository to your private Github account. Rename your repository to **(username).github.io**.
+2. Deploy your fork via github pages (this will allow us later to preview your proposed changes online). https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site.
+  
+   **Note:** Make sure that you update the **Name:** tag in the **CI.yml** file in the **.github/workflows** folder to your repository name. Also, select the **gh-pages** branch and **root** folder location for deployent location (the gh-pages branch will only be visible after updating the **CI.yml** file and the rebuild action is complete) .
 
    ***---Recommended---***
-4. Install MKDocs material on your local computer. https://squidfunk.github.io/mkdocs-material/getting-started
-5. Clone your forked repository locally to your computer.
+5. Install MKDocs material on your local computer. https://squidfunk.github.io/mkdocs-material/getting-started
+6. Clone your forked repository locally to your computer.
 
    ***The two steps above will allow you to make changes to the website and see the changes immediately on your local machine.***
 
-6. Make the proposed changes and push the changes to your forked repo online.
-7. Create a pull request (PR) for the Master repository, describing the changes and including a link to your deployed forked page.
-8. Once the PR is accepted, it will be merged to the Master branch and deployed.
+7. Make the proposed changes and push the changes to your forked repo online.
+8. Create a pull request (PR) for the Master repository, describing the changes and including a link to your deployed forked page.
+9. Once the PR is accepted, it will be merged to the Master branch and deployed.
 
 ## File Directory Structure
 /edgetx.github.io/mkdocs.yml  = MK docs configuration file (https://squidfunk.github.io/mkdocs-material/setup/)
