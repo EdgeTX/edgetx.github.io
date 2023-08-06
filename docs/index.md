@@ -7,6 +7,7 @@ hide:
 ## What's new ##
 
 **August 8th, 2023**
+
 **New Releases: EdgeTX V2.8.5 & V2.9.0 RC2 now available for download!**
 
 We're thrilled to announce the availability of the latest updates for EdgeTX!
