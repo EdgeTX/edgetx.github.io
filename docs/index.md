@@ -6,6 +6,25 @@ hide:
 
 ## What's new ##
 
+**August 8th, 2023**
+**New Releases: EdgeTX V2.8.5 & V2.9.0 RC2 now available for download!**
+
+We're thrilled to announce the availability of the latest updates for EdgeTX!
+
+**EdgeTX v2.8.5:** This release is here with significant enhancements. It addresses two issues that were identified during the preparation of the v2.9.0 release candidate. These issues also impact earlier versions of ETX. Moreover, this update brings several quality-of-life improvements that streamline your experience. Explore the comprehensive list of changes in the release notes. [Link to Release Notes](https://github.com/EdgeTX/edgetx/releases/tag/v2.8.5)
+
+**EdgeTX v2.9.0 rc2:** We're also excited to introduce EdgeTX v2.9.0 rc2, available for testing. This iteration not only includes the aforementioned fixes but also integrates additional solutions for a smoother performance. Dive into the release notes for a detailed overview of all the enhancements. [Link to Release Notes](https://github.com/EdgeTX/edgetx/releases/tag/v2.9.0-rc2)
+
+**Attention Radio Users:** If your radio is equipped with different internal RF types, such as MPM or ELRS, we strongly recommend upgrading promptly. This update significantly minimizes the risk of emergency mode (EM) activation and enhances the chances of a successful recovery in case of an EM incident.
+
+**Pre-Update Checklist:** Before you initiate the update, ensure you safeguard your current settings by backing them up. For your peace of mind, bench test the updated version to verify that all functionalities remain intact. This precautionary step ensures a seamless transition from testing to field usage.
+
+We want to extend our heartfelt gratitude to the dedicated community members who reported issues, contributed to debugging, tested fixes, and contributed code. Your involvement continues to drive EdgeTX's evolution.
+
+Lastly, please note that while the main branch and nightlies are currently considered somewhat unstable, the team is steadfastly working to enhance their stability over time. Stay tuned for more improvements on this front.
+
+---
+
 **July 26, 2023**
 
 **Unveiling our new logo!**
