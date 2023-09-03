@@ -10,9 +10,7 @@ hide:
 
 **The release of EdgeTX v2.9.0 is here!**
 
-We are happy to announce the release of EdgeTX v2.9.0! This release of EdgeTX brings many improvements to the graphical user interface and some cool new features. Check out the release notes to see all the changes:
-
-Release Notes: (https://github.com/EdgeTX/edgetx/releases/tag/v2.9.0)
+We are happy to announce the release of EdgeTX v2.9.0! This release of EdgeTX brings many improvements to the graphical user interface and some cool new features. Check out the [release notes](https://github.com/EdgeTX/edgetx/releases/tag/v2.9.0) to see all the changes.
 
 Before you update please remember to backup your settings, and bench test to ensure everything still works properly before taking it out to the field.
 A big thank you to everyone who has been involved in testing the RCs, testing fixes, and generally keeping the wheels moving these last few weeks.
