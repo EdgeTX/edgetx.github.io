@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 <p align="center">
-<a><img src="/assets/main_alt.png?raw=true" align="center" width="850"></a>
+<a><img src="/assets/main.png?raw=true" align="center" width="850"></a>
 </P>
 
 **EdgeTX is the ultimate open-source RC transmitter firmware for RC enthusiasts.** 
