@@ -3,7 +3,9 @@ hide:
   - toc
 ---
 
-Welcome to EdgeTX, the ultimate open-source RC transmitter firmware for RC enthusiasts. Customize your remote control transmitter to match your unique preferences and needs with our highly adaptable platform. Supporting a wide range of RC protocols and compatible with various transmitters, EdgeTX is the go-to choice in the RC community. Join our passionate [community](https://edgetx.org/about/#community) to help shape the future of RC control systems. 
+**Welcome to EdgeTX, the ultimate open-source RC transmitter firmware for RC enthusiasts.** 
+
+Customize your remote control transmitter to match your unique preferences and needs with our highly adaptable platform. Supporting a wide range of RC protocols and compatible with various transmitters, EdgeTX is the go-to choice in the RC community. Join our passionate [community](https://edgetx.org/about/#community) to help shape the future of RC control systems. 
 
 For more information about EdgeTX, check out the [About EdgeTX page](https://edgetx.org/about/).
 
@@ -76,46 +78,5 @@ Thank you all for being a part of EdgeTX.
 Happy Flying!
 
 ---
-
-**July 18th, 2023**
-
-**EdgeTX Fest 2023**
-
-Join us on September 9th & 10th, 2023, for the EdgeTX Fest. We will celebrate the 2nd year of EdgeTX and the 50th year of our gracious hosts, the Heideflieger Hövelhof e.V Model Flight Club in Hövelhof, Germany. More information at:
- [https://edgetx.org/fest2023](https://edgetx.org/fest2023)
- 
-<p></p> 
-<p align="center">
-<a><img src="/assets/poster.jpg?raw=true" align="center" width="350
-"></a>
-</P>
-
----
-
-
-**July 7, 2023**
-
-**EdgeTX 2.9 RC1 has been released!**
-
-The first release candidate for EdgeTX v2.9.0 has been released for testing. Please read the release notes before updating as there are many changes:  [https://github.com/EdgeTX/edgetx/releases/tag/v2.9.0-rc1](https://github.com/EdgeTX/edgetx/releases/tag/v2.9.0-rc1)
-
-Also the EdgeTX User-Manual has also been updated to reflect all the changes, with explanations: [https://edgetx.gitbook.io/edgetx-user-manual/](https://edgetx.gitbook.io/edgetx-user-manual/)
-
-
----
-
-
-**June 14, 2023**
-
-**Its almost time for EdgeTX Fest 2023!** 
-
-We are currently searching for a great location in central Europe to host this special event. If you are a member of an RC Model club, we extend a warm invitation to you to host the EdgeTX development team at your club's flying field, as we come together to commemorate the 2nd anniversary of EdgeTX.
-
-Our target timeframe for this memorable occasion is the first half of September.  To ensure convenience for everyone, we prefer a location within a 500km radius of Erfurt, Germany. Rest assured, all expenses associated with the event will be covered by the EdgeTX Team. We are also open to collaborating with your club's planned event, adding an extra layer of excitement to the festivities.
-
-If If you are interested or would like some more details, please visit the event page at: [https://edgetx.org/fest2023](https://edgetx.org/fest2023). Let's come together and make this event truly special!
-
----
-
 
 [**See More News**](news.md)
