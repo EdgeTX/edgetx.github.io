@@ -3,6 +3,11 @@ hide:
   - toc
 ---
 
+Welcome to EdgeTX, the ultimate open-source RC transmitter firmware for RC enthusiasts. Customize your remote control transmitter to match your unique preferences and needs with our highly adaptable platform. Supporting a wide range of RC protocols and compatible with various transmitters, EdgeTX is the go-to choice in the RC community. Join our passionate [community](https://edgetx.org/about/#community) to help shape the future of RC control systems. 
+
+For more information about EdgeTX, check out the [About EdgeTX page](https://edgetx.org/about/).
+
+---
 
 ## What's new ##
 
