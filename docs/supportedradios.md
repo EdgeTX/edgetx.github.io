@@ -16,6 +16,7 @@ The development and support for EdgeTX is conducted by the EdgeTX core developme
 * Jumper T-18 / T18 Lite / T18 Pro (since v2.4)
 * Jumper T-20 (Planned 2.10 for full support)* [Current firmware available here.](https://github.com/EdgeTX/edgetx.github.io/blob/master/downloads/T20-PROD-09-07-23.bin)
 * RadioMaster Boxer (since v2.8.1)
+* RadioMaster Pocket (Planned 2.10 for full support)* [Current firmware available here.](https://github.com/EdgeTX/edgetx.github.io/blob/master/downloads/POCKET-PROD-01-09-23.bin)
 * RadioMaster T8 Pro (since v2.4)
 * RadioMaster TX12 / TX12 Mark II (since v2.4)
 * RadioMaster TX16S / RadioMaster TX16S MAX / RadioMaster TX16S Mark II (since v2.4)
