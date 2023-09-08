@@ -16,7 +16,7 @@ For more information about EdgeTX, check out the [About EdgeTX page](https://edg
 
 ***Reminder: EdgeTX Fest is this weekend, the 9th and 10th of September! Come join us and celebrate the 2nd year of EdgeTX!***
 
-More information about the fest cam be found here: (https://edgetx.org/fest2023/)
+More information about the fest can be found here: [https://edgetx.org/fest2023/](https://edgetx.org/fest2023/)
 
 ---
 
