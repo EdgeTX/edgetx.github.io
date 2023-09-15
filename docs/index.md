@@ -20,15 +20,14 @@ For more information about EdgeTX, check out the [About EdgeTX page](https://edg
 
 **EdgeTX Fest 2023 - Celebration of our second year!**
 
-We marked the second year of EdgeTX with a spectacular 2nd annual EdgeTX Fest on September 9th and 10th. This year's celebration was even more special as it coincided with the 50th anniversary of the Heideflieger Hövelhof e.V model flying club near Hövelhof, Germany.
+We marked the second year of EdgeTX with a spectacular 2nd annual EdgeTX Fest on September 9th and 10th. This year’s celebration was even more special as we joined in celebrating the 50th anniversary of the Heideflieger Hövelhof e.V model flying club at their airfield near Hövelhof, Germany.
 
-Attendees had the opportunity to connect with the EdgeTX team and explore a diverse range of 10 EdgeTX supported radios. Some of these radios were ingeniously modified with unique input controls, including a 6-dimensional SpaceMouse knob. Additionally, visitors got hands-on experience flying mini quadcopters, providing an exciting introduction to the RC hobby. All of this unfolded amidst a breathtaking model airshow that left everyone in awe.
+Attendees had the opportunity to connect with many of the EdgeTX team members and explore a diverse range of EdgeTX supported radios. The visitors were also able to see some modified radios to spawn their own creativity and we displayed stick end controls and tray setups for couple of higher end radios. Additionally, visitors got hands-on experience flying mini quadcopters, providing an exciting introduction to the RC hobby. All of this unfolded amidst a breathtaking model airshow that left everyone in awe.
 
-We extend our heartfelt gratitude to everyone who joined us at the fest to commemorate the 2nd year of EdgeTX. Your overwhelming presence and engaging interactions made this event truly unforgettable. A big congratulations to all the lucky drawing winners! In total, we distributed over 20 radio transmitters, 80+ radio receivers, 4 radio accessory sets, and 4 RC model airplanes to our fortunate guests.
+We extend our heartfelt gratitude to everyone who joined us at the fest to commemorate the 2nd year of EdgeTX. Your overwhelming presence and engaging interactions made this event truly unforgettable. A big congratulations to all the lucky drawing winners! In total, thanks to our sponsors, we were able to distribute over 20 radio transmitters, close to 100 Express LRS receivers, 4 beautiful scale RC model airplanes and a large number of further accessories and merchandise to our guests.
 
 A special shout-out to our event sponsors, [RadioMaster](https://www.radiomasterrc.com/), [Flysky](https://www.flysky-cn.com/), [Jumper](https://www.jumper-rc.com/), [BetaFPV](https://betafpv.com/), [FMS](https://www.fmshobby.com/), and [RCVideoReviews.com](https://www.youtube.com/channel/UCcJwn8V3MTsib2LjAcTnarg), for their generous contributions of prizes and giveaways. We'd also like to express our deep appreciation to the [Heideflieger Hövelhof e.V](https://heideflieger.de/) model flying club for their invaluable collaboration in planning and executing this phenomenal event.
 
-Once again, our heartfelt thanks go out to all participants, sponsors, and supporters of this event. We are eagerly anticipating what the next year holds for EdgeTX and can hardly wait to celebrate the third year of EdgeTX with you all next year!
 
 ---
 
@@ -66,37 +65,5 @@ Lastly, please note that while the main branch and nightlies are currently consi
 
 ---
 
-**July 26, 2023**
-
-**Unveiling our new logo!**
-
-As we celebrate the start of the 3rd year of the EdgeTX, we are thrilled to unveil the brand-new EdgeTX logo and our new mascot, Eddie the Edgehog! This fresh, captivating design represents a significant milestone in our journey towards open-source excellence in the world of Radio Control transmitters.
-
-<p align="center">
-<a><img src="/assets/logo.png?raw=true" align="center" width="250"></a>
-</P>
-
-
-**🦔 Meet Eddie, Your Trusty Companion 🦔**
-
-Eddie the Edgehog embodies the spirit of EdgeTX, combining cutting-edge technology and a playful, adventurous personality. With his sharp intellect and fearless attitude, Eddie is the perfect symbol for our ever-evolving open-source firmware that powers an incredible array of RC transmitters.
-
-<p align="center">
-<a><img src="/assets/edgehog.png?raw=true" align="center" width="400"></a>
-</P>
-
-**🎉 A New Era Begins 🎉**
-
-As we enter the third year of EdgeTX, we want to extend our heartfelt gratitude to the entire community. Your passion, feedback, and continuous support have fueled our progress, inspiring us to reach new heights. Together, we've built a thriving ecosystem that empowers RC enthusiasts worldwide.
-
-Additionally, we want to take a moment to express our heartfelt gratitude to the brilliant mind behind the stunning new logo and mascot - Martin Hotar! Martin's exceptional talent, creativity, and dedication have brought Eddie to life in a way that exceeded all our expectations.
-
-Stay tuned for more exciting updates, feature enhancements, and collaborative events as we embark on this new chapter with Eddie by our side!
-
-Thank you all for being a part of EdgeTX.
-
-Happy Flying!
-
----
 
 [**See More News**](news.md)
