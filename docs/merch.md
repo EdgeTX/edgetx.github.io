@@ -2,7 +2,7 @@
 # Merchandise
 
 <p align="center">
-<a><img src="/assets/merch.png?raw=true" align="center" width="600"></a>
+<a><img src="/assets/merch.png?raw=true" align="center" width="900"></a>
 </P>
 
 
