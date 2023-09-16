@@ -1,4 +1,7 @@
-
+---
+hide:
+  - toc
+---
 ## What's new ##
 
 **September 13th 2023**
