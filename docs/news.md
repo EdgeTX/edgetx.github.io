@@ -13,6 +13,10 @@ We extend our heartfelt gratitude to everyone who joined us at the fest to comme
 
 A special shout-out to our event sponsors, [RadioMaster](https://www.radiomasterrc.com/), [Flysky](https://www.flysky-cn.com/), [Jumper](https://www.jumper-rc.com/), [BetaFPV](https://betafpv.com/), [FMS](https://www.fmshobby.com/), and [RCVideoReviews.com](https://www.youtube.com/channel/UCcJwn8V3MTsib2LjAcTnarg), for their generous contributions of prizes and giveaways. We'd also like to express our deep appreciation to the [Heideflieger Hövelhof e.V](https://heideflieger.de/) model flying club for their invaluable collaboration in planning and executing this phenomenal event.
 
+<p></p> 
+<p align="center">
+<a><img src="/assets/Fest2023col.png?raw=true" align="center" width="900"></a>
+</P>
 
 ---
 
