@@ -16,6 +16,16 @@ For more information about EdgeTX, check out the [About EdgeTX page](https://edg
 
 ## What's new ##
 
+**September 29th 2023**
+
+**EdgeTX v2.9.1 released**
+
+EdgeTX v2.9.1 is now live, which fixes a few small niggling issues that may have affected some users including the black screen themes, some telemetry lost/recovered issues with ELRS, and missing mixer lines when copying models from other transmitters. Before you update please remember to backup your settings, and bench test to ensure everything still works properly before taking it out to the field. Thanks to everyone for finding the bugs and testing fixes!  
+
+For more information about what has changed, take a look at the [release notes](https://github.com/EdgeTX/edgetx/releases/tag/v2.9.1).
+
+---
+
 **September 13th 2023**
 
 **EdgeTX Fest 2023 - Celebration of our second year!**
