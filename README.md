@@ -19,14 +19,15 @@ For bigger changes (new pages, core website changes)
    **Note:** Make sure that you update the **Name:** tag in the **CI.yml** file in the **.github/workflows** folder to your repository name. Also, select the **gh-pages** branch and **root** folder location for deployent location (the gh-pages branch will only be visible after updating the **CI.yml** file and the rebuild action is complete) .
 
    ***---Recommended---***
-5. Install MKDocs material on your local computer. https://squidfunk.github.io/mkdocs-material/getting-started
-6. Clone your forked repository locally to your computer.
+5. Install MKDocs on your local computer. https://www.mkdocs.org/user-guide/installation/
+6. Install MKDocs material on your local computer. https://squidfunk.github.io/mkdocs-material/getting-started
+7. Clone your forked repository locally to your computer.
 
    ***The two steps above will allow you to make changes to the website and see the changes immediately on your local machine.***
 
-7. Make the proposed changes and push the changes to your forked repo online.
-8. Create a pull request (PR) for the Master repository, describing the changes and including a link to your deployed forked page.
-9. Once the PR is accepted, it will be merged to the Master branch and deployed.
+8. Make the proposed changes and push the changes to your forked repo online.
+9. Create a pull request (PR) for the Master repository, describing the changes and including a link to your deployed forked page.
+10. Once the PR is accepted, it will be merged to the Master branch and deployed.
 
 ## File Directory Structure
 /edgetx.github.io/mkdocs.yml  = MK docs configuration file (https://squidfunk.github.io/mkdocs-material/setup/)
