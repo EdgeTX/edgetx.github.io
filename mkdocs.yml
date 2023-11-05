@@ -22,7 +22,7 @@ nav:
         - EdgeTX on your radio: edgetxsupport.md
         - Hardware requirements for EdgeTX: Radio-hardware-specifications-for-EdgeTX.md
         - Partnership Program: partnershipprogram.md
-        - Non-Disclosure Policy: nda.md
+        - Non-Disclosure Policy1: nda.md
 theme:
   name: material
   custom_dir: overrides
