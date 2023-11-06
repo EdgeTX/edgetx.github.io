@@ -14,7 +14,7 @@
 
 **4. Scope**
 
-   - This Policy applies to all members of the PSC.
+   - This Policy applies to all past, present and future members of the PSC.
 
 **5. Confidentiality Obligations**
 
