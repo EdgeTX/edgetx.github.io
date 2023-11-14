@@ -41,8 +41,10 @@ The usage of the money will be reported at [OpenCollective](https://opencollecti
 
 You can also contribute to EdgeTX in other ways. We need developers as well as everyday users to help with development, testing, issue reporting, documentation, or simply spreading the word. We really appreciate any assistance we get. See the [EdgeTX recruiting page](https://edgetx.org/recruiting) for more information.
 
-### Have questions?
+### Have questions about the EdgeTX Project?
 
-Feel free to contact the EdgeTX project steering committee either on [Discord](https://discord.gg/wF9wUKnZ6H) or via email at: psc@edgetx.org 
+For EdgeTX project related questions, contact the project steering committee either on [Discord](https://discord.gg/wF9wUKnZ6H) or via email at: psc@edgetx.org 
+
+For support related questions and issues, please visit the [support page](support.md).
 
 
