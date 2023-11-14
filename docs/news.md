@@ -4,6 +4,15 @@ hide:
 ---
 ## What's new ##
 
+**November 13th 2023**
+
+**EdgeTX v2.9.2 released**
+
+EdgeTX v2.9.2 is now live. If you were annoyed with not being able to turn the haptic on startup/shutdown off, wanted to configure some of the newer FrSky receivers, were having issues with black themes, or noticed that some widgets wouldn't refresh under certain conditions... you'll be interested in this release. Plus several other nip and tuck fixes.
+
+For more information about what has changed, take a look at the [release notes](https://github.com/EdgeTX/edgetx/releases/tag/v2.9.2).
+
+---
 
 **September 29th 2023**
 
