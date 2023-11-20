@@ -45,7 +45,7 @@ This is usually caused when the model image files are too large. The ideal model
 
 ###Where can I find image files of different RC models to use with my radio?
 
-A large repository of EdgeTX-compatible RC model image files can be found here: [https://www.skyraccoon.com/](https://www.skyraccoon.com/)
+A large repository of EdgeTX-compatible RC model image files can be found here: [https://www.air-rc.com/](https://www.air-rc.com/)
 
 ###How can I change the background image on my radio?
 
