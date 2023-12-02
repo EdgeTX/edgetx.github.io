@@ -148,14 +148,6 @@ If If you are interested or would like some more details, please visit the event
 
 ---
 
-**March 26, 2023**
-
-**Developer Discussion Hour** 
-
-On Sunday, April 2nd, 2023 from 7:00 PM UTC to 8:00 PM UTC, we are having our second live Developer-Discussion-Hour here in EdgeTX Discord stage channel DevDiscussionHour. To better cater developers from various parts of the globe, we are alternating with the timeslots between the sessions.  Feel free to join and ask EdgeTX developmental related questions in a live voice-chat to some of EdgeTX core team members joining the session. Please bear in mind that this session is purely for developmental questions and unrelated topics will be explicitly not handled. During the session you can raise a hand and ask your questions directly, or post them beforehand and also during the session in the DevDiscussionHour stage chat window: [EdgeTX Discord: DevDiscussionHour](https://discord.com/channels/839849772864503828/1081860475781914624/1086984571763040296).
-
----
-
 **January 10th, 2023**
 
 **2023 EdgeTX Project steering committee**
@@ -235,20 +227,6 @@ Installation and gameplay demo link: [https://www.youtube.com/watch?v=yo2eKt-qTW
 Github repository and Installation instructions: [GitHub - DavBfr/edgetx-doom](https://github.com/DavBfr/edgetx-doom)
 
 The Doom firmware file (already compiled): [https://drive.google.com/file/d/1vqWwOLLE7gSl_91TvnXWzvnFCGKv-4Os/view?usp=sharing](https://drive.google.com/file/d/1vqWwOLLE7gSl_91TvnXWzvnFCGKv-4Os/view?usp=sharing)
-
----
-
-**July 14th, 2022**
-
-**EdgeTX Fest**
-
-Join us on September 10th, 2022 for the EdgeTX Fest.  More information at:
-[https://edgetx.org/fest2022](https://edgetx.org/fest2022)
-<p></p> 
-<p align="center">
-<a><img src="/assets/ETXFEST2022.png?raw=true" align="center" width="350
-"></a>
-</P>
 
 ---
 **June 25th, 2022**
