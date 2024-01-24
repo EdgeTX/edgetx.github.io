@@ -31,6 +31,7 @@
 
 * USB-C device mode connection
 * For radios with an internal module, lines to put the module into flashing mode to perform pass-through flashing
+* Unused GPIO pins shall be connected with a 10k resistor either to GND or VCC. The initial hw revision of a radio shall have them tied to GND, further revision shall use one or multiple of those pins to mark different hw revision of the radio to allow auto detection of the radio version or variant.
 
 ### Optional (color)
 * Display backlight control via PWM - connection to hw-PWM capable pin on the MCU
@@ -78,6 +79,7 @@
 
 * USB-C device mode connection (minimally for new radios)
 * For radios with an internal module, lines to put the module into flashing mode to perform pass-through flashing
+* Unused GPIO pins shall be connected with a 10k resistor either to GND or VCC. The initial hw revision of a radio shall have them tied to GND, further revision shall use one or multiple of those pins to mark different hw revision of the radio to allow auto detection of the radio version or variant.
 
 ### Optional (B/W)
 * Display backlight control via PWM - connection to hw-PWM capable pin on the MCU
