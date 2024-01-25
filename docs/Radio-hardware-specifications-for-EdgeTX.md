@@ -46,6 +46,7 @@
 * in case of integrated charging circuitry/circuitries, feedback to main MCU about charging status of each charger
 * for external RF module bay support: either JR-micro or JR-nano bay
 * If trainer socket present: in/out connected to hw-PWM capable pins
+* GPIO extenders with I2C and SPI can be used for digital I/O. In case GPIO extenders are used as inputs, the interrupt output of the GPIO extender shall be connected to an input interrupt capable pin of the MCU. The interrupt lines of multiple GPIO extenders may be connected to the same pin.
 * SPI flash
 * I2C EEPROM
 * Bluetooth module via UART
@@ -92,6 +93,7 @@
 * in case of integrated charging circuitry/circuitries, feedback to main MCU about charging status of each charger
 * for external RF module bay support: either JR-micro or JR-nano bay
 * If trainer socket present: in/out connected to hw-PWM capable pins
+* GPIO extenders with I2C and SPI can be used for digital I/O. In case GPIO extenders are used as inputs, the interrupt output of the GPIO extender shall be connected to an input interrupt capable pin of the MCU. The interrupt lines of multiple GPIO extenders may be connected to the same pin.
 * SPI flash
 * I2C EEPROM
 * Bluetooth module via UART
