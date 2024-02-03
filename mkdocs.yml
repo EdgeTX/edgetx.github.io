@@ -24,6 +24,7 @@ nav:
         - Hardware requirements for EdgeTX: Radio-hardware-specifications-for-EdgeTX.md
         - Partnership Program: partnershipprogram.md
         - Non-Disclosure Policy: nda.md
+    - Fest 2024: fest2024
 theme:
   name: material
   custom_dir: overrides
