@@ -33,7 +33,7 @@ The development and support for EdgeTX is conducted by the hardware manufacturer
 
 ---
 
-###Community Supported
+###Not supported by the EdgeTX Team - Community supported only
 
 The development and support for EdgeTX is conducted by other interested 3rd parties from the community. Changes can be proposed as pull-requests to be considered for inclusion into the main EdgeTX codebase.
 
