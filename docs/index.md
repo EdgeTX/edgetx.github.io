@@ -16,6 +16,18 @@ For more information about EdgeTX, check out the [About EdgeTX page](https://edg
 
 ## What's new ##
 
+**January 20th 2024**
+
+**EdgeTX v2.9.3 is now live!** 
+
+If you wanted to use SBUS trainer with the module bay, are using a color screen radio and having inputs disappear or the mixer list go slightly bonkers  or just wanted the Linux Companion to let you check for/download updated firmware or other resources, we've got you covered.
+
+***Just one caution:*** If you have previously used the "delay" option for a mixer, and it didn't seem to work, recheck your model, as it should be working properly now. It was completely ignored if the mixer line was disabled for some flight modes or if there was a switch condition.
+
+For more information about what has changed, take a look at the [release notes](https://github.com/EdgeTX/edgetx/releases/tag/v2.9.3).
+
+---
+
 **November 13th 2023**
 
 **EdgeTX v2.9.2 released**
