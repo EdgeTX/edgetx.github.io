@@ -16,4 +16,4 @@ John is an authorized supplier of EdgeTX merchandise, with our full endorsement.
 Wear your support proudly for EdgeTX and the thriving open-source community. Order your EdgeTX gear today!
 
 
-Explore the Collection: [https://rcvideoreviews.creator-spring.com/](https://rcvideoreviews.creator-spring.com/)
+Explore the Collection: [https://spreadshop-admin.spreadshirt.com/rcvr/](https://spreadshop-admin.spreadshirt.com/rcvr/)
