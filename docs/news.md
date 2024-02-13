@@ -26,7 +26,7 @@ See the [EdgeTX project bylaws](https://edgetx.org/bylaws) page for more informa
 
 ---
 
-**Feburary 13th 2024**
+**February 13th 2024**
 
 **EdgeTX v2.9.4 is now live!** 
 
