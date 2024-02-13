@@ -4,7 +4,7 @@ hide:
 ---
 ## What's new ##
 
-**Feburary 20th 2024**
+**Feburary 13th 2024**
 
 **EdgeTX v2.9.4 is now live!** 
 
