@@ -34,7 +34,7 @@ If you had issues with Frsky D-based telemetry sensors suddenly being 10x higher
 
 For more information about what has changed, take a look at the [release notes](https://github.com/EdgeTX/edgetx/releases/tag/v2.9.4). 
 
---
+---
 
 **January 20th 2024**
 
