@@ -4,6 +4,16 @@ hide:
 ---
 ## What's new ##
 
+**Feburary 20th 2024**
+
+**EdgeTX v2.9.4 is now live!** 
+
+If you had issues with Frsky D-based telemetry sensors suddenly being 10x higher in value in 2.9.3, this is for you. This also affected RF protocols such as OMP which use Frsky D telemetry. DSMX/LemonRX telemetry sensors were also tamed down a bit, with sensors not connected/sending data omitted from discovery. 
+
+For more information about what has changed, take a look at the [release notes](https://github.com/EdgeTX/edgetx/releases/tag/v2.9.4). 
+
+--
+
 **January 20th 2024**
 
 **EdgeTX v2.9.3 is now live!** 
