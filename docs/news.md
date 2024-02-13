@@ -4,6 +4,28 @@ hide:
 ---
 ## What's new ##
 
+**February 13th, 2024**
+
+**2024 EdgeTX Project steering committee**
+
+EdgeTX is governed by a project steering committee (PSC) that meets regularly to discuss the project's direction and make decisions on topics that affect the project. The PSC was initially formed by project contributors appointed by the project's founder. When it was created, it was agreed that the PSC members would be elected every year. 
+
+On January 14th 2024, elections were held in accordance with the project bylaws and as a result, the following people were voted to be the on PSC for 2024:
+
+Raphael Coeffic (pafleraf) - Re-elected  
+Robert Janiszewski (JimB40) - Re-elected  
+Peter Feerick (pfeerick) - Re-elected  
+Risto Kõiva (Risto) – Re-elected  
+Richard Li (Richard Li) – Re-elected  
+Phil Eville (EZRipFPV) – Re-elected  
+Malte Langermann (Malte) – Re-elected
+
+On February 11th, 2024, the PSC met, and Raphael Coeffic was voted Committee Chair for 2024.
+
+See the [EdgeTX project bylaws](https://edgetx.org/bylaws) page for more information about the EdgeTX PSC.
+
+---
+
 **Feburary 13th 2024**
 
 **EdgeTX v2.9.4 is now live!** 
