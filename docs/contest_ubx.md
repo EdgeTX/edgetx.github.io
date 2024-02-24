@@ -26,12 +26,12 @@ The following doc could also be interesting from page 63: [https://www.yumpu.com
 
 **Prize:**
 
-RadioMaster TX16S MKII MAX radio (sponsored by RadioMaster). The radio will be shipped world-wide free of charge directly from the RadioMaster factory to the winner.
+[RadioMaster TX16S MKII MAX](https://www.radiomasterrc.com/products/tx16s-mark-ii-max-radio-controller) radio (sponsored by RadioMaster). The radio will be shipped world-wide free of charge directly from the RadioMaster factory to the winner.
 
 ***Note:*** the contest winner will need to cover all import/customs fees for the prize. However, those fees will be re-imbursed by the EdgeTX via expense submission to the EdgeTX Open Collective.
 
 
-**Submissions due by 30 September 2024**
+**Contest ends after first successful submission or on 30 September 2024**
 
 
 **If you have questions about the contest, feel free on our discord at the [#ubx-contest channel](https://discord.com/channels/839849772864503828/1210916167976361984)**
