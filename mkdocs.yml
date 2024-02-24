@@ -26,6 +26,8 @@ nav:
         - Non-Disclosure Policy: nda.md
     - EdgeTX Fest:
         - Fest 2024: fest2024.md
+    - UBX Contest:
+        - UBX Contest: contest_ubx.md
 theme:
   name: material
   custom_dir: overrides
