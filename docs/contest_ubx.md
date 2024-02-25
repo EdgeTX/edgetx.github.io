@@ -14,7 +14,7 @@ hide:
 
 **Task:**
 
-Be the first developer to make a pull-request (PR) against EdgeTX main GitHub repository with fully working uBlox GPS UBX protocol implementation, including a link to a short video demonstrating the functionality in the GitHub pull-request post.
+Be the first developer to make a pull-request (PR) against EdgeTX main GitHub repository with fully working radio side GPS uBlox UBX protocol implementation, including a link to a short video demonstrating the functionality in the GitHub pull-request post.
 
 
 ***--Hints--***
@@ -45,6 +45,8 @@ The following doc could also be interesting from page 63: [https://www.yumpu.com
 <a href="https://www.radiomasterrc.com/" target="_blank"><img src="/assets/RadioMasterLogo.png?raw=true" align="center" width="270"></a>
 </P>
 
+
+***The EdgeTX PSC team reserves the right not to accept submissions that work incorrectly and / or may negatively impact other parts of the EdgeTX system.***
 
  
 
