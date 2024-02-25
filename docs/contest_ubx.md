@@ -34,7 +34,7 @@ The following doc could also be interesting from page 63: [https://www.yumpu.com
 **Contest ends after first successful submission or on 30 September 2024**
 
 
-**If you have questions about the contest, feel free to contact the EdgeTX Team on our discord at the [#ubx-contest channel](https://discord.com/channels/839849772864503828/1210916167976361984)**
+**If you have questions about the contest, feel free to contact the EdgeTX team on our discord at the [#ubx-contest channel](https://discord.com/channels/839849772864503828/1210916167976361984)**
 
 
 
