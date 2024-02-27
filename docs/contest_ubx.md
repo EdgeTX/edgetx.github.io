@@ -16,6 +16,20 @@ hide:
 
 Be the first developer to make a pull-request (PR) against EdgeTX main GitHub repository with fully working radio side GPS uBlox UBX protocol implementation, including a link to a short video demonstrating the functionality in the GitHub pull-request post.
 
+See for reference
+
+[https://github.com/EdgeTX/edgetx/blob/3807d7759b58746ab54e230b7cd147c9eecda98c/radio/src/gps.h#L27-L39](https://github.com/EdgeTX/edgetx/blob/3807d7759b58746ab54e230b7cd147c9eecda98c/radio/src/gps.h#L27-L39)
+
+
+[https://github.com/EdgeTX/edgetx/blob/3807d7759b58746ab54e230b7cd147c9eecda98c/radio/src/gps.cpp](https://github.com/EdgeTX/edgetx/blob/3807d7759b58746ab54e230b7cd147c9eecda98c/radio/src/gps.cpp)
+
+
+[https://github.com/EdgeTX/edgetx/blob/3807d7759b58746ab54e230b7cd147c9eecda98c/radio/src/lua/api_general.cpp#L1372-L1408](https://github.com/EdgeTX/edgetx/blob/3807d7759b58746ab54e230b7cd147c9eecda98c/radio/src/lua/api_general.cpp#L1372-L1408)
+(doc here: [https://luadoc.edgetx.org/part_iii_-_opentx_lua_api_reference/general-functions-less-than-greater-than-luadoc-begin-general/gettxgps](https://luadoc.edgetx.org/part_iii_-_opentx_lua_api_reference/general-functions-less-than-greater-than-luadoc-begin-general/gettxgps) )
+
+
+On color radios, following widget should continue to work: [https://github.com/EdgeTX/edgetx-sdcard/tree/master/sdcard/c480x272/WIDGETS/TxGPStest](https://github.com/EdgeTX/edgetx-sdcard/tree/master/sdcard/c480x272/WIDGETS/TxGPStest) and RTC clock sync should also continue to work with UBX GPS communication protocol.
+
 
 ***--Hints--***
 
