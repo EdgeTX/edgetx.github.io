@@ -16,6 +16,24 @@ hide:
 
 Be the first developer to make a pull-request (PR) against EdgeTX main GitHub repository with fully working radio side GPS uBlox UBX protocol implementation, including a link to a short video demonstrating the functionality in the GitHub pull-request post.
 
+The solution should minimally parse from UBX all in EdgeTX currently supported fields that are parsed from NMEA, such as: 
+
+* latitude
+
+* longitude
+
+* altitude
+
+* HDOP
+
+* number of satellites
+
+* lock status
+
+* speed
+
+* heading
+
 See for reference
 
 [https://github.com/EdgeTX/edgetx/blob/3807d7759b58746ab54e230b7cd147c9eecda98c/radio/src/gps.h#L27-L39](https://github.com/EdgeTX/edgetx/blob/3807d7759b58746ab54e230b7cd147c9eecda98c/radio/src/gps.h#L27-L39)
