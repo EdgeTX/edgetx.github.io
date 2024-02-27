@@ -4,6 +4,15 @@ hide:
 ---
 ## What's new ##
 
+**February 27th, 2024**
+
+**UBX Protocol Developer Contest**
+
+Be the first developer to add support for the UBX protocol to EdgeTX and you will win a RadioMaster TX16s Mark II Max. Contest ends after first successful submission or on 30 September 2024. Full contest details and rules can be found here: [https://edgetx.org/contest_ubx](https://edgetx.org/contest_ubx)
+
+---
+
+
 **February 13th, 2024**
 
 **2024 EdgeTX Project steering committee**
