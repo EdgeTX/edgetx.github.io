@@ -18,21 +18,16 @@ Be the first developer to make a pull-request (PR) against EdgeTX main GitHub re
 
 The solution should minimally parse from UBX all in EdgeTX currently supported fields that are parsed from NMEA, such as: 
 
-* latitude
-
-* longitude
-
-* altitude
-
-* HDOP
-
-* number of satellites
-
-* lock status
-
-* speed
-
-* heading
+* latitude  
+* longitude  
+* altitude  
+* HDOP  
+* number of satellites  
+* lock status  
+* speed  
+* heading  
+* date  
+* time  
 
 See for reference
 
