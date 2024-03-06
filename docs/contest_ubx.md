@@ -10,6 +10,16 @@ hide:
 </P>
 
 
+## Announcement: Winner of the UBX Developer Contest! ##
+
+We are excited to announce the winner of the UBX Developer Contest, where developers were challenged to implement a fully working radio side GPS uBlox UBX protocol in EdgeTX's main GitHub repository. This required parsing essential fields like latitude, longitude, altitude, and more from the UBX protocol, similar to the current NMEA parsing in EdgeTX. 
+
+After careful evaluation and consideration, we are proud to declare **David Pham-Van** as the winner! As a token of appreciation for his outstanding contribution, David will receive a RadioMaster Boxer MAX radio (per his request), generously sponsored by RadioMaster. This state-of-the-art radio will be shipped worldwide free of charge directly from the RadioMaster factory to David.
+
+We extend our heartfelt congratulations to David Pham-Van for this well-deserved win. Your contributions continue to enrich the EdgeTX community and propel its growth forward.
+
+---
+
 ## **Contest Details**
 
 **Task:**
@@ -58,7 +68,7 @@ The following doc could also be interesting from page 63: [https://www.yumpu.com
 ***Note:*** the contest winner will need to cover all import/customs fees for the prize. However, those fees will be re-imbursed by the EdgeTX via expense submission to the [EdgeTX Open Collective](https://opencollective.com/edgetx/expenses/new).
 
 
-**Contest ends after first successful submission or on 30 September 2024**
+**Contest ended on 06 March 2024**
 
 
 **If you have questions about the contest, feel free to contact the EdgeTX team on our discord at the [#ubx-contest channel](https://discord.com/channels/839849772864503828/1210916167976361984)**
