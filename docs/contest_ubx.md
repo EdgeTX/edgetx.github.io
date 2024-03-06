@@ -10,7 +10,7 @@ hide:
 </P>
 
 
-## Announcement: Winner of the UBX Developer Contest! ##
+## **Announcement: Winner of the UBX Developer Contest!** ##
 
 We are excited to announce the winner of the UBX Developer Contest, where developers were challenged to implement a fully working radio side GPS uBlox UBX protocol in EdgeTX's main GitHub repository. This required parsing essential fields like latitude, longitude, altitude, and more from the UBX protocol, similar to the current NMEA parsing in EdgeTX. 
 
