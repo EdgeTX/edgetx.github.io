@@ -32,6 +32,20 @@ Any use of the Logos not expressly permitted in this statement is strictly prohi
 
 3. Use of the Logo for any commercial purposes without prior written permission from the Copyright Holder.
 
+
+### Example Permitted Use Cases
+
+1. Personal Projects: You can use the EdgeTX logo for personal projects related to the EdgeTX project, such as creating fan art, wallpapers, or personal websites.
+
+2. Educational Purposes: Teachers, students, and educational institutions can use the logo for educational purposes, such as presentations, research papers, or educational websites, as long as it's not for commercial gain.
+
+3. Non-Profit Organizations: Non-profit organizations can use the logo for non-commercial purposes, such as promoting events or initiatives related to EdgeTX, provided it's not used in a way that suggests endorsement or sponsorship without permission.
+
+4. Community Events: Community-driven events or meetups related to EdgeTX can use the logo for promotional materials or event banners, as long as it's not for commercial purposes and doesn't imply official endorsement without permission.
+
+5. Personal Blogs or Social Media: You can use the logo on personal blogs, social media profiles, or forums when discussing or promoting EdgeTX-related topics, as long as it's not for commercial purposes or implies official endorsement without permission.
+
+
 ### Logo Versions and Color Variations:
 
 There are three logos for EdgeTX:
