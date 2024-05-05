@@ -4,7 +4,6 @@ hide:
 ---
 
 
-
 The EdgeTX team believes that a close relationship between R/C radio manufacturers and R/C software developers is important for the success of R/C products and ultimately leads to greater satisfaction by the end-users. In order to establish close (but neutral) working relationships with R/C radio manufacturers, EdgeTX has established a partnership program. 
 
 By participating in this program, the R/C radio manufacturers are helping support the volunteer developers that are donating their time to create EdgeTX. Their monetary and hardware donations ensure that core developers have the necessary equipment, cover administrative and marketing costs, and sustain the online build system, enabling end-users to access the latest software for their radios.
