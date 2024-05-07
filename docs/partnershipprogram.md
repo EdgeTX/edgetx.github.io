@@ -20,7 +20,7 @@ By participating in this program, the R/C radio manufacturers are helping suppor
 
  - Detailed and documented regression testing for agreed-upon hardware platforms for all official releases of EdgeTX.
 
- - Permission to use the ”EdgeTX”, “EdgeTX Approved” and “Official Partner of EdgeTX” logos on merchandise, advertising, and marketing material.
+ - Permission to use the ”EdgeTX” logo and partner tier badges on merchandise, advertising, and marketing material.
 
 **Requirements for manufacturers:**
 
@@ -51,7 +51,7 @@ We have created partnership tiers to acknowledge and reward our partners who pro
 - Gold Partner: For monthly contributions of €500 or more.
   
   
-We value the generous contributions of all our partners, and our partnership tiers are designed to recognize and appreciate their support.
+We value the generous contributions of all our partners, and our partnership tiers are designed to recognize and appreciate their support. Our partners are free to use the partner tier badges on merchandise, advertising, and marketing material as they see fit. You can find high-resolution images of the badges [here](https://github.com/EdgeTX/edgetx.github.io/blob/master/downloads/PartnerTierBadges.zip).
 
 **Additional  important information:**
 
