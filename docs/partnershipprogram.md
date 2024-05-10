@@ -3,10 +3,25 @@ hide:
   - toc
 ---
 
+<p></p> 
+
+## Official EdgeTX Partners
+
+<p>&nbsp;</p> 
+<p align="center">
+<a href="https://www.flysky-cn.com/" target="_blank"><img src="/assets/FlySkyGold.png?raw=true" align="center" width="167"></a>
+<a href="https://www.radiomasterrc.com/" target="_blank"><img src="/assets/RadioMasterGold.png?raw=true" align="center" width="340"></a>
+<a href="https://www.jumper-rc.com/" target="_blank"><img src="/assets/Jumper.png?raw=true" align="center" width="250"></a>
+</P>
+
+ <p>&nbsp;</p> 
+
+ 
+## EdgeTX Partnership Program
 
 The EdgeTX team believes that a close relationship between R/C radio manufacturers and R/C software developers is important for the success of R/C products and ultimately leads to greater satisfaction by the end-users. In order to establish close (but neutral) working relationships with R/C radio manufacturers, EdgeTX has established a partnership program. 
 
-By participating in this program, the R/C radio manufacturers are helping support the volunteer developers that are donating their time to create EdgeTX. Their monetary and hardware donations ensure that core developers have the necessary equipment, cover administrative and marketing costs, and sustain the online build system, enabling end-users to access the latest software for their radios.
+By participating in this program, the R/C radio manufacturers are helping support the volunteer developers that are donating their time to create EdgeTX. The monetary and hardware donations that are provided will help ensure that the core developers are equipped with the needed equipment needed to support their radios as well as help sustain the online build system that will provide the end-users, the ability to get the most up to date software for their radios at any time. 
 
 **Benefits of the partnership program:**
 
@@ -16,11 +31,11 @@ By participating in this program, the R/C radio manufacturers are helping suppor
 
  - Priority bug fixing, new features, and enhancements for agreed-upon hardware platforms.
 
- - Dedicated nightly and release builds for all agreed-upon hardware platforms via GitHub downloads and EdgeTX Buddy.
+ - Dedicated nightly and release builds for all agreed-upon hardware platforms via GitHub downloads and EdgeTX Flasher.
 
  - Detailed and documented regression testing for agreed-upon hardware platforms for all official releases of EdgeTX.
 
- - Permission to use the ”EdgeTX” logo and their designated partner tier badge on merchandise, advertising, and marketing material.
+ - Permission to use the ”EdgeTX”, “EdgeTX Approved” and “Official Partner of EdgeTX” logos on merchandise, advertising, and marketing material.
 
 **Requirements for manufacturers:**
 
@@ -32,29 +47,9 @@ By participating in this program, the R/C radio manufacturers are helping suppor
  
  - Provide a reasonable number of hardware devices, as requested by the EdgeTX team, to be used for initial development and testing.
 
- - Provide a monthly or annual donation (amount to be agreed upon with the EdgeTX team) to help defray the cost of the online build systems, events, marketing, and other administrative expenses (to be used at the sole discretion of the EdgeTX team).
-
-**Partnership Tiers:**
-
-<p align="center">
-<img src="/assets/OfficialPartner.png?raw=true" align="center" width="120"></a>
-<img src="/assets/SilverPartner.png?raw=true" align="center" width="120"></a>
-<img src="/assets/GoldPartner.png?raw=true" align="center" width="120"></a>
-</P>
-
-We have created partnership tiers to acknowledge and reward our partners who provide substantial financial support to our project.  
-
-- Official Partner: For monthly contributions below €249.
-
-- Silver Partner: For monthly contributions between € 250 and €499.
-
-- Gold Partner: For monthly contributions of €500 or more.
-  
-  
-We value the generous contributions of all our partners, and our partnership tiers are designed to recognize and appreciate their support. Our partners are free to use their designated partner tier badges on merchandise, advertising, and marketing material as they see fit. You can find high-resolution images of the badges [here](https://github.com/EdgeTX/edgetx.github.io/blob/master/downloads/PartnerTierBadges.zip).
+ - Provide a monthly or annual donation (amount to be agreed upon with the EdgeTX team) to help defray the cost of the online build systems, events, and other administrative expenses (to be used at the sole discretion of the EdgeTX team).
 
 **Additional  important information:**
-
 
 The partnership program is intended to be a mutually beneficial collaboration between the R/C radio manufacturers and the software developers and should not be confused with a legal partnership.
 
@@ -72,16 +67,3 @@ Either party may choose to end their collaboration in the partnership program at
 
 If you are interested in participating in the Partnership program, please contact the EdgeTX project steering committee either on [Discord](https://discord.gg/wF9wUKnZ6H) or via email at: psc@edgetx.org for more information.
 
-## Official EdgeTX Partners
-
-<p>&nbsp;</p> 
- 
-<img src="/assets/FlySkyGold.png?raw=true" align="center" width="330"></td>  
-
-<img src="/assets/RadioMasterGold.png?raw=true" align="center" width="550"></td> 
- 
-<img src="/assets/JumperOfficial.png?raw=true" align="center" width="350"></td>  
-
-</P>
-
- <p>&nbsp;</p> 
