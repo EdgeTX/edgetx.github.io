@@ -9,8 +9,8 @@ hide:
 
 <p>&nbsp;</p> 
 <p align="center">
-<a href="https://www.flysky-cn.com/" target="_blank"><img src="/assets/FlySkyGold.png?raw=true" align="center" width="167"></a>
-<a href="https://www.radiomasterrc.com/" target="_blank"><img src="/assets/RadioMasterGold.png?raw=true" align="center" width="340"></a>
+<a href="https://www.flysky-cn.com/" target="_blank"><img src="/assets/FlySkyLogo.png?raw=true" align="center" width="187"></a>
+<a href="https://www.radiomasterrc.com/" target="_blank"><img src="/assets/RadioMasterLogo.png?raw=true" align="center" width="360"></a>
 <a href="https://www.jumper-rc.com/" target="_blank"><img src="/assets/Jumper.png?raw=true" align="center" width="250"></a>
 </P>
 
