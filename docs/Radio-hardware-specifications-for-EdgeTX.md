@@ -33,6 +33,11 @@
 * For radios with an internal module, lines to put the module into flashing mode to perform pass-through flashing
 * Unused GPIO pins shall be connected with a 10k resistor either to GND or VCC. The initial hw revision of a radio shall have them tied to GND, further revision shall use one or multiple of those pins to mark different hw revision of the radio to allow auto detection of the radio version or variant.
 
+### hardware design guidlines
+* all high speed interfaces like Quad/Octo/Hexa SPI, SDRAM, USB and SDIO shall be length / time of flight equalised
+    * relative timing constrains, e.g. for different SDRAM wires, shall be respected
+* STM32H7 CPUs shall be used with Quad or Octo SPI flash that supports DDR and at least 100 MHz of DDR SPI clock speed
+
 ### Optional (color)
 * Display backlight control via PWM - connection to hw-PWM capable pin on the MCU
 * Gimbals with either analog, PWM (e.g. TLE4998P3), SPI ADC (e.g. ADS7952) or UART communication
