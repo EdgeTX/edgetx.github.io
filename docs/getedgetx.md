@@ -32,6 +32,8 @@ please review the release notes for the* **[latest EdgeTX release](https://githu
 
 >[EdgeTX Companion - Linux](https://github.com/EdgeTX/edgetx/releases/download/v2.10.1/edgetx-cpn-linux-v2.10.1.zip)
 
-**Looking for EdgeTX in a language other than english? See the link below:**
+**Looking for EdgeTX in a language other than English? See the link below:**
+
+> [EdgeTX Buddy CloudBuild](https://buddy.edgetx.org/) - Click the CloudBuild option, and then pick your language and other firmware options.
 
 >[EdgeTX Multilingual builds](https://github.com/pfeerick/lang-firmwares/releases/tag/v2.10.1)
