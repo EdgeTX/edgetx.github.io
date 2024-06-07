@@ -12,6 +12,7 @@ The development and support for EdgeTX is conducted by the EdgeTX core developme
 * Jumper T-Pro v2 (Planned 2.10 for full support)* [Current firmware available here.](https://github.com/EdgeTX/edgetx.github.io/blob/master/downloads/TPROV2-PROD-09-07-23.bin?raw=true)
 * Jumper T12 / T12 Plus / T12 Pro Hall (since v2.4)
 * Jumper T14 (Planned 2.10 for firmware, Companion to follow)* [Current firmware available here.](https://github.com/EdgeTX/edgetx.github.io/raw/master/downloads/T14-PROD-080324.bin)
+* Jumper T15 (since v2.10.1)
 * Jumper T16 / T16 Plus / T16 Pro Hall (since v2.4)
 * Jumper T18 / T18 Lite / T18 Pro (since v2.4)
 * Jumper T20 (Planned 2.10 for full support)* [Current firmware available here.](https://github.com/EdgeTX/edgetx.github.io/blob/master/downloads/T20-PROD-09-07-23.bin?raw=true)
