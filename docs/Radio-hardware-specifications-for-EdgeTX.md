@@ -1,15 +1,14 @@
 # Hardware Requirements for EdgeTX
 
 ## Support of STM32F MCUs
-* we will not accept new radios based no STM32F2 MCUs<
-* we will not accept new radios with STM32F4 MCUs from EdgeTX v2.12 or EdgeTX v3 onwards (whichever comes first)
-  * except radios that have been announced to the EdgeTX team before that release
+* As of EdgeTX v2.10, no new radios based on STM32F2 MCUs will be accepted.
+* As of EdgeTX v3.0, no new radios based on STM32F MCUs will be accepted.
 
 ## Color screen radios
 
 ### Mandatory hardware features (color)
 * MCU: presently only STM32F429BI and STM32F439BI with 2 MB flash are supported. Running at 168 MHz.
-  Support for STM32F7/H7/H7R MCUs is planned from EdgeTX v3 or v2.11 onwards, whereas H750 and H7R will be the first supported H7 MCUs.
+  Support for STM32H7/H7R MCUs is planned from EdgeTX v2.11 onwards, whereas H750 and H7R will be the first supported H7 MCUs.
 * SDRAM with minimally 8MB
 * SD/microSD card slot or embedded SD NAND (e.g. XTX XTSD04G, minimally 512 MByte). Connectivity via SDIO mandatory
 * Color display with minimally 480x272 pixels. Presently supported resolutions 480x272, 480x320 and 320x480 pixels.
@@ -66,8 +65,8 @@
 * I2C EEPROM
 * Bluetooth module via UART
 * IMU (e.g. LSM6DS33)
-* I2C port extender
-  * if port extenders are used for inputs, the interrupt pin has to be connected to an interrupt capable pin of the MCU
+* I2C port expander
+  * if port expanders are used for inputs, the interrupt output pin(s) of the port expander(s) shall be connected to an interrupt capable input pin of the MCU
 * SpaceMouse module
 
 ---
@@ -78,7 +77,7 @@
 * MCU: STM32F4 with minimally 1 MB flash running at 168 MHz
   * Support for STM32H562/563 will be available from EdgeTX v3 or v2.11
 * SD/microSD card slot or embedded SD NAND (e.g. XTX XTSD04G, minimally 512 MByte)
-  * Starting with STM32H5 all new radios must use SDIO to connect the storage
+  * Starting with STM32H5 all new radios shall use SDIO to connect the storage
 * Monochrome display with either 128x64 pixels or 212x64 pixels.
 * possibility to flash the firmware via USB-DFU (with or without dedicated DFU button)
 * constantly enabled energy source for the real-time-clock
@@ -109,7 +108,7 @@
 * Gimbals with either analog, PWM (e.g. TLE4998P3), SPI ADC (e.g. ADS7952) or UART communication
 * Switches as digital or analog inputs
 * haptic vibrator, via binary or PWM output
-* support for additional key navigation input. Supported keys: Enter, Return, Page>, Page<, Up/Down, System, Model, Tele.
+* support for additional key navigation input, via keys: Enter, Return, Page>, Page<, Up/Down, System, Model, Tele.
 * support for encoder/roller user input
 * Audio output via STM32 integrated DAC
 * Explicit audio volume control, e.g. via I2C, SPI or further DAC output
@@ -122,11 +121,11 @@
 * I2C EEPROM
 * Bluetooth module via UART
 * IMU (e.g. LSM6DS33)
-* I2C port extender
-  * if port extenders are used for inputs, the interrupt pin has to be connected to an interrupt capable pin of the MCU
+* I2C port expander
+  * if port expanders are used for inputs, the interrupt output pin(s) of the port expander(s) shall be connected to an interrupt capable input pin of the MCU
 
 ---
 
 ## General Considerations
-* When the radio is equipped with flight mode button (6-Pos), those should be connected in a way that they can be used individually. To save pins for the illumination, LEDs with Neopixel interface can be used
+*  When the radio is equipped with flight mode buttons (6POS / six position switch), they should be connected in a way that they can be used individually (as 'customizable switches' in EdgeTX). In order to save MCU IO pins, this could be done using a single analog input and resistor ladder, or an I2C expander. These switches need to have visual feedback LEDs that can be controlled by the MCU. To save MCU IO pins, this could also be done using an  I2C expander, or WS2812 (aka Neopixel) single serial line LEDs. 
 * the H7R and H5 CPUs support USB-C power delivery, the charging circuit can be designed with this is mind
