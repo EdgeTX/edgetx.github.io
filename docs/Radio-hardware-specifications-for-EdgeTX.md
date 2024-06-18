@@ -34,7 +34,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://c.a.segger.com/fileadmin/images/products/J-Trace/jtrace-pinout.png">
 
 * USB-C device mode connection
-    * H7R radios must support Hi-Speed (480 MBit/s) USB
+    * H7R radios shall support Hi-Speed (480 MBit/s) USB
 * For radios with an internal module, lines to put the module into flashing mode to perform pass-through flashing
 * Unused GPIO pins shall be connected with a 10k resistor either to GND or VCC. The initial hw revision of a radio shall have them tied to GND, further revision shall use one or multiple of those pins to mark different hw revision of the radio to allow auto detection of the radio version or variant.
 
@@ -127,5 +127,5 @@
 ---
 
 ## General Considerations
-*  When the radio is equipped with flight mode buttons (6POS / six position switch), they should be connected in a way that they can be used individually (as 'customizable switches' in EdgeTX). In order to save MCU IO pins, this could be done using a single analog input and resistor ladder, or an I2C expander. These switches need to have visual feedback LEDs that can be controlled by the MCU. To save MCU IO pins, this could also be done using an  I2C expander, or WS2812 (aka Neopixel) single serial line LEDs. 
+* When the radio is equipped with flight mode buttons (6POS / six position switch), they should be connected in a way that they can be used individually (as 'customizable switches' in EdgeTX). In order to save MCU IO pins, this could be done using a single analog input and resistor ladder, or an I2C expander. These switches need to have visual feedback LEDs that can be controlled by the MCU. To save MCU IO pins, this could also be done using an  I2C expander, or WS2812 (aka Neopixel) single serial line LEDs. 
 * the H7R and H5 CPUs support USB-C power delivery, the charging circuit can be designed with this is mind
