@@ -74,7 +74,7 @@
 ## Black-and-white radios
 
 ### Mandatory hardware features (B/W)
-* MCU: STM32F4 with minimally 1 MB flash running at 168 MHz
+* MCU: As of EdgeTX 2.10, STM32F4 with minimally 1 MB flash running at 168 MHz. From EdgeTX v2.11 onwards, STM32H562/563 will also be supported. New STM32F based designs will not be accepted as of EdgeTX v3.0.
   * Support for STM32H562/563 will be available from EdgeTX v3 or v2.11
 * SD/microSD card slot or embedded SD NAND (e.g. XTX XTSD04G, minimally 512 MByte)
   * Starting with STM32H5 all new radios shall use SDIO to connect the storage
