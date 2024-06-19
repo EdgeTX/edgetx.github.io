@@ -2,11 +2,11 @@
 
 ## wording
 * SHALL is used to express mandatory requirements (provisions that have to be followed):
-  * the negative form is SHALL NOT.
+    * the negative form is SHALL NOT.
 * SHOULD is used to express recommendations (provisions that an implementation is expected to follow unless there is a strong reason for not doing so and has to be cleard by the EdgeTX team):
-  * the negative form is SHOULD NOT.
+    * the negative form is SHOULD NOT.
 * MAY is used to express permissible actions (provisions that an implementation is able to follow or not follow):
-  * the negative form is NEED NOT (in English MAY NOT is ambiguous, so NEED NOT is used instead).
+    * the negative form is NEED NOT (in English MAY NOT is ambiguous, so NEED NOT is used instead).
 
 ## Support of STM32F MCUs
 * No new radios based on STM32F2 MCUs will be accepted.
@@ -48,7 +48,7 @@
 
 ### hardware design guidlines
 * all high speed interfaces like Quad/Octo/Hexa SPI, SDRAM, USB and SDIO shall be length / time of flight equalised
-  * relative timing constrains, e.g. for different SDRAM wires, shall be respected
+    * relative timing constrains, e.g. for different SDRAM wires, shall be respected
 * STM32H7 CPUs shall be used with Quad or Octo SPI flash that supports DDR and at least 100 MHz of DDR SPI clock speed
 * for connecting the Quad/Octp SPI flash and RAM the pins used on the evaluation boards shall be used
   * For H7R, STM32H7S78-DK
@@ -74,7 +74,7 @@
 * Bluetooth module via UART
 * IMU (e.g. LSM6DS33)
 * I2C port expander
-  * if port expanders are used for inputs, the interrupt output pin(s) of the port expander(s) shall be connected to an interrupt capable input pin of the MCU
+    * if port expanders are used for inputs, the interrupt output pin(s) of the port expander(s) shall be connected to an interrupt capable input pin of the MCU
 * SpaceMouse module
 
 ---
@@ -83,9 +83,9 @@
 
 ### Mandatory hardware features (B/W)
 * MCU: As of EdgeTX 2.10, STM32F4 with minimally 1 MB flash running at 168 MHz. From EdgeTX v2.11 onwards, STM32H562/563 will also be supported. New STM32F based designs will not be accepted as of EdgeTX v3.0.
-  * Support for STM32H562/563 will be available from EdgeTX v3 or v2.11
+    * Support for STM32H562/563 will be available from EdgeTX v3 or v2.11
 * SD/microSD card slot or embedded SD NAND (e.g. XTX XTSD04G, minimally 512 MByte)
-  * Starting with STM32H5 all new radios shall use SDIO to connect the storage
+    * Starting with STM32H5 all new radios shall use SDIO to connect the storage
 * Monochrome display with either 128x64 pixels or 212x64 pixels.
 * possibility to flash the firmware via USB-DFU (with or without dedicated DFU button)
 * constantly enabled energy source for the real-time-clock
@@ -130,7 +130,7 @@
 * Bluetooth module via UART
 * IMU (e.g. LSM6DS33)
 * I2C port expander
-  * if port expanders are used for inputs, the interrupt output pin(s) of the port expander(s) shall be connected to an interrupt capable input pin of the MCU
+    * if port expanders are used for inputs, the interrupt output pin(s) of the port expander(s) shall be connected to an interrupt capable input pin of the MCU
 
 ---
 
