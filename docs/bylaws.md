@@ -89,6 +89,11 @@ The chair is responsible for closing votes and summarizing PSC member votes or a
 
 The chair may appoint one member of the PSC committee as secretary to take minutes during the meetings or any other administrative tasks as agreed.
 
+### EdgeTX Development Team
+
+The EdgeTX Development Team consists of active developers participating in the project. PSC members, who are also active developers, are automatically members of the EdgeTX Development Team. For the addition and removal of EdgeTX Development Team members a PSC vote is required.
+EdgeTX Development Team members have to abide to the [NDA](https://edgetx.org/nda/).
+
 ### Code of Conduct
 
 All members of the community are expected to adhere to the  [Community Guildlines](https://github.com/EdgeTX/edgetx.github.io/wiki/Community-Guidlines) in all activities related to EdgeTX. PSC members help maintain user adherence to the community guidelines and can recommend the "time out" or removal of offenders, to be decided by the PSC. 
