@@ -1,13 +1,12 @@
 
 **1. Introduction**
 
-   - This Non-Disclosure Policy ("Policy") outlines the commitment of the EdgeTX Project Steering Committee ("PSC") and the Edgetx Development Team to maintain the confidentiality of any information provided to it.
+   - This Non-Disclosure Policy ("Policy") outlines the commitment of the EdgeTX Project Steering Committee ("PSC") and the EdgeTX Development Team to maintain the confidentiality of any information provided to it.
 
 **2. Definitions**
 
    - **EdgeTX Team**: Refers to the EdgeTX Project Steering Committee and the EdgeTX Development Team.
    - **Confidential Information**: Any data or information, oral or written, disclosed to the EdgeTX Team, which is designated as confidential or should reasonably be understood to be confidential given the nature of the information and the circumstances surrounding disclosure.
-  
 
 **3. Purpose**
 
@@ -54,5 +53,5 @@
 
 **13. Acknowledgement**
 
-   - By participating in the EdgeTX Team, the team members acknowledge that they have read, understood, and agree to be bound by this Policy.
+   - By participating in the EdgeTX Team, team members acknowledge that they have read, understood, and agree to be bound by this Policy.
 
