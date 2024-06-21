@@ -33,6 +33,10 @@ The current committee members (and their discord usernames) are:
 
 For more information about how the EdgeTX project is managed, see our [project bylaws page.](bylaws.md)
 
+### Development Team
+
+The EdgeTX Development Team is a group of active developers participating in the EdgeTX project.
+
 ### Donations
 
 If you would like to support the project financially, we have a donation system set up at Open Collective. So if you want to help out to run the planned future online-build system and help devs purchase hardware (e.g. radio systems & development equipment), you can set-up a regular donation, or send an one-time donation via the following link: [https://opencollective.com/edgetx/donate](https://opencollective.com/edgetx/donate)
