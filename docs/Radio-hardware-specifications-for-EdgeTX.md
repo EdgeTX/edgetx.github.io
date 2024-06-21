@@ -1,9 +1,9 @@
 # Hardware Requirements for EdgeTX
 
-## wording
+## Conventions used in this document
 * SHALL is used to express mandatory requirements (provisions that have to be followed):
     * the negative form is SHALL NOT.
-* SHOULD is used to express recommendations (provisions that an implementation is expected to follow unless there is a strong reason for not doing so and has to be cleard by the EdgeTX team):
+* SHOULD is used to express recommendations (provisions that an implementation is expected to follow unless there is a strong reason for not doing so and has to be cleared by the EdgeTX team):
     * the negative form is SHOULD NOT.
 * MAY is used to express permissible actions (provisions that an implementation is able to follow or not follow):
     * the negative form is NEED NOT (in English MAY NOT is ambiguous, so NEED NOT is used instead).
@@ -46,9 +46,9 @@
 * For radios with an internal module, lines to put the module into flashing mode to perform pass-through flashing
 * Unused GPIO pins shall be connected with a 10k resistor either to GND or VCC. The initial hw revision of a radio shall have them tied to GND, further revision shall use one or multiple of those pins to mark different hw revision of the radio to allow auto detection of the radio version or variant.
 
-### hardware design guidlines
+### Hardware design guidelines
 * all high speed interfaces like Quad/Octo/Hexa SPI, SDRAM, USB and SDIO shall be length / time of flight equalised
-    * relative timing constrains, e.g. for different SDRAM wires, shall be respected
+    * relative timing constraints, e.g. for different SDRAM wires, shall be respected
 * STM32H7 CPUs shall be used with Quad or Octo SPI flash that supports DDR and at least 100 MHz of DDR SPI clock speed
 * for connecting the Quad/Octp SPI flash and RAM the pins used on the evaluation boards shall be used
   * For H7R, STM32H7S78-DK
@@ -89,7 +89,7 @@
 * Monochrome display with either 128x64 pixels or 212x64 pixels.
 * possibility to flash the firmware via USB-DFU (with or without dedicated DFU button)
 * constantly enabled energy source for the real-time-clock
-* Keys to navigate the menus. Minimally, Menu, Enter, Return/Exit, Up, Down, Page and two horizontal trim buttons should be availabe. Up/Down can be substituted with an encoder/roller.
+* Keys to navigate the menus. Minimally, Menu, Enter, Return/Exit, Up, Down, Page and two horizontal trim buttons should be available. Up/Down can be substituted with an encoder/roller.
 * possibility to power down the radio from main microcontroller
 * possibility to sample the voltage of the main battery
 * Neopixel RGB LEDs only on PWM capable pins with DMA support
@@ -123,7 +123,7 @@
 * Explicit audio mute pin
 * in case of integrated charging circuitry/circuitries, feedback to main MCU about charging status of each charger
 * for external RF module bay support: either JR-micro or JR-nano bay
-* If trainer socket present: in/out shalle be connected to hw-PWM capable pins
+* If trainer socket present: in/out shall be connected to hw-PWM capable pins
 * GPIO extenders with I2C or SPI bus connectivity can be used for digital I/O. In case GPIO extenders are used as inputs, the interrupt output of the GPIO extender shall be connected to an input interrupt capable pin of the MCU. The interrupt lines of multiple GPIO extenders may be logically connected to the same MCU input line.
 * SPI flash
 * I2C EEPROM
@@ -136,5 +136,5 @@
 
 ## General Considerations
 * When the radio is equipped with flight mode buttons (6POS / six position switch), they should be connected in a way that they can be used individually (as 'customizable switches' in EdgeTX). In order to save MCU IO pins, this may be done using a single analog input and resistor ladder, or an I2C expander. These switches shall have visual feedback LEDs that can be controlled by the MCU. To save MCU IO pins, this may also be done using an I2C expander, or WS2812 (aka Neopixel) single serial line LEDs. 
-* the H7R and H5 CPUs support USB-C power delivery, the charging circuit may be designed with this is mind
+* Since the H7R and H5 CPUs support USB-C power delivery, the charging circuit may be designed with this in mind
           
