@@ -40,7 +40,7 @@ One member of the PSC is appointed the Chair, who has additional responsibilitie
 
 ### Terms
 
-Positions in the PSC have a term of 1 year. Terms will expire at the beginning of the calendar year, although committee members should continue to serve until a replacement has been officially voted in. The PSC second term will expire on 31 Dec 2023.
+Positions in the PSC have a term of 1 year. Terms will expire at the beginning of the calendar year, although committee members should continue to serve until a replacement has been officially voted in. The PSC third term will expire on 31 Dec 2024.
 
 ### Committee Member Elections
 
