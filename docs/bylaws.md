@@ -8,6 +8,8 @@ The name of this open source project is EdgeTX.
 
 The purpose of EdgeTX is to provide an open source software that allows users to choose freely from a number of compatible vendors and run their Radio Control (RC) models freely, without being bound to closed source systems. EdgeTX allows users to experiment and develop new features without limitations and restrictions by vendors and their commercial interests.
 
+The EdgeTX Project Steering Committee does not condone use of EdgeTX for military purposes of any type, and will not provide assistance to any parties wishing to do so.
+
 ### Code
 
 The source code for EdgeTX is maintained in GitHub Project  [EdgeTX](https://github.com/EdgeTX). The primary GitHub repository is the [edgetx ](https://github.com/EdgeTX/edgetx)repository.
