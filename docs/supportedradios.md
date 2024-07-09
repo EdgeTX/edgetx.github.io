@@ -11,6 +11,7 @@ The development and support for EdgeTX is conducted by the EdgeTX core developme
 * Jumper T-Pro (since v2.6)
 * Jumper T-Pro v2 (since v2.10)
 * Jumper T12 / T12 Plus / T12 Pro Hall (since v2.4)
+* Jumper T12 Max (will be supported from v2.10.3)
 * Jumper T14 (since v2.10, Companion to follow)
 * Jumper T15 (since v2.10.1, Companion to follow)
 * Jumper T16 / T16 Plus / T16 Pro Hall (since v2.4)
