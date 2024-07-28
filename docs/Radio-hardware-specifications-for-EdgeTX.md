@@ -54,6 +54,7 @@
   * For H7R, STM32H7S78-DK
   * For H7, STM32H750B-DK
 * STM32H7R MCUs may be used with Hexa-SPI PSRAM, one possible type is the IC used on the evaluation board.
+* the STM32H7RS series support 480 MBit/s USB on USB2 and 12 MBit/s USB on USB1. The MCU internal bootrom supports DFU mode only on USB1, so a USB switch, like the FSUSB42 by Onsmi, should be added, with the default set to USB 1, to be able to use DFU mode and 480 MBit/s USB
   
 ### Optional (color)
 * Display backlight shall be controllable via PWM - connection to hw-PWM capable pin on the MCU
