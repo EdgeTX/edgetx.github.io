@@ -16,6 +16,15 @@ For more information about EdgeTX, check out the [About EdgeTX page](https://edg
 
 ## What's new ##
 
+**August 2nd, 2024**
+
+**CRSF/ELRS telemetry simulation Developer Contest**
+
+Be the first developer to add support for CRSF/ELRS telemetry simulation to EdgeTX Companion and you will win a Jumper radio (the winner can pick a radio model between Jumper T14, T15, T20, T-ProS in the priced color of his/her choice). Contest ends after first successful submission or on 30 September 2024. Full contest details and rules can be found here: [https://edgetx.org/contest_crsf_telem_simulation](https://edgetx.org/contest_crsf_telem_simulation)
+
+---
+
+
 **February 27th, 2024**
 
 **UBX Protocol Developer Contest**
