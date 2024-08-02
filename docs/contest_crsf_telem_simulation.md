@@ -24,7 +24,7 @@ The winner can pick a radio model between Jumper T14, T15, T20, T-ProS in the pr
 
 **Hints:**
 
-See also discussion in: https://github.com/EdgeTX/edgetx/issues/4983, https://github.com/EdgeTX/edgetx/issues/3047, https://github.com/EdgeTX/edgetx/issues/2156 and https://github.com/EdgeTX/edgetx/issues/811
+See also discussion in: [EdgeTX/edgetx#4983](https://github.com/EdgeTX/edgetx/issues/4983), [EdgeTX/edgetx#3047](https://github.com/EdgeTX/edgetx/issues/3047), [EdgeTX/edgetx#2156](https://github.com/EdgeTX/edgetx/issues/2156) and [EdgeTX/edgetx#811](https://github.com/EdgeTX/edgetx/issues/811)
 
 **Rules**
 
