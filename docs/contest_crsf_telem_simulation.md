@@ -22,6 +22,10 @@ Be the first developer to make a pull-request (PR) against EdgeTX main GitHub re
 The winner can pick a radio model between Jumper T14, T15, T20, T-ProS in the produced color of his/her choice (sponsored by Jumper). The radio will be shipped world-wide free of charge directly from the Jumper factory to the winner and in case import fees will need to be paid, these will also be reimbursed by Jumper.
 
 
+**Hints:**
+
+See also discussion in: https://github.com/EdgeTX/edgetx/issues/4983, https://github.com/EdgeTX/edgetx/issues/3047, https://github.com/EdgeTX/edgetx/issues/2156 and https://github.com/EdgeTX/edgetx/issues/811
+
 **Rules**
 
 To be eligible to win the radio, an address of a 18+ years old person is required. Entries from anyone, who has previously won any previous EdgeTX developer contest, will be accepted earliest on September 1st, 2024. Members of the <a href="https://edgetx.org/bylaws/#edgetx-development-team">EdgeTX development team</a> cannot participate in the competition.
