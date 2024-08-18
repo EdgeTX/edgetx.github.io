@@ -10,6 +10,16 @@ hide:
 </P>
 
 
+## **Announcement: Winner of the CRSF/ELRS Telemetry Simulator Developer Contest!** ##
+
+We are excited to announce the winner of the CRSF/ELRS Telemetry Simulator Developer Contest.
+
+After careful evaluation and consideration, we are proud to declare **Nigel Williams** as the winner! As a token of appreciation for his outstanding contribution, Nigel will receive a Jumper T15 2.4 radio with internal 2.4 GHz ExpressLRS module (per his request), generously sponsored by Jumper. This state-of-the-art radio will be shipped worldwide free of charge directly from the Jumper factory to Nigel.
+
+We extend our heartfelt congratulations to Nigel Williams for this well-deserved win. Your contributions continue to enrich the EdgeTX community and propel its growth forward.
+
+---
+
 ## **Contest Details**
 
 **Task:**
