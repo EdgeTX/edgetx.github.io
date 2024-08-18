@@ -16,6 +16,15 @@ For more information about EdgeTX, check out the [About EdgeTX page](https://edg
 
 ## What's new ##
 
+**August 18th, 2024**
+
+**CRSF/ELRS telemetry simulation Developer Contest Winner**
+
+
+We are excited to announce the winner of the CRSF/ELRS Telemetry Simulator Developer Contest - Nigel Williams! As a token of appreciation for his outstanding contribution, Nigel will receive a Jumper T15 2.4 radio with internal 2.4 GHz ExpressLRS module (per his request), generously sponsored by Jumper. This state-of-the-art radio will be shipped worldwide free of charge directly from the Jumper factory to Nigel. We extend our heartfelt congratulations to Nigel Williams for this well-deserved win.
+
+---
+
 **August 2nd, 2024**
 
 **CRSF/ELRS telemetry simulation Developer Contest**
@@ -24,6 +33,13 @@ Be the first developer to add support for CRSF/ELRS telemetry simulation to Edge
 
 ---
 
+**March 3rd, 2024**
+
+**UBX Protocol Developer Contest Winner**
+
+We are excited to announce the winner of the UBX Developer Contest - David Pham-Van! As a token of appreciation for his outstanding contribution, David will receive a RadioMaster Boxer MAX radio (per his request), generously sponsored by RadioMaster. This state-of-the-art radio will be shipped worldwide free of charge directly from the RadioMaster factory to David. We extend our heartfelt congratulations to David Pham-Van for this well-deserved second EdgeTX developer competition win.
+
+---
 
 **February 27th, 2024**
 
