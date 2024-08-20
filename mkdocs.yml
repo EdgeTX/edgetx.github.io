@@ -26,8 +26,8 @@ nav:
         - Non-Disclosure Policy: nda.md
     - EdgeTX Fest:
         - Fest 2024: fest2024.md
-    - CRSF/ELRS Telem Simu Contest:
-        - CRSF/ELRS Telem Simu Contest: contest_crsf_telem_simulation.md
+    - Companion Simu Physical Serial Contest:
+        - Companion Simulator Physical Serial Contest: contest_comp_physer.md
 theme:
   name: material
   custom_dir: overrides
