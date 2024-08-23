@@ -4,11 +4,38 @@ hide:
 ---
 ## What's new ##
 
+**August 23rd, 2024**
+
+**Companion Simulator Physical Serial Port Contest**
+
+Be the first developer to add support for physical serial port connectivity for EdgeTX Companion Simulator for all presently supported OS (MacOS/Linux/Windows) in order to interact with physical peripherals from a simulated radio AUX ports and you will win a Jumper radio (the winner can pick a radio model between Jumper T14, T15, T20, T-ProS in the priced color of his/her choice). Contest ends after first successful submission or on midnight 15 October 2024 GMT. Full contest details and rules can be found here: [https://edgetx.org/contest_comp_physer](https://edgetx.org/contest_comp_physer)
+
+---
+
+**August 18th, 2024**
+
+**CRSF/ELRS telemetry simulation Developer Contest Winner**
+
+
+We are excited to announce the winner of the CRSF/ELRS Telemetry Simulator Developer Contest - Nigel Williams! As a token of appreciation for his outstanding contribution, Nigel will receive a Jumper T15 radio with internal 2.4 GHz ExpressLRS module (per his request), generously sponsored by Jumper. This state-of-the-art radio will be shipped worldwide free of charge directly from the Jumper factory to Nigel. We extend our heartfelt congratulations to Nigel Williams for this well-deserved win.
+
+---
+
+
 **August 2nd, 2024**
 
 **CRSF/ELRS telemetry simulation Developer Contest**
 
 Be the first developer to add support for CRSF/ELRS telemetry simulation to EdgeTX Companion and you will win a Jumper radio (the winner can pick a radio model between Jumper T14, T15, T20, T-ProS in the priced color of his/her choice). Contest ends after first successful submission or on 30 September 2024. Full contest details and rules can be found here: [https://edgetx.org/contest_crsf_telem_simulation](https://edgetx.org/contest_crsf_telem_simulation)
+
+---
+
+
+**March 3rd, 2024**
+
+**UBX Protocol Developer Contest Winner**
+
+We are excited to announce the winner of the UBX Developer Contest - David Pham-Van! As a token of appreciation for his outstanding contribution, David will receive a RadioMaster Boxer MAX radio (per his request), generously sponsored by RadioMaster. This state-of-the-art radio will be shipped worldwide free of charge directly from the RadioMaster factory to David. We extend our heartfelt congratulations to David Pham-Van for this well-deserved second EdgeTX developer competition win.
 
 ---
 
