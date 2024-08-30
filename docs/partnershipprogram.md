@@ -36,8 +36,8 @@ By participating in this program, R/C radio manufacturers are helping support th
 
 ## Partnership Tiers
 <p align="center">
-<img src="/assets/SilverPartner.png?raw=true" align="center" width="120"></a>
-<img src="/assets/GoldPartner.png?raw=true" align="center" width="120"></a>
+<img src="/assets/SilverPartner.png" align="center" width="120"></a>
+<img src="/assets/GoldPartner.png" align="center" width="120"></a>
 </P>
 
 We have created partnership tiers that acknowledge and reward our partners for providing substantial financial support to our project:
@@ -77,8 +77,8 @@ If you are interested in participating in the Partnership program, please contac
 
 ## Official EdgeTX Partners
 
-<img src="assets//FlySkyGold.png?raw=true" align="center" height="100"></td>
+<img src="/assets/FlySkyGold.png" align="center" height="100"></td>
 
-<img src="/assets//RadioMasterGold.png?raw=true" align="center" height="100"></td> 
+<img src="/assets/RadioMasterGold.png" align="center" height="100"></td> 
  
-<img src="/assets/JumperGold.png?raw=true" align="center" height="100"></td>
+<img src="/assets/JumperGold.png" align="center" height="100"></td>
