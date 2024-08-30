@@ -76,9 +76,8 @@ If you are interested in participating in the Partnership program, please contac
 
 
 ## Official EdgeTX Partners
-
-<img src="/assets/FlySkyGold.png" align="center" height="100"></td>
-
-<img src="/assets/RadioMasterGold.png" align="center" height="100"></td> 
- 
-<img src="/assets/JumperGold.png" align="center" height="100"></td>
+<p>
+<img src="/assets/FlySkyGold.png" height="100">
+<img src="/assets/RadioMasterGold.png" height="100">
+<img src="/assets/JumperGold.png" height="100">
+</p>
