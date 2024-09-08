@@ -5,8 +5,9 @@ Below is a list of EdgeTX-compatible radios and their level of support.
 
 The development and support for EdgeTX is conducted by the EdgeTX core development team with the support of developers from the community. Firmware for these radios is included in the main EdgeTX codebase.
 
-* Flysky NV14 (since v2.5)
 * Flysky EL18 (since v2.8)
+* Flysky NB4+ (support planned for v2.11)
+* Flysky NV14 (since v2.5)
 * Jumper T-Lite / T-Lite v2 (since v2.4)
 * Jumper T-Pro (since v2.6)
 * Jumper T-Pro v2 (since v2.10)
@@ -35,6 +36,8 @@ The development and support for EdgeTX is conducted by the hardware manufacturer
 
 * iFlight Commando8 (since v2.8)
 * BetaFPV LiteRadio3 Pro (since v2.8)
+* FatFish F16 (support planned for v2.11)
+* HelloRadioSky V16 (support planned for v2.11)
 
 ---
 
