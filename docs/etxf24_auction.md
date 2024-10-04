@@ -18,6 +18,8 @@ On Sunday, October 27th, 2024, after the regular end of EdgeTX Fest 2024, approx
 
 Payment with cash or PayPal transfer on site only. The winning bidders need to be able to transport the items away from LARKS R/C model club field latest by 6:30 PM on October 27th, 2024.
 
+The items were bought new for EdgeTX Fest 2024, nevertheless we will not guarantee the item list above, nor their mint condition. You bid on items that you see on site during the auction.
+
 ---
        
 **If you have questions about the auction or events, feel free to email us at: PSC@edgetx.org**
