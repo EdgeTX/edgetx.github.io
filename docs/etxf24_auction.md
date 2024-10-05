@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-On Sunday, October 27th, 2024, after the regular end of EdgeTX Fest 2024, approximately from 5:15 PM, EdgeTX will auction off to highest bidder some of the demonstration equipment:
+On Sunday, October 27th, 2024, after the regular end of EdgeTX Fest 2024, approximately from 5:15 PM, EdgeTX will auction off to highest bidder(s) some of the equipment used during EdgeTX Fest 2024:
 
  - two [10´ x 20´ sized blue Sanopy pavilions/tents](https://www.walmart.com/ip/SANOPY-10-x-20-EZ-Pop-Up-Canopy-Tent-Party-Tent-Outdoor-Event-Instant-Tent-Gazebo-with-6-Removable-Sidewalls-and-Carry-Bag-Dark-Gray/2581958731){:target="_blank"}
 
