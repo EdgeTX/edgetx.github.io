@@ -8,6 +8,7 @@ The development and support for EdgeTX is conducted by the EdgeTX core developme
 * Flysky EL18 (since v2.8)
 * Flysky NB4+ (support planned for v2.11)
 * Flysky NV14 (since v2.5)
+* Jumper Bumblebee (since v2.10.5)
 * Jumper T-Lite / T-Lite v2 (since v2.4)
 * Jumper T-Pro (since v2.6)
 * Jumper T-Pro v2 (since v2.10)
