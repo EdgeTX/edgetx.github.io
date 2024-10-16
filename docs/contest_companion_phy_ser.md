@@ -10,7 +10,7 @@ hide:
 </P>
 
 
-<b>Update:</b> This developer competition has ended. We have received a single entry https://github.com/EdgeTX/edgetx/pull/5584 and are presently evaluating it.
+<b>Update:</b> This developer competition has ended. We have received a single entry [https://github.com/EdgeTX/edgetx/pull/5584](https://github.com/EdgeTX/edgetx/pull/5584) and are presently evaluating it.
 
 ## **Contest Details**
 
