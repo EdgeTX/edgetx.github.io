@@ -45,6 +45,7 @@
     * H7R radios shall support Hi-Speed (480 MBit/s) USB
 * For radios with an internal module, lines to put the module into flashing mode to perform pass-through flashing
 * Unused GPIO pins shall be connected with a 10k resistor either to GND or VCC. The initial hw revision of a radio shall have them tied to GND, further revision shall use one or multiple of those pins to mark different hw revision of the radio to allow auto detection of the radio version or variant.
+* on radios with STM32H750 series MCUs and high-resolution color displays (where the screen resolution is higher than 480x320 pixels), the SDRAM must be connected via 32 bit data bus
 
 ### Hardware design guidelines
 * all high speed interfaces like Quad/Octo/Hexa SPI, SDRAM, USB and SDIO shall be length / time of flight equalised
@@ -55,6 +56,7 @@
   * For H7, STM32H750B-DK
 * STM32H7R MCUs may be used with Hexa-SPI PSRAM, one possible type is the IC used on the evaluation board.
 * the STM32H7RS series support 480 MBit/s USB on USB2 and 12 MBit/s USB on USB1. The MCU internal bootrom supports DFU mode only on USB1, so a USB switch, like the FSUSB42 by Onsmi, should be added, with the default set to USB 1, to be able to use DFU mode and 480 MBit/s USB
+* on radios with STM32H750 series MCUs, it is advised to connect the SDRAM to the MCU via 32 bit bus (minimally 16-bit bus is needed, 32-bit bus provides a performance benefit)
   
 ### Optional (color)
 * Display backlight shall be controllable via PWM - connection to hw-PWM capable pin on the MCU
