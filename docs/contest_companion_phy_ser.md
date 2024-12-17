@@ -9,8 +9,14 @@ hide:
 <a><img src="/assets/CompPhySerPoster.png?raw=true" align="center" width="497"></a>
 </P>
 
+## **Announcement: Winner of the Companion Simulator Physical Serial Port Connectivity Developer Contest!** ##
 
-<b>Update:</b> This developer competition has ended. We have received a single entry [https://github.com/EdgeTX/edgetx/pull/5584](https://github.com/EdgeTX/edgetx/pull/5584) and are presently evaluating it.
+We are excited to announce the winner of the Companion Simulator Physical Serial Port Connectivity Developer Contest.
+
+After careful evaluation and consideration, we are proud to declare **Nigel Williams** as the winner! The winning submission can be found in [EdgeTX/edgetx#5584](https://github.com/EdgeTX/edgetx/pull/5584).
+
+We extend our heartfelt congratulations to Nigel Williams for this well-deserved win. Your contributions continue to enrich the EdgeTX community and propel its growth forward.
+
 
 ## **Contest Details**
 
