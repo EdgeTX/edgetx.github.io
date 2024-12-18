@@ -13,7 +13,7 @@ hide:
 
 We are excited to announce the winner of the Companion Simulator Physical Serial Port Connectivity Developer Contest.
 
-After careful evaluation and consideration, we are proud to declare **Nigel Williams** as the winner! The winning submission can be found in [EdgeTX/edgetx#5584](https://github.com/EdgeTX/edgetx/pull/5584).
+After careful evaluation and consideration, we are proud to declare **Nigel Williams** as the winner! The winning submission can be found in [EdgeTX/edgetx#5584](https://github.com/EdgeTX/edgetx/pull/5584). As a token of appreciation for his outstanding contribution, Nigel will receive a [T20 V2 radio with internal 2.4 GHz ExpressLRS Gemini module](https://www.jumper-rc.com/transmitters/t20-3/) (per his request), generously sponsored by Jumper. This state-of-the-art radio will be shipped worldwide free of charge directly from the Jumper factory to Nigel.
 
 We extend our heartfelt congratulations to Nigel Williams for this well-deserved win. Your contributions continue to enrich the EdgeTX community and propel its growth forward.
 
