@@ -48,7 +48,7 @@
 * on radios with STM32H750 series MCUs and high-resolution color displays (where the screen resolution is higher than 480x320 pixels), the SDRAM must be connected via 32 bit data bus
 * STM32H7, STM32H7R, STM32H7S and STM32H5 MCUs have a modernised UART/UASART hardware
     * no inverters **SHALL** be connected to the UART/USART pins, the MCU can handle polarity inversion in HW, without external help
-    * the S.PORT pin of the module bay **SHALL** be connected directly to the MCU UART/USART TX pin, **NO** inverter or direction switch logic is needed. The MCU can handle half-duplex in hardware, without external help
+    * the S.PORT pin of the module bay **SHALL** be connected directly to the MCU UART/USART TX pin, **NO** inverter or direction switch logic is needed, add a 10kOhm pull up resistor. The MCU can handle half-duplex in hardware, without external help
 
 ### Hardware design guidelines
 * all high speed interfaces like Quad/Octo/Hexa SPI, SDRAM, USB and SDIO shall be length / time of flight equalised
@@ -115,7 +115,7 @@
 * Unused GPIO pins shall be connected with a 10k resistor either to GND or VCC. The initial hw revision of a radio shall have them tied to GND, further revision shall use one or multiple of those pins to mark different hw revision of the radio to allow auto detection of the radio version or variant.
 * STM32H7, STM32H7R, STM32H7S and STM32H5 MCUs have a modernised UART/UASART hardware
     * no inverters **SHALL** be connected to the UART/USART pins, the MCU can handle polarity inversion in HW, without external help
-    * the S.PORT pin of the module bay **SHALL** be connected directly to the MCU UART/USART TX pin, **NO** inverter or direction switch logic is needed. The MCU can handle half-duplex in hardware, without external help
+    * the S.PORT pin of the module bay **SHALL** be connected directly to the MCU UART/USART TX pin, **NO** inverter or direction switch logic is needed, add a 10kOhm pull up resistor. The MCU can handle half-duplex in hardware, without external help
 
 ### hardware design guidlines
 * all high speed interfaces like Quad/Octo/Hexa SPI, SDRAM, USB and SDIO shall be length / time of flight equalised
