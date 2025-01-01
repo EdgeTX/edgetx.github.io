@@ -46,6 +46,9 @@
 * For radios with an internal module, lines to put the module into flashing mode to perform pass-through flashing
 * Unused GPIO pins shall be connected with a 10k resistor either to GND or VCC. The initial hw revision of a radio shall have them tied to GND, further revision shall use one or multiple of those pins to mark different hw revision of the radio to allow auto detection of the radio version or variant.
 * on radios with STM32H750 series MCUs and high-resolution color displays (where the screen resolution is higher than 480x320 pixels), the SDRAM must be connected via 32 bit data bus
+* STM32H7, STM32H7R, STM32H7S and STM32H5 MCUs have a modernised UART/UASART hardware
+    * no inverters **SHALL** be connected to the UART/USART pins, the MCU can handle polarity inversion in HW, without external help
+    * the S.PORT pin of the module bay **SHALL** be connected directly to the MCU UART/USART TX pin, **NO** inverter or direction switch logic is needed. The MCU can handle half-duplex in hardware, without external help
 
 ### Hardware design guidelines
 * all high speed interfaces like Quad/Octo/Hexa SPI, SDRAM, USB and SDIO shall be length / time of flight equalised
@@ -57,6 +60,7 @@
 * STM32H7R MCUs may be used with Hexa-SPI PSRAM, one possible type is the IC used on the evaluation board.
 * the STM32H7RS series support 480 MBit/s USB on USB2 and 12 MBit/s USB on USB1. The MCU internal bootrom supports DFU mode only on USB1, so a USB switch, like the FSUSB42 by Onsmi, should be added, with the default set to USB 1, to be able to use DFU mode and 480 MBit/s USB
 * on radios with STM32H750 series MCUs, it is advised to connect the SDRAM to the MCU via 32 bit bus (minimally 16-bit bus is needed, 32-bit bus provides a performance benefit)
+* all connectors that are accessible without opening the radio (antenna, module bay, UARTs, SD card slot, ...) need to have an ESD protection, to be compliant to EU CE regulations. The relevant standard is IEC 61000-4-2, the test level should be level 4. You can find an overview on ESD protection methods there: https://www.st.com/resource/en/application_note/an5612-esd-protection-of-stm32-mcus-and-mpus-stmicroelectronics.pdf
   
 ### Optional (color)
 * Display backlight shall be controllable via PWM - connection to hw-PWM capable pin on the MCU
@@ -109,10 +113,14 @@
 * USB-C device mode connection (minimally for new radios)
 * For radios with an internal module, lines to put the module into flashing mode to perform pass-through flashing
 * Unused GPIO pins shall be connected with a 10k resistor either to GND or VCC. The initial hw revision of a radio shall have them tied to GND, further revision shall use one or multiple of those pins to mark different hw revision of the radio to allow auto detection of the radio version or variant.
+* STM32H7, STM32H7R, STM32H7S and STM32H5 MCUs have a modernised UART/UASART hardware
+    * no inverters **SHALL** be connected to the UART/USART pins, the MCU can handle polarity inversion in HW, without external help
+    * the S.PORT pin of the module bay **SHALL** be connected directly to the MCU UART/USART TX pin, **NO** inverter or direction switch logic is needed. The MCU can handle half-duplex in hardware, without external help
 
 ### hardware design guidlines
 * all high speed interfaces like Quad/Octo/Hexa SPI, SDRAM, USB and SDIO shall be length / time of flight equalised
 * possible pin assignments can be found in the documentation of the evaluation board: NUCLEO-H563ZI
+* all connectors that are accessible without opening the radio (antenna, module bay, UARTs, SD card slot, ...) need to have an ESD protection, to be comliant to EU CE regulations. The relevant standard is IEC 61000-4-2, the test level should be level 4. You can find an overview on ESD protection methods there: https://www.st.com/resource/en/application_note/an5612-esd-protection-of-stm32-mcus-and-mpus-stmicroelectronics.pdf
  
 ### Optional (B/W)
 * Display backlight control via PWM - connection to hw-PWM capable pin on the MCU
