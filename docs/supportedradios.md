@@ -10,11 +10,11 @@ The development and support for EdgeTX is conducted by the EdgeTX core developme
 * Flysky NV14[^2] (since v2.5)
 * Flysky PL18/PL18EV[^3] (limited support since v.2.10)
 * Jumper Bumblebee (since v2.10.5)
-* Jumper T-Lite / T-Lite v2 (since v2.4)
-* Jumper T-Pro (since v2.6)
+* Jumper T-Lite / T-Lite v2 (since v2.4, v2.11 will be the last version to support this radio)
+* Jumper T-Pro (since v2.6, v2.11 will be the last version to support this radio)
 * Jumper T-Pro v2 (since v2.10)
 * Jumper T-Pro S (since v2.10.3)
-* Jumper T12 / T12 Plus / T12 Pro Hall (since v2.4)
+* Jumper T12 / T12 Plus / T12 Pro Hall (since v2.4, v2.11 will be the last version to support this radio)
 * Jumper T12 Max (since v2.10.3)
 * Jumper T14 (since v2.10)
 * Jumper T15 (since v2.10.1)
@@ -25,8 +25,9 @@ The development and support for EdgeTX is conducted by the EdgeTX core developme
 * RadioMaster Boxer (since v2.8.1)
 * RadioMaster MT12 (since v2.10, Companion to follow)
 * RadioMaster Pocket (since v2.10)
-* RadioMaster T8 Pro (since v2.4)
-* RadioMaster TX12 (since v2.4) / TX12 Mark II (since v2.8)
+* RadioMaster T8 Pro (since v2.4, v2.11 will be the last version to support this radio)
+* RadioMaster TX12 (since v2.4, v2.11 will be the last version to support this radio)
+* RadioMaster TX12 Mark II (since v2.8)
 * RadioMaster TX16S / RadioMaster TX16S MAX / RadioMaster TX16S Mark II (since v2.4)
 * RadioMaster Zorro (since v2.6)
 
@@ -42,7 +43,7 @@ The development and support for EdgeTX is conducted by the EdgeTX core developme
 The development and support for EdgeTX is conducted by the hardware manufacturers themselves. All changes made by the manufacturer are then submitted for review and inclusion into the main EdgeTX codebase.
 
 * iFlight Commando8 (since v2.8)
-* BetaFPV LiteRadio3 Pro (since v2.8)
+* BetaFPV LiteRadio3 Pro (since v2.8, v2.11 will be the last version to support this radio)
 * FatFish F16 (support planned for v2.11)
 * HelloRadioSky V12 (support planned for v2.11)
 * HelloRadioSky V14 (support planned for v2.11)
@@ -55,14 +56,14 @@ The development and support for EdgeTX is conducted by the hardware manufacturer
 The development and support for EdgeTX is conducted by other interested 3rd parties from the community. Changes can be proposed as pull-requests to be considered for inclusion into the main EdgeTX codebase.
 
 * Eachine TX16S (since v2.4)
-* FrSky QX7 / QX7S / QX7 ACCESS / QX7S ACCESS (since v2.4)
-* FrSky X9 Lite / X9 Lite S (since v2.4)
-* FrSky X9D / X9D+ / X9D+ SE (since v2.4)
+* FrSky QX7 / QX7S / QX7 ACCESS / QX7S ACCESS (since v2.4, v2.11 will be the last version to support this radio)
+* FrSky X9 Lite / X9 Lite S (since v2.4, v2.11 will be the last version to support this radio)
+* FrSky X9D / X9D+ / X9D+ SE (since v2.4, v2.11 will be the last version to support this radio)
 * FrSky X9D+ 2019 / X9D+ SE 2019  (since v2.4)
 * Frsky X9E / Frsky X9E Hall (since v2.4)
 * FrSky X10 / X10S / X10 Express / X10S Express (since v2.4)
 * FrSky X12S / X12S-IRSM (since v2.4)
-* FrSky X-Lite / X-Lite S / X-Lite Pro (since v2.4)
+* FrSky X-Lite / X-Lite S / X-Lite Pro (since v2.4, v2.11 will be the last version to support this radio)
 
 ---
 ***Note**: To better support the manufacturers' release timelines, the manufacturers' can release an EdgeTX-supported radio with a "ready for manufacture" version of EdgeTX that has been developed in collaboration with the EdgeTX team that has not yet been merged into the main codebase. As a result, this firmware will not be available in EdgeTX Buddy or EdgeTX Companion until the next minor EdgeTX release. 
