@@ -1,4 +1,4 @@
-name: phileville.github.io
+run-name: name: phileville.github.io
 on:
   push:
     branches:
