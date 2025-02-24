@@ -26,8 +26,8 @@ nav:
         - Non-Disclosure Policy: nda.md
     - EdgeTX Fest:
         - Fest 2024: fest2024.md
-    - Companion Simu Physical Serial Contest:
-        - Companion Simulator Physical Serial Contest: contest_companion_phy_ser.md
+    - Developer Contests:
+        - Developer Contests: devcontest.md
 theme:
   name: material
   custom_dir: overrides
