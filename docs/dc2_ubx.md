@@ -6,7 +6,7 @@ hide:
 
 <p></p> 
 <p align="center">
-<a><img src="/assets/UBXContestPoster.jpg?raw=true" align="center" width="497"></a>
+<a><img src="/assets/dc2_poster.jpg?raw=true" align="center" width="497"></a>
 </P>
 
 

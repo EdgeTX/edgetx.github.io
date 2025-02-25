@@ -4,6 +4,14 @@ hide:
 ---
 ## What's new ##
 
+**February 25th, 2025**
+
+**Web Simulator Developer Contest**
+
+Be the first developer to make a web based EdgeTX radio firmware simulator and you will win a Flysky Elysium EL18 radio and Flysky FRM303 RF Module (Carefree edition) combo. The contest ends after first successful submission or on midnight April 30th, 2025 GMT.  Full contest details and rules can be found here: [https://edgetx.org/dc5_websimu](https://edgetx.org/dc5_websimu)
+
+---
+
 
 **December 18th, 2024**
 
@@ -18,7 +26,7 @@ We are excited to announce the winner of the Companion Simulator Physical Serial
 
 **Companion Simulator Physical Serial Port Contest**
 
-Be the first developer to add support for physical serial port connectivity for EdgeTX Companion Simulator for all presently supported OS (MacOS/Linux/Windows) in order to interact with physical peripherals from a simulated radio AUX ports and you will win a Jumper radio (the winner can pick a radio model between Jumper T14, T15, T20, T-ProS in the priced color of his/her choice). Contest ends after first successful submission or on midnight 15 October 2024 GMT. Full contest details and rules can be found here: [https://edgetx.org/contest_companion_phy_ser](https://edgetx.org/contest_companion_phy_ser)
+Be the first developer to add support for physical serial port connectivity for EdgeTX Companion Simulator for all presently supported OS (MacOS/Linux/Windows) in order to interact with physical peripherals from a simulated radio AUX ports and you will win a Jumper radio (the winner can pick a radio model between Jumper T14, T15, T20, T-ProS in the priced color of his/her choice). Contest ends after first successful submission or on midnight 15 October 2024 GMT.
 
 ---
 
@@ -36,7 +44,7 @@ We are excited to announce the winner of the CRSF/ELRS Telemetry Simulator Devel
 
 **CRSF/ELRS telemetry simulation Developer Contest**
 
-Be the first developer to add support for CRSF/ELRS telemetry simulation to EdgeTX Companion and you will win a Jumper radio (the winner can pick a radio model between Jumper T14, T15, T20, T-ProS in the priced color of his/her choice). Contest ends after first successful submission or on 30 September 2024. Full contest details and rules can be found here: [https://edgetx.org/contest_crsf_telem_simulation](https://edgetx.org/contest_crsf_telem_simulation)
+Be the first developer to add support for CRSF/ELRS telemetry simulation to EdgeTX Companion and you will win a Jumper radio (the winner can pick a radio model between Jumper T14, T15, T20, T-ProS in the priced color of his/her choice). Contest ends after first successful submission or on 30 September 2024.
 
 ---
 
@@ -54,7 +62,7 @@ We are excited to announce the winner of the UBX Developer Contest - David Pham-
 
 **UBX Protocol Developer Contest**
 
-Be the first developer to add support for the UBX protocol to EdgeTX and you will win a RadioMaster TX16s Mark II Max. Contest ends after first successful submission or on 30 September 2024. Full contest details and rules can be found here: [https://edgetx.org/contest_ubx](https://edgetx.org/contest_ubx)
+Be the first developer to add support for the UBX protocol to EdgeTX and you will win a RadioMaster TX16s Mark II Max. Contest ends after first successful submission or on 30 September 2024.
 
 ---
 
@@ -332,7 +340,7 @@ The Doom firmware file (already compiled): [https://drive.google.com/file/d/1vqW
 
 **DOOM developer competition**
 
-Be the first developer to port Doom to the RadioMaster TX16S and you will win a set of AG01 gimbals for the TX16S (sponsored by RadioMaster). Submissions due 9 September 2022. Full contest details can be found under: [Doom Developer Competition](https://edgetx.org/doomport)
+Be the first developer to port Doom to the RadioMaster TX16S and you will win a set of AG01 gimbals for the TX16S (sponsored by RadioMaster). Submissions due 9 September 2022.
 
 ---
 

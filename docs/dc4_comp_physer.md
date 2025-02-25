@@ -6,7 +6,7 @@ hide:
 
 <p></p> 
 <p align="center">
-<a><img src="/assets/CompPhySerPoster.png?raw=true" align="center" width="497"></a>
+<a><img src="/assets/dc4_poster.png?raw=true" align="center" width="497"></a>
 </P>
 
 ## **Announcement: Winner of the Companion Simulator Physical Serial Port Connectivity Developer Contest!** ##
