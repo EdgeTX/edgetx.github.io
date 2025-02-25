@@ -31,7 +31,7 @@ Ideally, the WASM simulator component should be only responsible for running the
 
 **Prize:**
 
-[Flysky Elysium EL18 radio](https://www.flysky-cn.com/el18description) with a [Flysky FRM303 Module (Carefree edition)](https://www.flysky-cn.com/frm303description) (sponsored by Flysky). The combo set will be shipped world-wide (see next sentence for limitations!) free of charge directly from the Flysky factory to the winner. Due to current geo-political situation, the prizes cannot be shipped to regions affected by war or other objective circumstances where logistics cannot deliver them. For detailed information about the limitations, please contact [Flysky](mailto:flyskyrc@flysky-cn.net). EdgeTX would cover any possible local import fees (the winner of this competition can hand in the possible import fee bill via our [OpenCollective page](https://opencollective.com/edgetx/expenses/new)).
+A [Flysky Elysium EL18 radio](https://www.flysky-cn.com/el18description) with a [Flysky FRM303 Module (Carefree edition)](https://www.flysky-cn.com/frm303description) (sponsored by Flysky). The combo set will be shipped world-wide (see next sentence for limitations!) free of charge directly from the Flysky factory to the winner. Due to current geo-political situation, the prizes cannot be shipped to regions affected by war or other objective circumstances where logistics cannot deliver them. For detailed information about the limitations, please contact [Flysky](mailto:flyskyrc@flysky-cn.net). EdgeTX would cover any possible local import fees (the winner of this competition can hand in the possible import fee bill via our [OpenCollective page](https://opencollective.com/edgetx/expenses/new)).
 
 
 **Rules**
