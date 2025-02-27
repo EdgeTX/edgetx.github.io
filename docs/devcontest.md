@@ -6,8 +6,13 @@ hide:
 
 ## **Currently active developer contests**
 
+* [8th - Most popular new Lua widget using LVGL controls](https://edgetx.org/dc8_lualvglwidget). Runs until midnight April 30th, 2025 GMT.
 
-* [5th - Web based EdgeTX radio firmware simulator](https://edgetx.org/dc5_websimu)
+* [7th - Haptic feedback for EdgeTX Companion Simulator](https://edgetx.org/dc7_simuhaptic). Runs until first successful submission or until midnight April 30th, 2025 GMT.
+
+* [6th - EdgeTX Buddy backup and restore](https://edgetx.org/dc6_buddybackup). Runs until first successful submission or until midnight April 30th, 2025 GMT.
+
+* [5th - Web based EdgeTX radio firmware simulator](https://edgetx.org/dc5_websimu). Runs until first successful submission or until midnight April 30th, 2025 GMT.
 
 
 ## **Past developer contests**
