@@ -1,4 +1,4 @@
-name: phileville.github.io
+name: Deploy
 on:
   push:
     branches:
