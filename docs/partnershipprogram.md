@@ -31,7 +31,7 @@ By participating in this program, R/C radio manufacturers are helping support th
  
  - Provide a reasonable number of hardware devices, as requested by the EdgeTX Team, to be used for initial development and testing. And after a product has been released, provide the final hardware version, so that the EdgeTX team can support users.
 
- - Provide a monthly or annual donation (amount to be agreed upon with the EdgeTX Team) to help defray the cost of the online build systems, events, marketing, and other administrative expenses (to be used at the sole discretion of the EdgeTX Team).
+ - Provide a monthly contribution between €100 to €500 to help defray the cost of the online build systems, events, marketing, and other administrative expenses (to be used at the sole discretion of the EdgeTX Team).
 
 
 ## Partnership Tiers
@@ -42,7 +42,7 @@ By participating in this program, R/C radio manufacturers are helping support th
 
 We have created partnership tiers that acknowledge and reward our partners for providing substantial financial support to our project:
 
-- Silver Partner: For monthly contributions between € 250 and less than €500.
+- Silver Partner: For monthly contributions between €250 and less than €500.
 
 - Gold Partner: For monthly contributions of €500 or more.
   
@@ -55,6 +55,17 @@ To join the EdgeTX Partner program, a manufacturer must first reach out to us ei
 Once the EdgeTX Project Steering Committee (EdgeTX PSC) has discussed this internally, if we agree to work with a prospective manufacturer, we will set up a private discussion channel on Discord to continue working with the manufacturer on the handset to a subsequent release of EdgeTX. This would mostly entail meeting the [Requirements for manufacturers](#Requirements-for-manufacturers). Any information shared is protected by a [Non-Disclosure Policy](https://edgetx.org/nda/), which both the EdgeTX PSC and several trusted community developers have agreed to.
 
 Upon the successful inclusion of a handset into the EdgeTX codebase, if all of the [Requirements for manufacturers](#Requirements-for-manufacturers) have been met, the manufacturer can request to become an EdgeTX Partner. This would then be voted upon at the next EdgeTX Project Steering Committee meeting, and the outcome of the vote communicated back to the manufacturer.
+
+## Responsibilities for Manufacturer Partners
+Partners are required to produce good quality hardware and provide good after-sales services, EdgeTX Team should not be the first contact for any after-sales services.  If any partners failed to comply rthe following responsibilities, EdgeTX team may choose to end the partnership collaboration at any time by notifying the partner.
+ 
+ - Partners should provide links for use to list out in our website for after-sales services.
+
+ - User enquiries should be first handled by the after-sales team of partners, and if there are any bugs identified, they should be filed in our [GitHub Issues](https://github.com/EdgeTX/edgetx/issues) for following up and bug fixing.
+ 
+ - Partners should provide an after-sales contact, who are responsible to file any bugs discovered, and follow up the fixing status of know bugs on a timely basis.  Bugs reported by partners will be prioritized according to the partner tier for fixing.
+
+ - Partners should participate in testing of all new firmware releases to ensure that new firmware will not breaks their radios
 
 
 ### Additional important information
