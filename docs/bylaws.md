@@ -24,13 +24,12 @@ The section that follows describes how the (PSC) is formed and operates to make 
 
 The current committee members (and their Discord usernames) are:
 
-- Raphael Coeffic (pafleraf) - Committee Chair
-- Robert Janiszewski (JimB40)
-- Peter Feerick (pfeerick)
-- Risto Kõiva (Risto)
-- Richard Li (Richard Li)
-- Phil Eville (EZRipFPV)
-- Malte Langermann (Malte)
+- Raphael Coeffic (pafleraf) - Committee Chair  
+- Peter Feerick (pfeerick)  
+- Robert Janiszewski (JimB40)  
+- Risto Kõiva (Risto)  
+- Malte Langermann (Malte)  
+- Richard Li (Richard Li)  
 
 ### Structure
 
@@ -40,20 +39,20 @@ One member of the PSC is appointed the Chair, who has additional responsibilitie
 
 ### Terms
 
-Positions in the PSC have a term of 1 year. Terms will expire at the beginning of the calendar year, although committee members should continue to serve until a replacement has been officially voted in. The PSC third term will expire on 31 Dec 2024.
+Positions in the PSC have a term of 1 year. Terms will expire at the beginning of the calendar year, although committee members should continue to serve until a replacement has been officially voted in. The PSC fourth term will expire on 31 Dec 2025.
 
 ### Committee Member Elections
 
 When a vacancy in the PSC is created, any member of the PSC may nominate someone for the PSC. Nominees must indicate acceptance of the nomination to be eligible for election. A self-nomination is treated as already being accepted by the nominee.
 
-Once all nominations for a PSC position have been made, a vote will be taken from the current PSC.  The nominee with the most votes from the majority of the voting PSC members will be added to the PSC. 
+Once all nominations for a PSC position have been made, a vote will be taken from the current PSC. The nominee with the most votes from the majority of the voting PSC members will be added to the PSC. 
 
 ### PSC Voting Process
 
-For actions that require a PSC vote (ie. new PSC members, removal of members, the appointment of PSC Chair, project administrative decisions or disputed technical decisions)  a vote will be called during a PSC meeting.  
+For actions that require a PSC vote (ie. new PSC members, removal of members, the appointment of PSC Chair, project administrative decisions or disputed technical decisions) a vote will be called during a PSC meeting.  
 Votes regarding PSC members must be announced prior to the PSC meeting so that all PCS members have the opportunity to vote during the meeting or via proxy. Additionally, all votes regarding PSC members must achieve a 2/3s quorum of the active PSC members to be valid.
 
-Once a vote has been completed,  the results of the election will be posted publically on the announcements Discord channel.
+Once a vote has been completed, the results of the election will be posted publically on the announcements Discord channel.
 
 ### Stepping Down and Removal
 
@@ -65,7 +64,7 @@ The PSC is responsible for all aspects of managing the EdgeTX open source projec
 
 #### Feature Development and Release Management
 
-The PSC is responsible for defining the project roadmap, deciding which new features and significant code changes are accepted into the project, and into which release the change will appear. Refer to the [# Versioning, Branch and Release Strategy](https://github.com/EdgeTX/edgetx.github.io/wiki/Versioning,-Branch-and-Release-Strategy)  for further information on versioning, branch and release management. 
+The PSC is responsible for defining the project roadmap, deciding which new features and significant code changes are accepted into the project, and into which release the change will appear. Refer to the [# Versioning, Branch and Release Strategy](https://github.com/EdgeTX/edgetx.github.io/wiki/Versioning,-Branch-and-Release-Strategy) for further information on versioning, branch and release management. 
 
 #### Project Policies and Procedures
 
@@ -85,7 +84,7 @@ The PSC is responsible for defining the policies and procedures, including:
 
 #### Chair Responsibilities
 
-The chair has the extra responsibility to set up development and PSC meetings regarding future work, whenever he deems it necessary. The chair must schedule at least one PSC meeting every quarter.  PSC meetings are for members of the PSC committee to discuss issues related to the project roadmap and governance.
+The chair has the extra responsibility to set up development and PSC meetings regarding future work, whenever he deems it necessary. The chair must schedule at least one PSC meeting every quarter. PSC meetings are for members of the PSC committee to discuss issues related to the project roadmap and governance.
 
 The chair is responsible for closing votes and summarizing PSC member votes or appointing another PSC member to do so. The chair is responsible for adjudicating should there be a voting dispute.
 
@@ -110,4 +109,4 @@ All members of the community are expected to adhere to the  [Community Guildline
 
 Changes to this governing document can be proposed on during the regular planned PSC meeting. If no meeting is planned, then a special PSC meeting will be held to review the proposal.  In order for a proposal to be considered for voting, a quorum of 2/3 of the PSC members must be present.
 
-Adapted from  [Tethys Platform - Project By-Laws](https://www.tethysplatform.org/project-steering-committee).
+Adapted from [Tethys Platform - Project By-Laws](https://www.tethysplatform.org/project-steering-committee).

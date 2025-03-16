@@ -16,6 +16,29 @@ For more information about EdgeTX, check out the [About EdgeTX page](https://edg
 
 ## What's new ##
 
+**March 16th, 2025**
+
+**2025 EdgeTX Project steering committee**
+
+EdgeTX is governed by a project steering committee (PSC) that meets regularly to discuss the project's direction and make decisions on topics that affect the project. The PSC was initially formed by project contributors appointed by the project's founder. When it was created, it was agreed that the PSC members would be elected every year. 
+
+On March 16th 2025, elections were held in accordance with the project bylaws and as a result, the following people were voted to be the on PSC for 2025:
+
+Raphael Coeffic (pafleraf) - Re-elected  
+Peter Feerick (pfeerick) - Re-elected  
+Robert Janiszewski (JimB40) - Re-elected  
+Risto Kõiva (Risto) – Re-elected  
+Malte Langermann (Malte) – Re-elected  
+Richard Li (Richard Li) – Re-elected  
+
+On March 16th, 2025, the PSC met, and Raphael Coeffic was voted Committee Chair also for the 2025 term.
+
+Phil Eville (EZRipFPV) stepped down from the PSC at his own request. Phil was part of EdgeTX and EdgeTX PSC from the early days. All members of the PSC wish to thank Phil for his time and fantastic contributions to the EdgeTX project in the almost 4 years of existence of EdgeTX.
+
+See the [EdgeTX project bylaws](https://edgetx.org/bylaws) page for more information about the EdgeTX PSC.
+
+---
+
 **February 27th, 2025**
 
 **A trio of Developer Contests sponsored by RadioMaster**
