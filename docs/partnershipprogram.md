@@ -57,7 +57,7 @@ Once the EdgeTX Project Steering Committee (EdgeTX PSC) has discussed this inter
 Upon the successful inclusion of a handset into the EdgeTX codebase, if all of the [Requirements for manufacturers](#Requirements-for-manufacturers) have been met, the manufacturer can request to become an EdgeTX Partner. This would then be voted upon at the next EdgeTX Project Steering Committee meeting, and the outcome of the vote communicated back to the manufacturer.
 
 ## Responsibilities for Manufacturer Partners
-Partners are required to produce good quality hardware and provide good after-sales services, EdgeTX Team should not be the first contact for any after-sales services.  If any partners failed to comply rthe following responsibilities, EdgeTX team may choose to end the partnership collaboration at any time by notifying the partner.
+Partners are required to produce good quality hardware and provide good after-sales services, EdgeTX Team should not be the first contact for any after-sales services.  If any partners failed to comply with the following responsibilities, EdgeTX team may choose to end the partnership collaboration at any time by notifying the partner.
  
  - Partners should provide links for use to list out in our website for after-sales services.
 
