@@ -46,11 +46,11 @@ We have created partnership tiers that acknowledge and reward our partners for p
 
 - Gold Partner: For monthly contributions of €500 or more.
   
-We value the generous contributions of all our partners, and our partnership tiers are designed to recognize and appreciate their support. While we will endeavour to provide support to all manufacturers in an unbiased manner, higher-tier manufacturers will receive a higher level of support than lower tiers. Our partners can use their designated partner tier badges on merchandise, advertising, and marketing material as they see fit. You can find high-resolution images of the badges [here](https://github.com/EdgeTX/edgetx.github.io/blob/master/downloads/PartnerTierBadges.zip).
+We value the generous contributions of all our partners. Our partnership tiers are designed to recognize and appreciate our partners support. While we will endeavour to provide support to all manufacturers in an unbiased manner, higher-tier partners will receive a higher level of support than lower tiers. Our partners can use their designated partner tier badges on merchandise, advertising, and marketing material as they see fit. You can find high-resolution images of the badges [here](https://github.com/EdgeTX/edgetx.github.io/blob/master/downloads/PartnerTierBadges.zip).
 
 
-## How to join the EdgeTX Partner Program
-To join the EdgeTX Partner program, a manufacturer must first reach out to us either on [Discord](https://discord.gg/wF9wUKnZ6H) or via email at psc@edgetx.org, introducing themselves and giving a summary of what product they are seeking support for. 
+## How to join the EdgeTX Partnership Program
+To join the EdgeTX Partnership program, a manufacturer must first reach out to us either on [Discord](https://discord.gg/wF9wUKnZ6H) or via email at psc@edgetx.org, introducing themselves and giving a summary of what product they are seeking support for. 
 
 Once the EdgeTX Project Steering Committee (EdgeTX PSC) has discussed this internally, if we agree to work with a prospective manufacturer, we will set up a private discussion channel on Discord to continue working with the manufacturer on the handset to a subsequent release of EdgeTX. This would mostly entail meeting the [Requirements for manufacturers](#Requirements-for-manufacturers). Any information shared is protected by a [Non-Disclosure Policy](https://edgetx.org/nda/), which both the EdgeTX PSC and several trusted community developers have agreed to.
 
