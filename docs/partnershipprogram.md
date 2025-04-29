@@ -50,11 +50,8 @@ We value the generous contributions of all our partners. Our partnership tiers a
 
 
 ## How to join the EdgeTX Partnership Program
-To join the EdgeTX Partnership program, a manufacturer must first reach out to us either on [Discord](https://discord.gg/wF9wUKnZ6H) or via email at psc@edgetx.org, introducing themselves and giving a summary of what product they are seeking support for. 
+The partnership program will be considered by the EdgeTX Team earliest, after jointly at least one radio has been successfully put to market. To join the EdgeTX Partnership program, reach out to EdgeTX Project-Steering-Committee (PSC) either via [Discord](https://discord.gg/wF9wUKnZ6H) or via email at psc@edgetx.org. The request will be discussed internally in the next monthly EdgeTX Project Steering Committee (EdgeTX PSC) meeting, put to internal vote and the outcome of the vote communicated back to the manufacturer.
 
-Once the EdgeTX Project Steering Committee (EdgeTX PSC) has discussed this internally, if we agree to work with a prospective manufacturer, we will set up a private discussion channel on Discord to continue working with the manufacturer on the handset to a subsequent release of EdgeTX. This would mostly entail meeting the [Requirements for manufacturers](#Requirements-for-manufacturers). Any information shared is protected by a [Non-Disclosure Policy](https://edgetx.org/nda/), which both the EdgeTX PSC and several trusted community developers have agreed to.
-
-Upon the successful inclusion of a handset into the EdgeTX codebase, if all of the [Requirements for manufacturers](#Requirements-for-manufacturers) have been met, the manufacturer can request to become an EdgeTX Partner. This would then be voted upon at the next EdgeTX Project Steering Committee meeting, and the outcome of the vote communicated back to the manufacturer.
 
 ## Responsibilities for Manufacturer Partners
 Partners are required to produce good quality hardware and provide good after-sales services, EdgeTX Team should not be the first contact for any after-sales services.  If any partners failed to comply with the following responsibilities, EdgeTX team may choose to end the partnership collaboration at any time by notifying the partner.
