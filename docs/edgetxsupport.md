@@ -20,11 +20,11 @@ If you are a radio manufacturer and are interested in using EdgeTX as the firmwa
 
 2. **Co-develop the hardware and firmware with the EdgeTX development team**
 
-    If your radio introduces novel features (e.g., a new hardware platform and/or new hardware capabilities) and you can manage to draw the interest from one or more EdgeTX development team members, a co-development of the new radio support might become an option for you. Try to reach out the EdgeTX development members via [Discord](https://discord.gg/wF9wUKnZ6H) or via email at psc@edgetx.org to see if your proposed new hardware gets enough interest by the development team members for them to volunteer to work on it's support.
+    If your radio introduces novel features (e.g., a new hardware platform and/or new hardware capabilities) and you can manage to draw the interest from one or more EdgeTX development team members, a co-development of the new radio support might become an option for you. Try to reach out the EdgeTX development members via [Discord](https://discord.gg/wF9wUKnZ6H) or via email at psc@edgetx.org to see if your proposed new hardware gets enough interest by the development team members for them to volunteer to work on it's support. Please consider that a design that brings something new and novel, rather than rehashing an existing supported handset, is more likely to be accepted/gain the interest of a developer.
    
     ___Note:___ _EdgeTX is developed by volunteers, and while innovative hardware often attracts attention, progress depends on contributors’ availability. Manufacturers concerned about timelines should allocate internal resources to accelerate development._  
 
-3. **Develop and Maintain your own fork of EdgeTX**
+4. **Develop and Maintain your own fork of EdgeTX**
    
     Create your own fork of EdgeTX and implement hardware-specific modifications independently. ***In this case, YOUR development team assumes full responsibility for the long-term maintenance and bug fixes.*** Also, please do keep in mind that to adhere to the EdgeTX GPL-2.0 license, you need to ensure that your fork remains publicly available.
   
