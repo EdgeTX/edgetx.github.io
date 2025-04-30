@@ -40,9 +40,9 @@ As a bonus task, create in addition a standalone app with the same features and 
 
 **Rules**
 
-To be eligible to win the radio, an address of a 18+ years old person is required. Entries from anyone, who has previously won an EdgeTX developer contest, will be accepted earliest on April 1st, 2025. Members of the <a href="https://edgetx.org/bylaws/#edgetx-development-team">EdgeTX development team</a> cannot participate in the competition.
+To be eligible to win the radio, an address of a 18+ years old person is required. Members of the <a href="https://edgetx.org/bylaws/#edgetx-development-team">EdgeTX development team</a> cannot participate in the competition.
 
-The contests ends after first successful submission, or on midnight of April 30th, 2025 GMT.
+The contests ends after first successful submission, or on ~~midnight of April 30th, 2025 GMT.~~ <span style="color:red;font-weight:bold;">extended to midnight of May 31st, 2025 GMT.</span>
 
 The EdgeTX PSC reserves the right not to accept submissions that work incorrectly and / or may negatively impact other parts of the EdgeTX system. The decision of the winner by EdgeTX PSC is final and legal recourse is excluded.
 
