@@ -11,6 +11,11 @@ hide:
 
 ## **Contest Details**
 
+**Update:**
+
+Congratulations **Wilhelm Meier** for winning this developer contest. For the winning submission, please see [EdgeTX Lua scripts PR #35](https://github.com/EdgeTX/lua-scripts/pull/35)
+It was a tight race between PR #35 and [PR #36](https://github.com/EdgeTX/lua-scripts/pull/36) by Offer Shmuely, where Wilhelm's PR was having 69 thumb ups and Offer's PR 62 at the time of closing of the competition.
+
 **Task:**
 
 Create the most popular new Lua widget using LVGL controls for EdgeTX color screen radios.
