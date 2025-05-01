@@ -8,16 +8,15 @@ From time to time, the EdgeTX team organizes developer contests to provide an in
 
 ## **Currently active developer contests**
 
-* [8th - Most popular new Lua widget using LVGL controls](https://edgetx.org/dc8_lualvglwidget). Runs until midnight April 30th, 2025 GMT.
-
-* [7th - Haptic feedback for EdgeTX Companion Simulator](https://edgetx.org/dc7_simuhaptic). Runs until first successful submission or until midnight April 30th, 2025 GMT.
-
 * [6th - EdgeTX Buddy backup and restore](https://edgetx.org/dc6_buddybackup). Runs until first successful submission or until midnight May 31st, 2025 GMT.
 
-* [5th - Web based EdgeTX radio firmware simulator](https://edgetx.org/dc5_websimu). Runs until first successful submission or until midnight April 30th, 2025 GMT.
-
-
 ## **Past developer contests**
+
+* [8th - Most popular new Lua widget using LVGL controls](https://edgetx.org/dc8_lualvglwidget). Winning solution by Wilhelm Meier - [EdgeTX Lua Scripts PR #35](https://github.com/EdgeTX/lua-scripts/pull/35)
+
+* [7th - Haptic feedback for EdgeTX Companion Simulator](https://edgetx.org/dc7_simuhaptic). Ended on midnight April 30th, 2025 GMT w/o submissions.
+
+* [5th - Web based EdgeTX radio firmware simulator](https://edgetx.org/dc5_websimu). Ended on midnight April 30th, 2025 GMT w/o submissions. Plans are afoot to reopen this developer contest in simplified form later in 2025.
 
 * 4th - Physical serial port connectivity for EdgeTX Companion Simulator. Winning solution by Nigel Williams - [EdgeTX PR #5584](https://github.com/EdgeTX/edgetx/pull/5584)
 
