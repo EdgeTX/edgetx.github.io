@@ -55,8 +55,9 @@ The development and support for EdgeTX is conducted by the hardware manufacturer
 
 The development and support for EdgeTX is conducted by other interested 3rd parties from the community. Changes can be proposed as pull-requests to be considered for inclusion into the main EdgeTX codebase.
 
-* Eachine TX16S (since v2.4)
-* FrSky QX7 / QX7S / QX7 ACCESS / QX7S ACCESS (since v2.4, v2.11 will be the last version to support this radio)
+* Eachine TX16S (since v2.4)  
+* FrSky QX7 / QX7S (since v2.4, v2.11 will be the last version to support this radio)  
+* FrSky QX7 ACCESS / QX7S ACCESS (since v2.4)  
 * FrSky X9 Lite / X9 Lite S (since v2.4, v2.11 will be the last version to support this radio)
 * FrSky X9D / X9D+ / X9D+ SE (since v2.4, v2.11 will be the last version to support this radio)
 * FrSky X9D+ 2019 / X9D+ SE 2019  (since v2.4)
