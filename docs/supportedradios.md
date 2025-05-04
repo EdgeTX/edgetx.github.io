@@ -6,9 +6,10 @@ Below is a list of EdgeTX-compatible radios and their level of support.
 The development and support for EdgeTX is conducted by the EdgeTX core development team with the support of developers from the community. Firmware for these radios is included in the main EdgeTX codebase.
 
 * Flysky EL18 (since v2.8)
-* Flysky NB4+[^1] (limited support planned for v2.11) 
+* Flysky NB4+[^1] (limited support since v2.11) 
 * Flysky NV14[^2] (since v2.5)
 * Flysky PL18/PL18EV[^3] (limited support since v.2.10)
+* Flysky ST16[^4] (limited support since v2.11)
 * Jumper Bumblebee (since v2.10.5)
 * Jumper T-Lite / T-Lite v2 (since v2.4, v2.11 will be the last version to support this radio)
 * Jumper T-Pro (since v2.6, v2.11 will be the last version to support this radio)
@@ -32,10 +33,10 @@ The development and support for EdgeTX is conducted by the EdgeTX core developme
 * RadioMaster TX16S / RadioMaster TX16S MAX / RadioMaster TX16S Mark II (since v2.4)
 * RadioMaster Zorro (since v2.6)
 
-[^1]: Hardware modifications are required to support EdgeTX on Flysky NB4+, see [NB4+ hw mods](https://github.com/EdgeTX/edgetx/wiki/Flysky-NB4--Hardware-Mod-for-Complete-EdgeTX-Support) for more info.  
+[^1]: Hardware modifications are required to support EdgeTX on Flysky NB4+, see [NB4+ hw mods](https://github.com/EdgeTX/edgetx/wiki/Flysky-NB4--Hardware-Mod-for-Complete-EdgeTX-Support) for more info. Internal RF module is not supported by EdgeTX.  
 [^2]: Some external RF modules might not work correctly due to radio hardware not able to provide enough power to the module.  
-[^3]: Hardware modifications are required to support EdgeTX on Flysky PL18/PL18EV, see [PL18/PL18EV hw mods](https://github.com/EdgeTX/edgetx/wiki/Flysky-PL18-%26-PL18EV-Hardware-Mod-for-Complete-EdgeTX-Support) for more info.
-
+[^3]: Hardware modifications are required to support EdgeTX on Flysky PL18/PL18EV, see [PL18/PL18EV hw mods](https://github.com/EdgeTX/edgetx/wiki/Flysky-PL18-%26-PL18EV-Hardware-Mod-for-Complete-EdgeTX-Support) for more info.  
+[^4]: Internal RF module and magnetometer are not supported.
 
 ---
 
