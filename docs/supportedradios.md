@@ -23,6 +23,7 @@ The development and support for EdgeTX is conducted by the EdgeTX core developme
 * Jumper T20 (since v2.10)
 * Jumper T20 V2 (since v2.10)
 * RadioMaster Boxer (since v2.8.1)
+* RadioMaster GX12 (since v2.11)
 * RadioMaster MT12 (since v2.10, Companion to follow)
 * RadioMaster Pocket (since v2.10)
 * RadioMaster T8 Pro (since v2.4, v2.11 will be the last version to support this radio)
