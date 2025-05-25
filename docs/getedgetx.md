@@ -3,7 +3,7 @@
 
 **Ready to install EdgeTX?** 
 
-Follow the instructions in our  [installation guide](https://edgetx.gitbook.io/edgetx-user-manual/edgetx-user-manual/installing-and-updating-edgetx)
+Follow the instructions in our  [installation guide](https://manual.edgetx.org/installing-and-updating-edgetx)
 
 *To see the list of improvements as well as limitations of EdgeTX,  
 please review the release notes for the* **[latest EdgeTX release](https://github.com/EdgeTX/edgetx/releases/latest).**
