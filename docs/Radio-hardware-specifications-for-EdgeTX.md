@@ -146,6 +146,6 @@
 ---
 
 ## General Considerations
-* When the radio is equipped with flight mode buttons (6POS / six position switch), they should be connected in a way that they can be used individually (as 'customizable switches' in EdgeTX). In order to save MCU IO pins, this may be done using a single analog input and resistor ladder, or an I2C expander. These switches shall have visual feedback LEDs that can be controlled by the MCU. To save MCU IO pins, this may also be done using an I2C expander, or WS2812 (aka Neopixel) single serial line LEDs. 
-* Since the H7R and H5 CPUs support USB-C power delivery, the charging circuit may be designed with this in mind
-          
+* When the radio is equipped with flight mode buttons (6POS / six position switch), they should be connected in a way that they can be used individually (as 'customizable switches' in EdgeTX). In order to save MCU IO pins, this may be done using a single analog input and resistor ladder, or an I2C expander. These switches shall have visual feedback LEDs that can be controlled by the MCU. To save MCU IO pins, this may also be done using an I2C expander, or WS2812 (aka Neopixel) single serial line LEDs.  
+* Since the H7R and H5 CPUs support USB-C power delivery, the charging circuit may be designed with this in mind.  
+* In order for the radio with a proprietary (meaning non open-source) internal RF technology to be included in the officially supported radios list, the EdgeTX development team needs to be provided with detailed documentation regarding the API of such internal RF module. In addition, any officially supported radio with a proprietary internal RF module, needs to be equipped in addition with an external RF module bay that is able to accept open-source RF technology (such as Multi-Protocol-Module and ExpressLRS).
