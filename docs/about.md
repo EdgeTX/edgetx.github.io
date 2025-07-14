@@ -28,7 +28,6 @@ The current committee members (and their discord usernames) are:
 - Peter Feerick (pfeerick)
 - Risto Kõiva (Risto)
 - Richard Li (Richard Li)
-- Phil Eville (EZRipFPV)
 - Malte Langermann (Malte)
 
 For more information about how the EdgeTX project is managed, see our [project bylaws page.](bylaws.md)
