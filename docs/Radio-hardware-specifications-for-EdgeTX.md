@@ -33,13 +33,13 @@
 * Neopixel RGB LEDs shall be connected only on PWM capable pins with DMA support
 * Serial-Wire-Debug header shall be available on radios provided to the EdgeTX team. Either pads for 2x5 pin 0.05" header
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://c.a.segger.com/fileadmin/images/products/J-Link/Accessory/Adapters/J-Link_9-pin_Cortex-M_Adapter.png">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.segger.com/fileadmin/images/products/J-Link/Accessory/Adapters/J-Link_9-pin_Cortex-M_Adapter.png">
 
 (mandatory are GND, SWDIO, SWCLK and VTref. SWO, TDI and nRESET are optional)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; or full-ETM trace header with 2x10 pin 0.05" header:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://c.a.segger.com/fileadmin/images/products/J-Trace/jtrace-pinout.png">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://kb.segger.com/images/a/a9/19pinTracePort.png">
 
 * USB-C device mode connection
     * H7R radios shall support Hi-Speed (480 MBit/s) USB
@@ -102,13 +102,13 @@
 * Neopixel RGB LEDs only on PWM capable pins with DMA support
 * Serial-Wire-Debug header. Either pads for 2x5 pin 0.05" header
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://c.a.segger.com/fileadmin/images/products/J-Link/Accessory/Adapters/J-Link_9-pin_Cortex-M_Adapter.png">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.segger.com/fileadmin/images/products/J-Link/Accessory/Adapters/J-Link_9-pin_Cortex-M_Adapter.png">
 
 (mandatory are GND, SWDIO, SWCLK and VTref. SWO, TDI and nRESET are optional)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; or full-ETM trace header with 2x10 pin 0.05" header:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://c.a.segger.com/fileadmin/images/products/J-Trace/jtrace-pinout.png">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://kb.segger.com/images/a/a9/19pinTracePort.png">
 
 * USB-C device mode connection (minimally for new radios)
 * For radios with an internal module, lines to put the module into flashing mode to perform pass-through flashing
