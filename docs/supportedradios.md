@@ -46,10 +46,10 @@ The development and support for EdgeTX is conducted by the hardware manufacturer
 
 * iFlight Commando8 (since v2.8)
 * BetaFPV LiteRadio3 Pro (since v2.8, v2.11 will be the last version to support this radio)
-* FatFish F16 (support planned for v2.11)
-* HelloRadioSky V12 (support planned for v2.11)
-* HelloRadioSky V14 (support planned for v2.11)
-* HelloRadioSky V16 (support planned for v2.11)
+* FatFish F16 (since v2.11)
+* HelloRadioSky V12 (TBD on release)
+* HelloRadioSky V14 (since v2.11)
+* HelloRadioSky V16 (since v2.11)
 
 ---
 
