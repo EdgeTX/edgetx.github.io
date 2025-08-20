@@ -17,7 +17,7 @@
 ### Mandatory hardware features (color)
 * MCU: presently only STM32F429BI and STM32F439BI with 2 MB flash are supported. Running at 168 MHz.
   Support for STM32H7/H7R MCUs is planned from EdgeTX v2.11 onwards, whereas H750 and H7R will be the first supported H7 MCUs.
-* SDRAM with minimally 8MB
+* SDRAM with minimally 8MB with up to 480x320 pixel screens and minimally 32MB for 800x480 pixel screens.
 * SD/microSD card slot or embedded SD NAND (e.g. XTX XTSD04G, minimally 512 MByte). SDIO shall be used to connect the storage device.
 * Color display with minimally 480x272 pixels. Presently supported resolutions 480x272, 480x320 and 320x480 pixels.
   With EdgeTX v3, 800x480 pixel support is planned.
