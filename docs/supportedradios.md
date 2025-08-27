@@ -8,7 +8,9 @@ The development and support for EdgeTX is conducted by the EdgeTX core developme
 * Flysky EL18 (since v2.8)
 * Flysky NB4+[^1] (limited support since v2.11) 
 * Flysky NV14[^2] (since v2.5)
-* Flysky PL18/PL18EV[^3] (limited support since v.2.10)
+* Flysky PA01 (sinde v2.11.3)
+* Flysky PL18/PL18EV[^3] (limited support since v2.10)
+* Flyska PL18U (since v2.11.2)
 * Flysky ST16[^4] (limited support since v2.11)
 * Jumper Bumblebee (since v2.10.5)
 * Jumper T-Lite / T-Lite v2 (since v2.4, v2.11 will be the last version to support this radio)
@@ -30,6 +32,7 @@ The development and support for EdgeTX is conducted by the EdgeTX core developme
 * RadioMaster T8 Pro (since v2.4, v2.11 will be the last version to support this radio)
 * RadioMaster TX12 (since v2.4, v2.11 will be the last version to support this radio)
 * RadioMaster TX12 Mark II (since v2.8)
+* RadioMaster TX15 (will be supported from EdgeTX v3.0)
 * RadioMaster TX16S / RadioMaster TX16S MAX / RadioMaster TX16S Mark II (since v2.4)
 * RadioMaster Zorro (since v2.6)
 
