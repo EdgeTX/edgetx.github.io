@@ -1,7 +1,7 @@
 ## Development Information
 
 <p align="center">
-<a href="/assets/roadmap.png?raw=true"><img src="/assets/roadmap.png?raw=true" align="center" height="344" width="656"></a>
+<a href="/assets/roadmap.png?raw=true"><img src="/assets/roadmap.png?raw=true" align="center" width="800"></a>
 </P>
 
 ---
