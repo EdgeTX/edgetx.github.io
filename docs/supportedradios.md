@@ -10,7 +10,7 @@ The development and support for EdgeTX is conducted by the EdgeTX core developme
 * Flysky NV14[^2] (since v2.5)
 * Flysky PA01 (sinde v2.11.3)
 * Flysky PL18/PL18EV[^3] (limited support since v2.10)
-* Flyska PL18U (since v2.11.2)
+* Flysky PL18U (since v2.11.2)
 * Flysky ST16[^4] (limited support since v2.11)
 * Jumper Bumblebee (since v2.10.5)
 * Jumper T-Lite / T-Lite v2 (since v2.4, v2.11 will be the last version to support this radio)
