@@ -32,7 +32,7 @@ The development and support for EdgeTX is conducted by the EdgeTX core developme
 * RadioMaster T8 Pro (since v2.4, v2.11 will be the last version to support this radio)
 * RadioMaster TX12 (since v2.4, v2.11 will be the last version to support this radio)
 * RadioMaster TX12 Mark II (since v2.8)
-* RadioMaster TX15 (will be supported from EdgeTX v3.0)
+* RadioMaster TX15 (will be supported from EdgeTX v3.0, until then, use [RadioMaster factory downloads](https://radiomasterrc.com/pages/tx15-downloads))
 * RadioMaster TX16S / RadioMaster TX16S MAX / RadioMaster TX16S Mark II (since v2.4)
 * RadioMaster Zorro (since v2.6)
 
