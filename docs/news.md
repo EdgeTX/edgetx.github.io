@@ -4,6 +4,32 @@ hide:
 ---
 ## What's new ##
 
+**October 12th, 2025**
+
+**EdgeTX Fest 2025 - Celebration of EdgeTX 4th birthday!**
+
+<p></p> 
+<p align="center">
+<a><img src="/assets/EdgeTXFest2025Col.jpg?raw=true" align="center" width="800"></a>
+</P>
+
+To celebrate the 4th year of our project and promote EdgeTX in 2025 we partnered with the Australian FPV association and made an appearance during the 2025 Australia FPV Racing Nationals.
+
+During two of the racing days, all event’s attendees had the opportunity to meet people behind EdgeTX development and project management. We displayed in our booth a variety of EdgeTX driven radios, so all visitors could have hands-on experience with our software and supported hardware. Like every year, thanks to our sponsors, all radios shown were then raffled to visitors who decided to participate.
+
+To show EdgeTX capabilities this year we prepared RC controlled 3D printed model forklift and warehouse shelves. It was an outstanding attraction and almost everyone tried to manoeuvre the palettes using EdgeTX operated surface radio.
+
+Our Gold Partner Flysky officially launched their newest portable radio PA01 during EdgeTX Fest 2025. 
+
+We extend our heartfelt gratitude to everyone who joined us at the 2025 Fest to celebrate the 4th year of EdgeTX. Your overwhelming presence and engaging interactions made this event truly unforgettable. A big congratulations to all the lucky drawing winners!
+
+Thanks to our sponsors, we were able to distribute over 20 radio transmitters and a large number of further accessories and merchandise to our guests.
+
+A special shout-out to our event sponsors <a href = "https://www.radiomasterrc.com/">RadioMaster</a>, <a href = "https://www.flysky-cn.com/">Flysky</a>, <a href = "https://www.jumper-rc.com/">Jumper</a> and <a href = "https://betafpv.com/">BetaFPV</a> for their generous contributions of prizes and giveaways. We'd also like to express our deep appreciation to the AUFPV Association for their invaluable collaboration in planning and executing this phenomenal event.
+
+---
+
+
 **March 16th, 2025**
 
 **2025 EdgeTX Project steering committee**
