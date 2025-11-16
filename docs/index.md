@@ -25,7 +25,7 @@ For more information about EdgeTX, check out the [About EdgeTX page](https://edg
 <a><img src="/assets/EdgeTXFest2025Col.jpg?raw=true" align="center" width="800"></a>
 </P>
 
-To celebrate the 4th year of our project and promote EdgeTX in 2025 we partnered with the Australian FPV association and made an appearance during the 2025 Australia FPV Racing Nationals.
+To celebrate the 4th year of our project and promote EdgeTX in 2025, we partnered with the Australian FPV association and made an appearance during the <a href="https://aufpv.org.au/2025-mission-foods-australian-drone-nationals/">2025 Australian FPV Racing Nationals</a>.
 
 During two of the racing days, all event’s attendees had the opportunity to meet people behind EdgeTX development and project management. We displayed in our booth a variety of EdgeTX driven radios, so all visitors could have hands-on experience with our software and supported hardware. Like every year, thanks to our sponsors, all radios shown were then raffled to visitors who decided to participate.
 
