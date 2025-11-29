@@ -13,7 +13,7 @@ hide:
 
 **Task:**
 
-Be the first developer to rewrite the model wizards (Plane, Glider, Wing, Helicopter and Multirotor, e.g. see [https://github.com/EdgeTX/edgetx-sdcard/tree/master/sdcard/c480x272/TEMPLATES/1.Wizard](https://github.com/EdgeTX/edgetx-sdcard/tree/master/sdcard/c480x272/TEMPLATES/1.Wizard) so that they use the new EdgeTX Lua LVGL controls ([https://luadoc.edgetx.org/lua-api-reference/lvgl-for-lua](https://luadoc.edgetx.org/lua-api-reference/lvgl-for-lua)) and automatically adapt to screen resolution (for tips regarding latter, see e.g. [https://github.com/EdgeTX/edgetx-sdcard/pull/238)(https://github.com/EdgeTX/edgetx-sdcard/pull/238)) and win a RadioMaster radio.
+Be the first developer to rewrite the model wizards (Plane, Glider, Wing, Helicopter and Multirotor, e.g. see [https://github.com/EdgeTX/edgetx-sdcard/tree/master/sdcard/c480x272/TEMPLATES/1.Wizard](https://github.com/EdgeTX/edgetx-sdcard/tree/master/sdcard/c480x272/TEMPLATES/1.Wizard) so that they use the new EdgeTX Lua LVGL controls ([https://luadoc.edgetx.org/lua-api-reference/lvgl-for-lua](https://luadoc.edgetx.org/lua-api-reference/lvgl-for-lua)) and automatically adapt to screen resolution (for tips regarding latter, see e.g. [https://github.com/EdgeTX/edgetx-sdcard/pull/238](https://github.com/EdgeTX/edgetx-sdcard/pull/238)) and win a RadioMaster radio.
 
 Submissions will be via a pull request to [https://github.com/EdgeTX/edgetx-sdcard](https://github.com/EdgeTX/edgetx-sdcard) which clearly indicates that the PR is a contest entry (and will subsequently be labelled ‘contest’).
 
