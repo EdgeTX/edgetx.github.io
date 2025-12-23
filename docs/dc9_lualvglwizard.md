@@ -17,7 +17,7 @@ We have a winner - congratulations **Alexander Gnauck**. For the winning submiss
 
 Alexander will receive a [RadioMaster TX15 MAX Black radio with an internal 2.4 GHz ExpressLRS RF module](https://radiomasterrc.com/products/tx15-max-radio-controller-elrs-m2?variant=46617623986368) (per his request), generously sponsored by RadioMaster. This state-of-the-art radio will be shipped directly from the RadioMaster factory to Alexander. 
 
-Original context text below:
+Original contest text below:
 
 **Task:**
 
