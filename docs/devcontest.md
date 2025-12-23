@@ -8,10 +8,12 @@ From time to time, the EdgeTX team organizes developer contests to provide an in
 
 ## **Currently active developer contests**
 
-* [9th - Lua LVGL new model wizards](https://edgetx.org/dc9_lualvglwizard). Runs until first successful submission or until midnight January 18th, 2026 GMT.
+Presently there are no ongoing developer contests active.
 
 
 ## **Past developer contests**
+
+* [9th - Lua LVGL new model wizards](https://edgetx.org/dc9_lualvglwizard). Winning solution by Alexander Gnauck - [EdgeTX SD card PR #245](https://github.com/EdgeTX/edgetx-sdcard/pull/245)
 
 * [8th - Most popular new Lua widget using LVGL controls](https://edgetx.org/dc8_lualvglwidget). Winning solution by Wilhelm Meier - [EdgeTX Lua Scripts PR #35](https://github.com/EdgeTX/lua-scripts/pull/35)
 
