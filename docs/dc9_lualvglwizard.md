@@ -11,6 +11,14 @@ hide:
 
 ## **Contest Details**
 
+**Update:**
+
+We have a winner - congratulations **Alexander Gnauck**. For the winning submission, please see [EdgeTX SD card PR #245](https://github.com/EdgeTX/edgetx-sdcard/pull/245). It was a tight race between [PR #245](https://github.com/EdgeTX/edgetx-sdcard/pull/244) by Offer Shmuely and PR #245, where Alexander's submission got a better overall review score (see [EdgeTX Discord dc9_lualvglwizard](https://discord.com/channels/839849772864503828/1443973138240241705/1452949100256432332) for details).
+
+Alexander will receive a [RadioMaster TX15 MAX Black radio with an internal 2.4 GHz ExpressLRS RF module](https://radiomasterrc.com/products/tx15-max-radio-controller-elrs-m2?variant=46617623986368) (per his request), generously sponsored by RadioMaster. This state-of-the-art radio will be shipped directly from the RadioMaster factory to Alexander. 
+
+Original context text below:
+
 **Task:**
 
 Be the first developer to rewrite the model wizards (Plane, Glider, Wing, Helicopter and Multirotor, e.g. see [https://github.com/EdgeTX/edgetx-sdcard/tree/master/sdcard/c480x272/TEMPLATES/1.Wizard](https://github.com/EdgeTX/edgetx-sdcard/tree/master/sdcard/c480x272/TEMPLATES/1.Wizard) so that they use the new EdgeTX Lua LVGL controls ([https://luadoc.edgetx.org/lua-api-reference/lvgl-for-lua](https://luadoc.edgetx.org/lua-api-reference/lvgl-for-lua)) and automatically adapt to screen resolution (for tips regarding latter, see e.g. [https://github.com/EdgeTX/edgetx-sdcard/pull/238](https://github.com/EdgeTX/edgetx-sdcard/pull/238)) and win a RadioMaster radio.
