@@ -33,7 +33,7 @@
 * Neopixel RGB LEDs shall be connected only on PWM capable pins with DMA support
 * Serial-Wire-Debug header shall be available on radios provided to the EdgeTX team. Either pads for 2x5 pin 0.05" header
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.segger.com/fileadmin/images/products/J-Link/Accessory/Adapters/J-Link_9-pin_Cortex-M_Adapter.png">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://kb.segger.com/images/b/bc/9-PinConnector_Port.png">
 
 (mandatory are GND, SWDIO, SWCLK and VTref. SWO, TDI and nRESET are optional)
 
@@ -102,7 +102,7 @@
 * Neopixel RGB LEDs only on PWM capable pins with DMA support
 * Serial-Wire-Debug header. Either pads for 2x5 pin 0.05" header
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.segger.com/fileadmin/images/products/J-Link/Accessory/Adapters/J-Link_9-pin_Cortex-M_Adapter.png">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://kb.segger.com/images/b/bc/9-PinConnector_Port.png">
 
 (mandatory are GND, SWDIO, SWCLK and VTref. SWO, TDI and nRESET are optional)
 
