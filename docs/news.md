@@ -4,6 +4,15 @@ hide:
 ---
 ## What's new ##
 
+**January 26th, 2026**
+
+**3D printable model of EdgeTX mascot *Eddie the Edgehog* Developer Contest**
+
+Create the best volumetric 3D printable model of EdgeTX mascot *Eddie the Edgehog* together with EdgeTX star logo and win a RadioMaster TX16s MK3 MAX radio. The contest ends on midnight of March 1st, 2026 GMT. Full contest details and rules can be found here: [https://edgetx.org/dc10_3deddie](https://edgetx.org/dc10_3deddie)
+
+---
+
+
 **December 23rd, 2025**
 
 **Lua LVGL New Model Wizard Developer Contest Winner**

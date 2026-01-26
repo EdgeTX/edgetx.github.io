@@ -8,8 +8,7 @@ From time to time, the EdgeTX team organizes developer contests to provide an in
 
 ## **Currently active developer contests**
 
-Presently there are no ongoing developer contests active.
-
+* [10th - 3D shaped EdgeTX mascot "Eddie the Edgehog"](https://edgetx.org/dc10_3deddie). The contest runs until March 1st, 2026 GMT.
 
 ## **Past developer contests**
 
