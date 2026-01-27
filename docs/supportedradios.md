@@ -35,6 +35,7 @@ The development and support for EdgeTX is conducted by the EdgeTX core developme
 * RadioMaster TX12 Mark II (since v2.8)
 * RadioMaster TX15 (will be supported from EdgeTX v2.12, until then, use [RadioMaster factory downloads](https://radiomasterrc.com/pages/tx15-downloads))
 * RadioMaster TX16S / RadioMaster TX16S MAX / RadioMaster TX16S Mark II (since v2.4)
+* RadioMaster TX16S MK3 / RadioMaster TX16S MK3 MAX (will be supported from EdgeTX v2.12)
 * RadioMaster Zorro (since v2.6)
 
 [^1]: Hardware modifications are required to support EdgeTX on Flysky NB4+, see [NB4+ hw mods](https://github.com/EdgeTX/edgetx/wiki/Flysky-NB4--Hardware-Mod-for-Complete-EdgeTX-Support) for more info. Internal RF module is not supported by EdgeTX.  
