@@ -35,7 +35,7 @@ The winner can pick a radio model between RadioMaster [TX16s MK3](https://radiom
 
 **Bonus task:**
 
-As a bonus task, create in addition a standalone app with the same features and you can win in addition a RadioMaster ExpressLRS receiver, such as e.g. [RP4TD](https://www.radiomasterrc.com/products/rp4td-expresslrs-2-4ghz-diversity-receiver) or [ER8](https://www.radiomasterrc.com/products/er8-2-4ghz-elrs-pwm-receiver). The bonus task prize can only be won by the contestant, who tackled and won the main task. The bonus task has to be completed and submitted to EdgeTX Github by <del>midnight April 30th, 2025 GMT</del> <span style="color:red;font-weight:bold;">extended to midnight of May 31st, 2025 GMT</span>, to be eligible to receive the bonus prize.
+As a bonus task, create in addition a standalone app with the same features and you can win in addition a RadioMaster ExpressLRS receiver, such as e.g. [RP4TD](https://www.radiomasterrc.com/products/rp4td-expresslrs-2-4ghz-diversity-receiver) or [ER8](https://www.radiomasterrc.com/products/er8-2-4ghz-elrs-pwm-receiver). The bonus task prize can only be won by the contestant, who tackled and won the main task. The bonus task has to be completed and submitted to EdgeTX Github by <del>midnight April 30th, 2025 GMT</del> <span style="color:red;font-weight:bold;">extended to midnight of March 1st, 2026 GMT</span>, to be eligible to receive the bonus prize.
 
 
 **Rules**
