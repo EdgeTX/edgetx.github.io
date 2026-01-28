@@ -10,6 +10,8 @@ From time to time, the EdgeTX team organizes developer contests to provide an in
 
 * [10th - 3D shaped EdgeTX mascot "Eddie the Edgehog"](https://edgetx.org/dc10_3deddie). The contest runs until March 1st, 2026 GMT.
 
+* [6th - EdgeTX Buddy backup and restore](https://edgetx.org/dc6_buddybackup). The contests ends after first successful submission, or on midnight of March 1st, 2026 GMT.
+
 ## **Past developer contests**
 
 * [9th - Lua LVGL new model wizards](https://edgetx.org/dc9_lualvglwizard). Winning solution by Alexander Gnauck - [EdgeTX SD card PR #245](https://github.com/EdgeTX/edgetx-sdcard/pull/245)
@@ -17,8 +19,6 @@ From time to time, the EdgeTX team organizes developer contests to provide an in
 * [8th - Most popular new Lua widget using LVGL controls](https://edgetx.org/dc8_lualvglwidget). Winning solution by Wilhelm Meier - [EdgeTX Lua Scripts PR #35](https://github.com/EdgeTX/lua-scripts/pull/35)
 
 * [7th - Haptic feedback for EdgeTX Companion Simulator](https://edgetx.org/dc7_simuhaptic). Ended on midnight April 30th, 2025 GMT w/o submissions.
-
-* [6th - EdgeTX Buddy backup and restore](https://edgetx.org/dc6_buddybackup). Ended on midnight May 31st, 2025 GMT w/o submissions.
 
 * [5th - Web based EdgeTX radio firmware simulator](https://edgetx.org/dc5_websimu). Ended on midnight April 30th, 2025 GMT w/o submissions. Plans are afoot to reopen this developer contest in simplified form later in 2025.
 

@@ -30,7 +30,7 @@ Not required, but would be greatly welcome would be for ability to:
 
 **Prize:**
 
-The winner can pick a radio model between RadioMaster [TX16s mkII](https://www.radiomasterrc.com/products/tx16s-mark-ii-radio-controller), [GX12](https://www.radiomasterrc.com/products/gx12-dual-band-gemini-x-radio-controller), [Boxer](https://www.radiomasterrc.com/products/boxer-radio-controller-m2), [MT12](https://www.radiomasterrc.com/products/mt12-surface-radio-controller), [Zorro](https://www.radiomasterrc.com/products/zorro-radio-controller) or [Pocket](https://www.radiomasterrc.com/products/pocket-radio-controller-m2) (sponsored by RadioMaster). The radio will be shipped world-wide (see next sentence for limitations!) free of charge directly from the RadioMaster factory to the winner. Due to current geo-political situation, the prize cannot be shipped to Ukraine or Russia. EdgeTX would cover any possible local import fees (the winner of this competition can hand in the possible import fee bill via our [OpenCollective page](https://opencollective.com/edgetx/expenses/new)).
+The winner can pick a radio model between RadioMaster [TX16s MK3](https://radiomasterrc.com/products/tx16s-mk3-radio-controller), [TX16s mkII](https://www.radiomasterrc.com/products/tx16s-mark-ii-radio-controller), [GX12](https://www.radiomasterrc.com/products/gx12-dual-band-gemini-x-radio-controller), [Boxer](https://www.radiomasterrc.com/products/boxer-radio-controller-m2), [MT12](https://www.radiomasterrc.com/products/mt12-surface-radio-controller), [Zorro](https://www.radiomasterrc.com/products/zorro-radio-controller) or [Pocket](https://www.radiomasterrc.com/products/pocket-radio-controller-m2) (sponsored by RadioMaster). The radio will be shipped world-wide (see next sentence for limitations!) free of charge directly from the RadioMaster factory to the winner. Due to current geo-political situation, the prize cannot be shipped to Ukraine or Russia. When picking the TX16s MK3 as a prize, note that the radio will be shipped to the winner earlierst March'26. EdgeTX would cover any possible local import fees (the winner of this competition can hand in the possible import fee bill via our [OpenCollective page](https://opencollective.com/edgetx/expenses/new)).
 
 
 **Bonus task:**
@@ -42,7 +42,7 @@ As a bonus task, create in addition a standalone app with the same features and 
 
 To be eligible to win the radio, an address of a 18+ years old person is required. Members of the <a href="https://edgetx.org/bylaws/#edgetx-development-team">EdgeTX development team</a> cannot participate in the competition.
 
-The contests ends after first successful submission, or on <del>midnight of April 30th, 2025 GMT.</del> <span style="color:red;font-weight:bold;">extended to midnight of May 31st, 2025 GMT.</span>
+The contests ends after first successful submission, or on <del>midnight of April 30th, 2025 GMT.</del> <span style="color:red;font-weight:bold;">extended to midnight of March 1st, 2026 GMT.</span>
 
 The EdgeTX PSC reserves the right not to accept submissions that work incorrectly and / or may negatively impact other parts of the EdgeTX system. The decision of the winner by EdgeTX PSC is final and legal recourse is excluded.
 
