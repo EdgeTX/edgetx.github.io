@@ -21,7 +21,7 @@ The user should be able to select their handset (when in USB storage or bootload
 
 * be able to select the local storage folder, and select models to restore. Collisions with existing model filenames should be detected, and in such cases there should be the ability to overwrite, or rename (and ideally, also auto-rename to free model “slots”). 
 
-Not required, but would be greatly welcome would be for ability to: 
+Not required, but would be greatly welcome for the ability to: 
 
 * visualise the changes if there is conflict - i.e. perhaps simply a dual pane text visualisation of difference
 
