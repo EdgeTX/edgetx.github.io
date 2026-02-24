@@ -1,0 +1,1727 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../edgetxsupport/">
+      
+      
+        <link rel="next" href="../partnershipprogram/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/logo.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.3">
+    
+    
+      
+        <title>Hardware requirements for EdgeTX - EdgeTX</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#hardware-requirements-for-edgetx" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+        <aside class="md-banner">
+          <div class="md-banner__inner md-grid md-typeset">
+            
+              <button class="md-banner__button md-icon" aria-label="Don't show this again">
+                
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+              </button>
+            
+            
+  EdgeTX v2.11.4 has been released! Check out the release notes on Github - 
+  <a href="https://github.com/EdgeTX/edgetx/releases/tag/v2.11.4">  v2.11.4   </a>
+
+          </div>
+          
+            <script>var el=document.querySelector("[data-md-component=announce]");if(el){var content=el.querySelector(".md-typeset");__md_hash(content.innerHTML)===__md_get("__announce")&&(el.hidden=!0)}</script>
+          
+        </aside>
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="EdgeTX" class="md-header__button md-logo" aria-label="EdgeTX" data-md-component="logo">
+      
+  <img src="../assets/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            EdgeTX
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Hardware requirements for EdgeTX
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/EdgeTX/edgetx" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    EdgeTX/edgetx
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href=".." class="md-tabs__link">
+          
+  
+  
+    
+  
+  For Users
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../devinfo/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  For Developers
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../edgetxsupport/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  For Manufacturers
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../fest2026/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  EdgeTX Fest
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../devcontest/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Developer Contests
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="EdgeTX" class="md-nav__button md-logo" aria-label="EdgeTX" data-md-component="logo">
+      
+  <img src="../assets/logo.png" alt="logo">
+
+    </a>
+    EdgeTX
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/EdgeTX/edgetx" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    EdgeTX/edgetx
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href=".." class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    For Users
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_1" id="__nav_1_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    For Users
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../about/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    About EdgeTX
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../getedgetx/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Get EdgeTX
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../supportedradios/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Check Supported Radios
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://edgetx.gitbook.io/edgetx-user-manual/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    User Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../support/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Support
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../faq/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    FAQ
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../merch/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Merchandise
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../bylaws/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Project Bylaws
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../logos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Using EdgeTX Logos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../devinfo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    For Developers
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    For Manufacturers
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    For Manufacturers
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../edgetxsupport/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    EdgeTX on your radio
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hardware requirements for EdgeTX
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hardware requirements for EdgeTX
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#conventions-used-in-this-document" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Conventions used in this document
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#support-of-stm32f-mcus" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Support of STM32F MCUs
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#color-screen-radios" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Color screen radios
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Color screen radios">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#mandatory-hardware-features-color" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Mandatory hardware features (color)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hardware-design-guidelines" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Hardware design guidelines
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#optional-color" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Optional (color)
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#black-and-white-radios" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Black-and-white radios
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Black-and-white radios">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#mandatory-hardware-features-bw" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Mandatory hardware features (B/W)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hardware-design-guidlines" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        hardware design guidlines
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#optional-bw" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Optional (B/W)
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#general-considerations" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        General Considerations
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../partnershipprogram/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Partnership Program
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../nda/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Non-Disclosure Policy
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    EdgeTX Fest
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    EdgeTX Fest
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../fest2026/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fest 2026
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Developer Contests
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Developer Contests
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../devcontest/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Developer Contests
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#conventions-used-in-this-document" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Conventions used in this document
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#support-of-stm32f-mcus" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Support of STM32F MCUs
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#color-screen-radios" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Color screen radios
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Color screen radios">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#mandatory-hardware-features-color" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Mandatory hardware features (color)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hardware-design-guidelines" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Hardware design guidelines
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#optional-color" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Optional (color)
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#black-and-white-radios" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Black-and-white radios
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Black-and-white radios">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#mandatory-hardware-features-bw" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Mandatory hardware features (B/W)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hardware-design-guidlines" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        hardware design guidlines
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#optional-bw" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Optional (B/W)
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#general-considerations" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        General Considerations
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+<h1 id="hardware-requirements-for-edgetx">Hardware Requirements for EdgeTX<a class="headerlink" href="#hardware-requirements-for-edgetx" title="Permanent link">&para;</a></h1>
+<h2 id="conventions-used-in-this-document">Conventions used in this document<a class="headerlink" href="#conventions-used-in-this-document" title="Permanent link">&para;</a></h2>
+<ul>
+<li>SHALL is used to express mandatory requirements (provisions that have to be followed):<ul>
+<li>the negative form is SHALL NOT.</li>
+</ul>
+</li>
+<li>SHOULD is used to express recommendations (provisions that an implementation is expected to follow unless there is a strong reason for not doing so and has to be cleared by the EdgeTX team):<ul>
+<li>the negative form is SHOULD NOT.</li>
+</ul>
+</li>
+<li>MAY is used to express permissible actions (provisions that an implementation is able to follow or not follow):<ul>
+<li>the negative form is NEED NOT (in English MAY NOT is ambiguous, so NEED NOT is used instead).</li>
+</ul>
+</li>
+</ul>
+<h2 id="support-of-stm32f-mcus">Support of STM32F MCUs<a class="headerlink" href="#support-of-stm32f-mcus" title="Permanent link">&para;</a></h2>
+<ul>
+<li>No new radios based on STM32F2 MCUs will be accepted.</li>
+<li>As of EdgeTX v3.0, no new radios based on STM32F MCUs will be accepted.</li>
+</ul>
+<h2 id="color-screen-radios">Color screen radios<a class="headerlink" href="#color-screen-radios" title="Permanent link">&para;</a></h2>
+<h3 id="mandatory-hardware-features-color">Mandatory hardware features (color)<a class="headerlink" href="#mandatory-hardware-features-color" title="Permanent link">&para;</a></h3>
+<ul>
+<li>MCU: presently only STM32F429BI and STM32F439BI with 2 MB flash are supported. Running at 168 MHz.
+  Support for STM32H7/H7R MCUs is planned from EdgeTX v2.11 onwards, whereas H750 and H7R will be the first supported H7 MCUs.</li>
+<li>SDRAM with minimally 8MB with up to 480x320 pixel screens and minimally 32MB for 800x480 pixel screens.</li>
+<li>SD/microSD card slot or embedded SD NAND (e.g. XTX XTSD04G, minimally 512 MByte). SDIO shall be used to connect the storage device.</li>
+<li>Color display with minimally 480x272 pixels. Presently supported resolutions 480x272, 480x320 and 320x480 pixels.
+  With EdgeTX v3, 800x480 pixel support is planned.</li>
+<li>Either touch-screen or keys for navigation, or both.
+  Presently supported touch-screen controllers: GT911, FT6236, CST836U
+  If no touch-screen is available, minimally, Menu, Enter, Return/Exit, Up, Down, Page and two horizontal trim buttons should be availabe. Up/Down can be substituted with an encoder/roller.</li>
+<li>Display connectivity via RGB565, future support for MIPI-DSI is planned for EdgeTX v3.</li>
+<li>Present display controllers supported: internal STM32F4, ST7796S, HX8357D, ILI9481, ILI9486, ILI9488, NT35310.</li>
+<li>possibility to flash the firmware via USB-DFU (with or without dedicated DFU button)</li>
+<li>the real-time-clock shall be connected to a constantly enabled energy source</li>
+<li>possibility to power down the radio from main microcontroller</li>
+<li>possibility to sample the voltage of the main battery</li>
+<li>Neopixel RGB LEDs shall be connected only on PWM capable pins with DMA support</li>
+<li>Serial-Wire-Debug header shall be available on radios provided to the EdgeTX team. Either pads for 2x5 pin 0.05" header</li>
+</ul>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://kb.segger.com/images/b/bc/9-PinConnector_Port.png"></p>
+<p>(mandatory are GND, SWDIO, SWCLK and VTref. SWO, TDI and nRESET are optional)</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; or full-ETM trace header with 2x10 pin 0.05" header:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://kb.segger.com/images/a/a9/19pinTracePort.png"></p>
+<ul>
+<li>USB-C device mode connection<ul>
+<li>H7R radios shall support Hi-Speed (480 MBit/s) USB</li>
+</ul>
+</li>
+<li>For radios with an internal module, lines to put the module into flashing mode to perform pass-through flashing</li>
+<li>Unused GPIO pins shall be connected with a 10k resistor either to GND or VCC. The initial hw revision of a radio shall have them tied to GND, further revision shall use one or multiple of those pins to mark different hw revision of the radio to allow auto detection of the radio version or variant.</li>
+<li>on radios with STM32H750 series MCUs and high-resolution color displays (where the screen resolution is higher than 480x320 pixels), the SDRAM must be connected via 32 bit data bus</li>
+<li>STM32H7, STM32H7R, STM32H7S and STM32H5 MCUs have a modernised UART/UASART hardware<ul>
+<li>no inverters <strong>SHALL</strong> be connected to the UART/USART pins, the MCU can handle polarity inversion in HW, without external help</li>
+<li>the S.PORT pin of the module bay <strong>SHALL</strong> be connected directly to the MCU UART/USART TX pin, <strong>NO</strong> inverter or direction switch logic is needed, add a 10kOhm pull up resistor. The MCU can handle half-duplex in hardware, without external help</li>
+</ul>
+</li>
+</ul>
+<h3 id="hardware-design-guidelines">Hardware design guidelines<a class="headerlink" href="#hardware-design-guidelines" title="Permanent link">&para;</a></h3>
+<ul>
+<li>all high speed interfaces like Quad/Octo/Hexa SPI, SDRAM, USB and SDIO shall be length / time of flight equalised<ul>
+<li>relative timing constraints, e.g. for different SDRAM wires, shall be respected</li>
+</ul>
+</li>
+<li>STM32H7 CPUs shall be used with Quad or Octo SPI flash that supports DDR and at least 100 MHz of DDR SPI clock speed</li>
+<li>for connecting the Quad/Octp SPI flash and RAM the pins used on the evaluation boards shall be used</li>
+<li>For H7R, STM32H7S78-DK</li>
+<li>For H7, STM32H750B-DK</li>
+<li>STM32H7R MCUs may be used with Hexa-SPI PSRAM, one possible type is the IC used on the evaluation board.</li>
+<li>the STM32H7RS series support 480 MBit/s USB on USB2 and 12 MBit/s USB on USB1. The MCU internal bootrom supports DFU mode only on USB1, so a USB switch, like the FSUSB42 by Onsmi, should be added, with the default set to USB 1, to be able to use DFU mode and 480 MBit/s USB</li>
+<li>on radios with STM32H750 series MCUs, it is advised to connect the SDRAM to the MCU via 32 bit bus (minimally 16-bit bus is needed, 32-bit bus provides a performance benefit)</li>
+<li>all connectors that are accessible without opening the radio (antenna, module bay, UARTs, SD card slot, ...) need to have an ESD protection, to be compliant to EU CE regulations. The relevant standard is IEC 61000-4-2, the test level should be level 4. You can find an overview on ESD protection methods there: https://www.st.com/resource/en/application_note/an5612-esd-protection-of-stm32-mcus-and-mpus-stmicroelectronics.pdf</li>
+</ul>
+<h3 id="optional-color">Optional (color)<a class="headerlink" href="#optional-color" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Display backlight shall be controllable via PWM - connection to hw-PWM capable pin on the MCU</li>
+<li>Gimbals with either analog, PWM (e.g. TLE4998P3), SPI ADC (e.g. ADS7952) or UART communication</li>
+<li>Switches as digital or analog inputs</li>
+<li>haptic vibrator, via binary or PWM output</li>
+<li>support for additional key navigation input. Supported keys: Enter, Return, Page&gt;, Page&lt;, Up/Down, System, Model, Tele.</li>
+<li>support for encoder/roller user input</li>
+<li>Audio output via STM32 integrated DAC or via SPI codec (e.g. VS1053B is already supported)</li>
+<li>Explicit audio volume control, e.g. via I2C, SPI or further DAC output</li>
+<li>Explicit audio mute pin</li>
+<li>in case of integrated charging circuitry/circuitries, feedback to main MCU about charging status of each charger</li>
+<li>for external RF module bay support: either JR-micro or JR-nano bay</li>
+<li>If trainer socket present: in/out connected to hw-PWM capable pins</li>
+<li>GPIO extenders with I2C or SPI bus connectivity can be used for digital I/O. In case GPIO extenders are used as inputs, the interrupt output of the GPIO extender shall be connected to an input interrupt capable pin of the MCU. The interrupt lines of multiple GPIO extenders may be logically connected to the same MCU input line.</li>
+<li>SPI flash</li>
+<li>I2C EEPROM</li>
+<li>Bluetooth module via UART</li>
+<li>IMU (e.g. LSM6DS33)</li>
+<li>I2C port expander<ul>
+<li>if port expanders are used for inputs, the interrupt output pin(s) of the port expander(s) shall be connected to an interrupt capable input pin of the MCU</li>
+</ul>
+</li>
+<li>SpaceMouse module</li>
+</ul>
+<hr />
+<h2 id="black-and-white-radios">Black-and-white radios<a class="headerlink" href="#black-and-white-radios" title="Permanent link">&para;</a></h2>
+<h3 id="mandatory-hardware-features-bw">Mandatory hardware features (B/W)<a class="headerlink" href="#mandatory-hardware-features-bw" title="Permanent link">&para;</a></h3>
+<ul>
+<li>MCU: As of EdgeTX 2.10, STM32F4 with minimally 1 MB flash running at 168 MHz. From EdgeTX v2.11 onwards, STM32H562/563 will also be supported. New STM32F based designs will not be accepted as of EdgeTX v3.0.<ul>
+<li>Support for STM32H562/563 will be available from EdgeTX v3 or v2.11</li>
+</ul>
+</li>
+<li>SD/microSD card slot or embedded SD NAND (e.g. XTX XTSD04G, minimally 512 MByte)<ul>
+<li>Starting with STM32H5 all new radios shall use SDIO to connect the storage</li>
+</ul>
+</li>
+<li>Monochrome display with either 128x64 pixels or 212x64 pixels.</li>
+<li>possibility to flash the firmware via USB-DFU (with or without dedicated DFU button)</li>
+<li>constantly enabled energy source for the real-time-clock</li>
+<li>Keys to navigate the menus. Minimally, Menu, Enter, Return/Exit, Up, Down, Page and two horizontal trim buttons should be available. Up/Down can be substituted with an encoder/roller.</li>
+<li>possibility to power down the radio from main microcontroller</li>
+<li>possibility to sample the voltage of the main battery</li>
+<li>Neopixel RGB LEDs only on PWM capable pins with DMA support</li>
+<li>Serial-Wire-Debug header. Either pads for 2x5 pin 0.05" header</li>
+</ul>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://kb.segger.com/images/b/bc/9-PinConnector_Port.png"></p>
+<p>(mandatory are GND, SWDIO, SWCLK and VTref. SWO, TDI and nRESET are optional)</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; or full-ETM trace header with 2x10 pin 0.05" header:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://kb.segger.com/images/a/a9/19pinTracePort.png"></p>
+<ul>
+<li>USB-C device mode connection (minimally for new radios)</li>
+<li>For radios with an internal module, lines to put the module into flashing mode to perform pass-through flashing</li>
+<li>Unused GPIO pins shall be connected with a 10k resistor either to GND or VCC. The initial hw revision of a radio shall have them tied to GND, further revision shall use one or multiple of those pins to mark different hw revision of the radio to allow auto detection of the radio version or variant.</li>
+<li>STM32H7, STM32H7R, STM32H7S and STM32H5 MCUs have a modernised UART/UASART hardware<ul>
+<li>no inverters <strong>SHALL</strong> be connected to the UART/USART pins, the MCU can handle polarity inversion in HW, without external help</li>
+<li>the S.PORT pin of the module bay <strong>SHALL</strong> be connected directly to the MCU UART/USART TX pin, <strong>NO</strong> inverter or direction switch logic is needed, add a 10kOhm pull up resistor. The MCU can handle half-duplex in hardware, without external help</li>
+</ul>
+</li>
+</ul>
+<h3 id="hardware-design-guidlines">hardware design guidlines<a class="headerlink" href="#hardware-design-guidlines" title="Permanent link">&para;</a></h3>
+<ul>
+<li>all high speed interfaces like Quad/Octo/Hexa SPI, SDRAM, USB and SDIO shall be length / time of flight equalised</li>
+<li>possible pin assignments can be found in the documentation of the evaluation board: NUCLEO-H563ZI</li>
+<li>all connectors that are accessible without opening the radio (antenna, module bay, UARTs, SD card slot, ...) need to have an ESD protection, to be comliant to EU CE regulations. The relevant standard is IEC 61000-4-2, the test level should be level 4. You can find an overview on ESD protection methods there: https://www.st.com/resource/en/application_note/an5612-esd-protection-of-stm32-mcus-and-mpus-stmicroelectronics.pdf</li>
+</ul>
+<h3 id="optional-bw">Optional (B/W)<a class="headerlink" href="#optional-bw" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Display backlight control via PWM - connection to hw-PWM capable pin on the MCU</li>
+<li>Gimbals with either analog, PWM (e.g. TLE4998P3), SPI ADC (e.g. ADS7952) or UART communication</li>
+<li>Switches as digital or analog inputs</li>
+<li>haptic vibrator, via binary or PWM output</li>
+<li>support for additional key navigation input, via keys: Enter, Return, Page&gt;, Page&lt;, Up/Down, System, Model, Tele.</li>
+<li>support for encoder/roller user input</li>
+<li>Audio output via STM32 integrated DAC</li>
+<li>Explicit audio volume control, e.g. via I2C, SPI or further DAC output</li>
+<li>Explicit audio mute pin</li>
+<li>in case of integrated charging circuitry/circuitries, feedback to main MCU about charging status of each charger</li>
+<li>for external RF module bay support: either JR-micro or JR-nano bay</li>
+<li>If trainer socket present: in/out shall be connected to hw-PWM capable pins</li>
+<li>GPIO extenders with I2C or SPI bus connectivity can be used for digital I/O. In case GPIO extenders are used as inputs, the interrupt output of the GPIO extender shall be connected to an input interrupt capable pin of the MCU. The interrupt lines of multiple GPIO extenders may be logically connected to the same MCU input line.</li>
+<li>SPI flash</li>
+<li>I2C EEPROM</li>
+<li>Bluetooth module via UART</li>
+<li>IMU (e.g. LSM6DS33)</li>
+<li>I2C port expander<ul>
+<li>if port expanders are used for inputs, the interrupt output pin(s) of the port expander(s) shall be connected to an interrupt capable input pin of the MCU</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h2 id="general-considerations">General Considerations<a class="headerlink" href="#general-considerations" title="Permanent link">&para;</a></h2>
+<ul>
+<li>When the radio is equipped with flight mode buttons (6POS / six position switch), they should be connected in a way that they can be used individually (as 'customizable switches' in EdgeTX). In order to save MCU IO pins, this may be done using a single analog input and resistor ladder, or an I2C expander. These switches shall have visual feedback LEDs that can be controlled by the MCU. To save MCU IO pins, this may also be done using an I2C expander, or WS2812 (aka Neopixel) single serial line LEDs.  </li>
+<li>Since the H7R and H5 CPUs support USB-C power delivery, the charging circuit may be designed with this in mind.  </li>
+<li>In order for the radio with a proprietary (meaning non open-source) internal RF technology to be included in the officially supported radios list, the EdgeTX development team needs to be provided with detailed documentation regarding the API of such internal RF module. In addition, any officially supported radio with a proprietary internal RF module, needs to be equipped in addition with an external RF module bay that is able to accept open-source RF technology (such as Multi-Protocol-Module and ExpressLRS).</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2021-2025 EdgeTX
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        
+<div class="md-social">
+  
+    
+    
+    
+    
+    <a href="https://discord.gg/wF9wUKnZ6H" target="_blank" rel="noopener" title="Connect with us on Discord" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M492.5 69.8c-.2-.3-.4-.6-.8-.7-38.1-17.5-78.4-30-119.7-37.1-.4-.1-.8 0-1.1.1s-.6.4-.8.8c-5.5 9.9-10.5 20.2-14.9 30.6-44.6-6.8-89.9-6.8-134.4 0-4.5-10.5-9.5-20.7-15.1-30.6-.2-.3-.5-.6-.8-.8s-.7-.2-1.1-.2C162.5 39 122.2 51.5 84.1 69c-.3.1-.6.4-.8.7C7.1 183.5-13.8 294.6-3.6 404.2c0 .3.1.5.2.8s.3.4.5.6c44.4 32.9 94 58 146.8 74.2.4.1.8.1 1.1 0s.7-.4.9-.7c11.3-15.4 21.4-31.8 30-48.8.1-.2.2-.5.2-.8s0-.5-.1-.8-.2-.5-.4-.6-.4-.3-.7-.4c-15.8-6.1-31.2-13.4-45.9-21.9-.3-.2-.5-.4-.7-.6s-.3-.6-.3-.9 0-.6.2-.9.3-.5.6-.7c3.1-2.3 6.2-4.7 9.1-7.1.3-.2.6-.4.9-.4s.7 0 1 .1c96.2 43.9 200.4 43.9 295.5 0 .3-.1.7-.2 1-.2s.7.2.9.4c2.9 2.4 6 4.9 9.1 7.2.2.2.4.4.6.7s.2.6.2.9-.1.6-.3.9-.4.5-.6.6c-14.7 8.6-30 15.9-45.9 21.8-.2.1-.5.2-.7.4s-.3.4-.4.7-.1.5-.1.8.1.5.2.8c8.8 17 18.8 33.3 30 48.8.2.3.6.6.9.7s.8.1 1.1 0c52.9-16.2 102.6-41.3 147.1-74.2.2-.2.4-.4.5-.6s.2-.5.2-.8c12.3-126.8-20.5-236.9-86.9-334.5zm-302 267.7c-29 0-52.8-26.6-52.8-59.2s23.4-59.2 52.8-59.2c29.7 0 53.3 26.8 52.8 59.2 0 32.7-23.4 59.2-52.8 59.2m195.4 0c-29 0-52.8-26.6-52.8-59.2s23.4-59.2 52.8-59.2c29.7 0 53.3 26.8 52.8 59.2 0 32.7-23.2 59.2-52.8 59.2"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="https://www.facebook.com/groups/edgetx" target="_blank" rel="noopener" title="Join the Facebook group" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M512 256C512 114.6 397.4 0 256 0S0 114.6 0 256c0 120 82.7 220.8 194.2 248.5V334.2h-52.8V256h52.8v-33.7c0-87.1 39.4-127.5 125-127.5 16.2 0 44.2 3.2 55.7 6.4V172c-6-.6-16.5-1-29.6-1-42 0-58.2 15.9-58.2 57.2V256h83.6l-14.4 78.2H287v175.9C413.8 494.8 512 386.9 512 256"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="https://www.rcgroups.com/forums/showthread.php?3916381-Official-EdgeTX-Discussion-Thread" target="_blank" rel="noopener" title="Follow the EdgeTX thread on RCGroups.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M351.9 280H161c2.9 64.5 17.2 123.9 37.5 167.4 11.4 24.5 23.7 41.8 35.1 52.4 11.2 10.5 18.9 12.2 22.9 12.2s11.7-1.7 22.9-12.2c11.4-10.6 23.7-28 35.1-52.4 20.3-43.5 34.6-102.9 37.5-167.4zm-191-48h190.9c-2.8-64.5-17.1-123.9-37.4-167.4-11.4-24.4-23.7-41.8-35.1-52.4C268.1 1.7 260.4 0 256.4 0s-11.7 1.7-22.9 12.2c-11.4 10.6-23.7 28-35.1 52.4-20.3 43.5-34.6 102.9-37.5 167.4m-48 0c3.5-85.6 25.6-165.1 57.9-217.3C78.7 47.3 10.9 131.2 1.5 232zM1.5 280c9.4 100.8 77.2 184.7 169.3 217.3-32.3-52.2-54.4-131.7-57.9-217.3zm398.4 0c-3.5 85.6-25.6 165.1-57.9 217.3 92.1-32.7 159.9-116.5 169.3-217.3zm111.4-48C501.9 131.2 434.1 47.3 342 14.7c32.3 52.2 54.4 131.7 57.9 217.3z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="https://opencollective.com/edgetx" target="_blank" rel="noopener" title="Make a donation" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M288-16c-13.3 0-24 10.7-24 24v12h-1.8C225.6 20 196 49.7 196 86.2c0 33.4 24.9 61.6 58 65.7l61 7.6c5.1.6 9 5 9 10.2 0 5.7-4.6 10.2-10.2 10.2l-73.8.1c-15.5 0-28 12.5-28 28s12.5 28 28 28h24v12c0 13.3 10.7 24 24 24s24-10.7 24-24v-12h1.8c36.6 0 66.2-29.7 66.2-66.2 0-33.4-24.9-61.6-58-65.7l-61-7.6c-5.1-.6-9-5-9-10.2 0-5.7 4.6-10.2 10.2-10.2L328 76c15.5 0 28-12.5 28-28s-12.5-28-28-28h-16V8c0-13.3-10.7-24-24-24M109.3 341.5 66.7 384H32c-17.7 0-32 14.3-32 32v64c0 17.7 14.3 32 32 32h320.5c29 0 57.3-9.3 80.7-26.5l126.6-93.3c17.8-13.1 21.6-38.1 8.5-55.9s-38.1-21.6-55.9-8.5L392.6 416H280c-13.3 0-24-10.7-24-24s10.7-24 24-24h72c17.7 0 32-14.3 32-32s-14.3-32-32-32H199.8c-33.9 0-66.5 13.5-90.5 37.5"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": ["announce.dismiss", "navigation.instant", "navigation.tabs", "navigation.indexes", "search.highlight", "search.suggest", "toc.follow", "navigation.top"], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>
