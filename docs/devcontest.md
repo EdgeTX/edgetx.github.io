@@ -8,7 +8,7 @@ From time to time, the EdgeTX team organizes developer contests to provide an in
 
 ## **Currently active developer contests**
 
-* [10th - 3D shaped EdgeTX mascot "Eddie the Edgehog"](https://edgetx.org/dc10_3deddie). The contest runs until March 1st, 2026 GMT.
+* [10th - 3D shaped EdgeTX mascot "Eddie the Edgehog"](https://edgetx.org/dc10_3deddie). The contest runs until midnight of March 31st, 2026 GMT.
 
 * [6th - EdgeTX Buddy backup and restore](https://edgetx.org/dc6_buddybackup). The contests ends after first successful submission, or on midnight of March 1st, 2026 GMT.
 

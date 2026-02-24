@@ -24,7 +24,7 @@ Bonus points will be given to the design that is divided into separately 3D prin
 
 **Rules**
 
-The contest ends on midnight of March 1st, 2026 GMT, after which the winner will be picked by a vote of EdgeTX Project-Steering-Committee. Members of the <a href="https://edgetx.org/bylaws/#edgetx-development-team">EdgeTX development team</a> cannot participate in the competition. To be eligible to win the radio, an address of a 18+ years old person is required. 
+The contest ends on <del>midnight of March 1st, 2026 GMT</del> <span style="color:red;font-weight:bold;">extended to midnight of March 31st, 2026 GMT</span>, after which the winner will be picked by a vote of EdgeTX Project-Steering-Committee. Members of the <a href="https://edgetx.org/bylaws/#edgetx-development-team">EdgeTX development team</a> cannot participate in the competition. To be eligible to win the radio, an address of a 18+ years old person is required. 
 
 The EdgeTX PSC reserves the right not to accept submissions that do not adhere to the devised task goals and / or may negatively impact EdgeTX. The decision of the winner by EdgeTX PSC is final and legal recourse is excluded.
 
