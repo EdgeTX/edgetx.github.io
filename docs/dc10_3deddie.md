@@ -31,7 +31,7 @@ The EdgeTX PSC reserves the right not to accept submissions that do not adhere t
 
 **Prize:**
 
-The winner will get a RadioMaster [TX16s MK3 MAX](https://radiomasterrc.com/products/tx16s-mk3-max-radio-controller-elrs-m2) radio (sponsored by RadioMaster) and can pick a color from the available 4 options. The radio will be shipped world-wide (see next sentence for limitations!) free of charge directly from the RadioMaster factory to the winner. Due to current geo-political situation, the prize cannot be shipped to Ukraine or Russia. EdgeTX would cover any possible local import fees (the winner of this competition can hand in the possible import fee bill via our [OpenCollective page](https://opencollective.com/edgetx/expenses/new)).
+The winner will get a RadioMaster [TX16s MK3 MAX](https://radiomasterrc.com/products/tx16s-mk3-max-radio-controller-elrs-m2) radio (sponsored by RadioMaster) and can pick a color from the available 4 options. The radio will be shipped world-wide (see next sentence for limitations!) free of charge directly from the RadioMaster factory to the winner. Due to current export regulations of China, the prize cannot be shipped to Ukraine, Russia, Turkey, UAE, Kazakhstan, Israel and Iran. EdgeTX would cover any possible local import fees (the winner of this competition can hand in the possible import fee bill via our [OpenCollective page](https://opencollective.com/edgetx/expenses/new)).
 
 
 **If you have questions about the contest, feel free to contact the EdgeTX team on our Discord at the [#dc10_3deddie](https://discord.com/channels/839849772864503828/1465386376408072254) channel**
