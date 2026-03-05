@@ -15,7 +15,9 @@ hide:
 
 We have a winner - congratulations **Héctor Narbona Márquez**. For the winning submission, please see [EdgeTX Buddy PR #134](https://github.com/EdgeTX/buddy/pull/134).
 
-Héctor will receive a [RadioMaster TX16S MK3 radio](https://radiomasterrc.com/products/tx16s-mk3-radio-controller) (per his request), generously sponsored by RadioMaster. This state-of-the-art radio will be shipped directly from the RadioMaster factory to Héctor. 
+Héctor will receive a [black RadioMaster TX16S MK3 radio](https://radiomasterrc.com/products/tx16s-mk3-radio-controller). For successfully also completing the bonus task to create a standalone app with the same features, Héctor will also receive a [RadioMaster ER8 ExpressLRS receiver](https://radiomasterrc.com/products/er8-2-4ghz-elrs-pwm-receiver). Both winning items were selected by Héctor from the available options and are generously sponsored by RadioMaster.
+
+The state-of-the-art radio and receiver will be shipped directly from the RadioMaster factory to Héctor. 
 
 Original contest text below:
 
