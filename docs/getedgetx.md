@@ -1,14 +1,14 @@
 
 **Are you interested in installing EdgeTX on your radio? Check to see if your radio is supported on our [supported radios](supportedradios.md) page.**
 
-**Ready to install EdgeTX?** 
+**Ready to install EdgeTX?**
 
 Follow the instructions in our  [installation guide](https://manual.edgetx.org/installing-and-updating-edgetx)
 
-*To see the list of improvements as well as limitations of EdgeTX,  
+*To see the list of improvements as well as limitations of EdgeTX,
 please review the release notes for the* **[latest EdgeTX release](https://github.com/EdgeTX/edgetx/releases/latest).**
 
-**Running into an issue with EdgeTX? Take a look at our FAQ.** 
+**Running into an issue with EdgeTX? Take a look at our FAQ.**
 
 [Frequently Asked Questions](faq.md)
 
@@ -16,7 +16,7 @@ please review the release notes for the* **[latest EdgeTX release](https://githu
 
 > [EdgeTX Buddy](https://buddy.edgetx.org/) - Online tool for downloading and flashing EdgeTX to your radio, including SD card contents
 
-> [EdgeTX Firmware direct download](https://github.com/EdgeTX/edgetx/releases/download/v2.11.4/edgetx-firmware-v2.11.4.zip)
+> [EdgeTX Firmware direct download](https://github.com/EdgeTX/edgetx/releases/download/v2.11.5/edgetx-firmware-v2.11.5.zip)
 
 > [SD Card Downloads](https://github.com/EdgeTX/edgetx-sdcard/releases)
 
@@ -24,11 +24,11 @@ please review the release notes for the* **[latest EdgeTX release](https://githu
 
 **Looking for EdgeTX Companion? See the links below:**
 
->[EdgeTX Companion - Windows 64bit](https://github.com/EdgeTX/edgetx/releases/download/v2.11.4/edgetx-cpn-win64-v2.11.4.zip)
+>[EdgeTX Companion - Windows 64bit](https://github.com/EdgeTX/edgetx/releases/download/v2.11.5/edgetx-cpn-win64-v2.11.5.zip)
 
->[EdgeTX Companion - Mac OS X](https://github.com/EdgeTX/edgetx/releases/download/v2.11.4/edgetx-cpn-osx-v2.11.4.zip)
+>[EdgeTX Companion - Mac OS X](https://github.com/EdgeTX/edgetx/releases/download/v2.11.5/edgetx-cpn-osx-v2.11.5.zip)
 
->[EdgeTX Companion - Linux](https://github.com/EdgeTX/edgetx/releases/download/v2.11.4/edgetx-cpn-linux-v2.11.4.zip)
+>[EdgeTX Companion - Linux](https://github.com/EdgeTX/edgetx/releases/download/v2.11.5/edgetx-cpn-linux-v2.11.5.zip)
 
 **Looking for EdgeTX in a language other than English? See the link below:**
 
