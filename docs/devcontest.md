@@ -20,7 +20,7 @@ From time to time, the EdgeTX team organizes developer contests to provide an in
 
 * [6th - EdgeTX Buddy backup and restore](https://edgetx.org/dc6_buddybackup). Winning solution by Héctor Narbona Márquez - [EdgeTX Buddy PR #134](https://github.com/EdgeTX/buddy/pull/134)
 
-* [5th - Web based EdgeTX radio firmware simulator](https://edgetx.org/dc5_websimu). Ended on midnight April 30th, 2025 GMT w/o submissions. Plans are afoot to reopen this developer contest in simplified form later in 2025.
+* [5th - Web based EdgeTX radio firmware simulator](https://edgetx.org/dc5_websimu). Ended on midnight April 30th, 2025 GMT w/o submissions. Plans are afoot to reopen this developer contest in simplified form sometime in 2026.
 
 * 4th - Physical serial port connectivity for EdgeTX Companion Simulator. Winning solution by Nigel Williams - [EdgeTX PR #5584](https://github.com/EdgeTX/edgetx/pull/5584)
 
