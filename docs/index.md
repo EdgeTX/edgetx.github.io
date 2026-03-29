@@ -16,6 +16,17 @@ For more information about EdgeTX, check out the [About EdgeTX page](https://edg
 
 ## What's new ##
 
+**March 29th 2026**
+
+**EdgeTX v2.12.0 is now live!**
+
+This release brings support for several next generation STM32 H7 based radios. B&W screen radios get a model quick select option and source options for mixes are consistent with their color screen counterparts. Color screen radios get theme control of the quick menu, QR GPS code locator tool and a few more screen layout options. There are a lot of under the hood fixes and changes, as well as STM32F4 radios being generally faster to start than in 2.11. Companion has improvements to firmware flashing generally (in addition to the necessary added support for UF2 files), can download and install the ExpressLRS Lua tool as part of update checks, will preserve your calibration settings when writing old model and radio settings to the handset, and will also ensure your model notes are stored in your .etx file.
+
+For more information about what has changed, take a look at the [release notes](https://github.com/EdgeTX/edgetx/releases/tag/v2.12.0). 
+
+---
+
+
 **March 4th, 2026**
 
 **EdgeTX Buddy based Backup and Restore Developer Contest Winner**
