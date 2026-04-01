@@ -8,9 +8,11 @@ From time to time, the EdgeTX team organizes developer contests to provide an in
 
 ## **Currently active developer contests**
 
-* [10th - 3D shaped EdgeTX mascot "Eddie the Edgehog"](https://edgetx.org/dc10_3deddie). The contest runs until midnight of March 31st, 2026 GMT.
+* There are currently no active EdgeTX developer contests.
 
 ## **Past developer contests**
+
+* [10th - 3D shaped EdgeTX mascot "Eddie the Edgehog"](https://edgetx.org/dc10_3deddie). Winning solution by Luis Loreto - [3MF file](https://github.com/EdgeTX/edgetx.github.io/raw/refs/heads/master/downloads/3DEddie.3mf) (created using Orca slicer) and [3D printing instructions](https://github.com/EdgeTX/edgetx.github.io/raw/refs/heads/master/downloads/3DEddiePrintingInstructions.pdf)
 
 * [9th - Lua LVGL new model wizards](https://edgetx.org/dc9_lualvglwizard). Winning solution by Alexander Gnauck - [EdgeTX SD card PR #245](https://github.com/EdgeTX/edgetx-sdcard/pull/245)
 

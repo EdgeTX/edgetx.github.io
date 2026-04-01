@@ -11,6 +11,42 @@ hide:
 
 ## **Contest Details**
 
+**Update:**
+
+We have a winner - congratulations **Luis Loreto**!
+
+<img src="/assets/LuisLoreto.png?raw=true" width="500"> <a href="https://www.youtube.com/watch?v=_5A6PGu124k"><img src="/assets/EddieRotationYTvid.jpg?raw=true" width="474"></a>
+
+The winning submission can be downloaded as a [3MF file](https://github.com/EdgeTX/edgetx.github.io/raw/refs/heads/master/downloads/3DEddie.3mf) (created using Orca slicer). You can find detailed [3D printing instructions](https://github.com/EdgeTX/edgetx.github.io/raw/refs/heads/master/downloads/3DEddiePrintingInstructions.pdf) as downloadable PDF file.
+
+Luis will receive a [blue RadioMaster TX16S MK3 MAX radio](https://radiomasterrc.com/products/tx16s-mk3-max-radio-controller-elrs-m2?variant=47239980679360) (per his request), generously sponsored by RadioMaster.
+
+The state-of-the-art radio and receiver will be shipped directly from the RadioMaster factory to Luis. 
+
+EdgeTX team is absolutely stunned by Luis's artistic talent paired with design and technical skills for constructing a perfectly 3D printable model files!
+
+Due to very high quality of submission in this contest, we wish to honor the runner-ups.
+
+
+The second place goes to **FebyKris**. His submission can be downloaded from our webpage: [3DEddie_by_FebyKris.3mf](https://github.com/EdgeTX/edgetx.github.io/raw/refs/heads/master/downloads/3DEddie_FebyKris.3mf)
+
+<img src="/assets/3DEddie_FebyKris.png?raw=true" align="center" width="500">
+
+FebyKris will receive a reimbursement of up to 100 EUR via our OpenCollective page for a R/C or 3D printing related purchase.
+
+
+The third place goes to **Aviv Levy**. His submission can be downloaded from our webpage: [3DEddie_by_AvivLevy.3mf](https://github.com/EdgeTX/edgetx.github.io/raw/refs/heads/master/downloads/3DEddie_AvivLevy.3mf)
+
+<img src="/assets/3DEddie_AvivLevy.png?raw=true" align="center" width="300">
+
+Aviv will receive a reimbursement of up to 50 EUR via our OpenCollective page for a R/C or 3D printing related purchase.
+
+
+EdgeTX team wishes to thank and honor the remaining submitters, who did not make the podium this time - tandomayo, Clau Elias, mGced and megasega, who all get a 20 EUR reimbursement for their R/C or 3D printing related purchase via our OpenCollective. To see their submissions, please see [EdgeTX Discord #dc10_3deddie](https://discord.com/channels/839849772864503828/1465386376408072254) channel.
+
+
+Original contest text below:
+
 **Task:**
 
 Create the best volumetric 3D printable model of EdgeTX mascot *Eddie the Edgehog* together with EdgeTX star logo:
