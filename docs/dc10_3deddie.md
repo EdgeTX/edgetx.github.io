@@ -19,13 +19,13 @@ We have a winner - congratulations **Luis Loreto**!
 
 The winning submission can be downloaded as a [3MF file](https://github.com/EdgeTX/edgetx.github.io/raw/refs/heads/master/downloads/3DEddie.3mf) (created using Orca slicer). You can find detailed [3D printing instructions](https://github.com/EdgeTX/edgetx.github.io/raw/refs/heads/master/downloads/3DEddiePrintingInstructions.pdf) as downloadable PDF file.
 
-Luis will receive a [blue RadioMaster TX16S MK3 MAX radio](https://radiomasterrc.com/products/tx16s-mk3-max-radio-controller-elrs-m2?variant=47239980679360) (per his request), generously sponsored by RadioMaster.
+Luis will receive a [blue RadioMaster TX16s MK3 MAX radio](https://radiomasterrc.com/products/tx16s-mk3-max-radio-controller-elrs-m2?variant=47239980679360) (per his request), generously sponsored by RadioMaster.
 
-The state-of-the-art radio and receiver will be shipped directly from the RadioMaster factory to Luis. 
+The state-of-the-art radio will be shipped directly from the RadioMaster factory to Luis. 
 
 EdgeTX team is absolutely stunned by Luis's artistic talent paired with design and technical skills for constructing a perfectly 3D printable model files!
 
-Due to very high quality of submission in this contest, we wish to honor the runner-ups.
+Due to very high quality of submissions in this contest, we wish to honor the runner-ups.
 
 
 The second place goes to **FebyKris**. His submission can be downloaded from our webpage: [3DEddie_by_FebyKris.3mf](https://github.com/EdgeTX/edgetx.github.io/raw/refs/heads/master/downloads/3DEddie_FebyKris.3mf)
