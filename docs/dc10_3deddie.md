@@ -28,11 +28,11 @@ EdgeTX team is absolutely stunned by Luis's artistic talent paired with design a
 Due to very high quality of submissions in this contest, we wish to honor the runner-ups.
 
 
-The second place goes to **FebyKris**. His submission can be downloaded from our webpage: [3DEddie_by_FebyKris.3mf](https://github.com/EdgeTX/edgetx.github.io/raw/refs/heads/master/downloads/3DEddie_FebyKris.3mf)
+The second place goes to **Saya Feby Kristianto** (EdgeTX Discord user **FebyKris**). His submission can be downloaded from our webpage: [3DEddie_by_FebyKris.3mf](https://github.com/EdgeTX/edgetx.github.io/raw/refs/heads/master/downloads/3DEddie_FebyKris.3mf)
 
 <img src="/assets/3DEddie_FebyKris.png?raw=true" align="center" width="500">
 
-FebyKris will receive a reimbursement of up to 100 EUR via our OpenCollective page for a R/C or 3D printing related purchase.
+Saya will receive a reimbursement of up to 100 EUR via our OpenCollective page for a R/C or 3D printing related purchase.
 
 
 The third place goes to **Aviv Levy**. His submission can be downloaded from our webpage: [3DEddie_by_AvivLevy.3mf](https://github.com/EdgeTX/edgetx.github.io/raw/refs/heads/master/downloads/3DEddie_AvivLevy.3mf)
