@@ -93,8 +93,12 @@ plugins:
       categories: true
       categories_name: Topics
 
+hooks:
+  - hooks/latest_news.py
+
 markdown_extensions:
   - toc:
       permalink: true
   - attr_list
+  - md_in_html
   - footnotes

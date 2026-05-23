@@ -15,4 +15,4 @@ For more information about EdgeTX, check out the [About EdgeTX page](https://edg
 
 ---
 
-[**See the latest news →**](news/index.md)
+<!-- latest-news -->
