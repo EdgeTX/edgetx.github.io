@@ -7,27 +7,44 @@ repo_name: EdgeTX/edgetx
 copyright: Copyright &copy; 2021-2025 EdgeTX
 
 nav:
+    - Home: index.md
     - For Users:
-        - Welcome to EdgeTX!: index.md
         - About EdgeTX: about.md
-        - Get EdgeTX: getedgetx.md 
-        - Check Supported Radios: supportedradios.md 
+        - News: news.md
+        - Get EdgeTX: getedgetx.md
+        - Check Supported Radios: supportedradios.md
         - User Guide: https://edgetx.gitbook.io/edgetx-user-manual/
         - Support: support.md
         - FAQ: faq.md
         - Merchandise: merch.md
         - Project Bylaws: bylaws.md
         - Using EdgeTX Logos: logos.md
-    - For Developers: devinfo.md 
-    - For Manufacturers: 
+    - For Developers:
+        - Developer Info: devinfo.md
+        - Join the Team: recruiting.md
+    - For Manufacturers:
         - EdgeTX on your radio: edgetxsupport.md
         - Hardware requirements for EdgeTX: Radio-hardware-specifications-for-EdgeTX.md
         - Partnership Program: partnershipprogram.md
         - Non-Disclosure Policy: nda.md
     - EdgeTX Fest:
         - Fest 2026: fest2026.md
+        - Archive:
+            - Fest 2025: fest2025.md
+            - Fest 2024: fest2024.md
+            - Fest 2024 Auction: etxf24_auction.md
+            - Fest 2023: fest2023.md
     - Developer Contests:
         - Developer Contests: devcontest.md
+        - Archive:
+            - Contest 10 - 3D Eddie: dc10_3deddie.md
+            - Contest 9 - Lua LVGL Wizard: dc9_lualvglwizard.md
+            - Contest 8 - Lua LVGL Widget: dc8_lualvglwidget.md
+            - Contest 7 - Simulator Haptic: dc7_simuhaptic.md
+            - Contest 6 - Buddy Backup: dc6_buddybackup.md
+            - Contest 5 - Web Simulator: dc5_websimu.md
+            - Contest 4 - Computational Physics Server: dc4_comp_physer.md
+            - Contest 2 - UBX: dc2_ubx.md
 theme:
   name: material
   custom_dir: overrides
@@ -44,10 +61,10 @@ theme:
     - search.suggest
     - toc.follow
     - navigation.top
-   
+
 extra_css:
   - stylesheets/extra.css
-  
+
 extra:
   social:
     - icon: fontawesome/brands/discord
