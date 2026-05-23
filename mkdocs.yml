@@ -8,9 +8,10 @@ copyright: Copyright &copy; 2021-2025 EdgeTX
 
 nav:
     - Home: index.md
+    - News:
+        - news/index.md
     - For Users:
         - About EdgeTX: about.md
-        - News: news.md
         - Get EdgeTX: getedgetx.md
         - Check Supported Radios: supportedradios.md
         - User Guide: https://edgetx.gitbook.io/edgetx-user-manual/
@@ -79,6 +80,19 @@ extra:
     - icon: fontawesome/solid/hand-holding-dollar
       link: https://opencollective.com/edgetx
       name: Make a donation
+plugins:
+  - search
+  - blog:
+      blog_dir: news
+      post_date_format: long
+      post_excerpt: optional
+      pagination_per_page: 10
+      archive: true
+      archive_date_format: yyyy
+      archive_url_date_format: yyyy
+      categories: true
+      categories_name: Topics
+
 markdown_extensions:
   - toc:
       permalink: true

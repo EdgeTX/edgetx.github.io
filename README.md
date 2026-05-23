@@ -19,11 +19,21 @@ For bigger changes (new pages, core website changes)
    **Note:** Make sure that you update the **Name:** tag in the **CI.yml** file in the **.github/workflows** folder to your repository name. Also, select the **gh-pages** branch and **root** folder location for deployent location (the gh-pages branch will only be visible after updating the **CI.yml** file and the rebuild action is complete) .
 
    ***---Recommended---***
-5. Install MKDocs on your local computer. https://www.mkdocs.org/user-guide/installation/
-6. Install MKDocs material on your local computer. https://squidfunk.github.io/mkdocs-material/getting-started
-7. Clone your forked repository locally to your computer.
+5. Clone your forked repository locally to your computer.
+6. Preview the site locally with live reload. Open http://127.0.0.1:8000 in your browser — the site will automatically refresh as you save changes.
 
-   ***The two steps above will allow you to make changes to the website and see the changes immediately on your local machine.***
+   **Option A — using [uv](https://docs.astral.sh/uv/) (easiest, no install needed):**
+   ```
+   uvx --with mkdocs-material mkdocs serve
+   ```
+   Install `uv` first if needed: on Windows: `winget install astral-sh.uv` — on Linux/macOS: `curl -LsSf https://astral.sh/uv/install.sh | sh`
+
+   **Option B — using a local MkDocs installation:**
+   - Install MkDocs: https://www.mkdocs.org/user-guide/installation/
+   - Install MkDocs Material: https://squidfunk.github.io/mkdocs-material/getting-started
+   - Run: `mkdocs serve`
+
+   ***The step above will allow you to make changes to the website and see the changes immediately on your local machine.***
 
 8. Make the proposed changes and push the changes to your forked repo online.
 9. Create a pull request (PR) for the Master repository, describing the changes and including a link to your deployed forked page.
