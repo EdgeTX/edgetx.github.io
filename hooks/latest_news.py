@@ -103,7 +103,7 @@ def _post_url(post_date: date, title: str) -> str:
     slug = title.lower()
     slug = re.sub(r"[^a-z0-9\s-]", "", slug)
     slug = slug.replace(" ", "-")
-    return f"news/{post_date.year}/{post_date.month:02d}/{post_date.day:02d}/{slug}/"
+    return f"/news/{post_date.year}/{post_date.month:02d}/{post_date.day:02d}/{slug}/"
 
 
 def _render_section(posts: list[dict]) -> str:
