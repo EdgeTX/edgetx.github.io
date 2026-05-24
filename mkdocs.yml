@@ -43,8 +43,8 @@ nav:
             - Contest 7 - Simulator Haptic: dc7_simuhaptic.md
             - Contest 6 - Buddy Backup: dc6_buddybackup.md
             - Contest 5 - Web Simulator: dc5_websimu.md
-            - Contest 4 - Computational Physics Server: dc4_comp_physer.md
-            - Contest 2 - UBX: dc2_ubx.md
+            - Contest 4 - Companion Physical Serial: dc4_comp_physer.md
+            - Contest 2 - UBX GPS: dc2_ubx.md
 theme:
   name: material
   custom_dir: overrides
