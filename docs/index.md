@@ -94,4 +94,4 @@ A special shout-out to our event sponsors <a href = "https://www.radiomasterrc.c
 
 
 
-[**See More News**](news.md)
+[**See More News**](/news/)

@@ -1,5 +1,5 @@
 
-**Are you interested in installing EdgeTX on your radio? Check to see if your radio is supported on our [supported radios](supportedradios.md) page.**
+**Are you interested in installing EdgeTX on your radio? Check to see if your radio is supported on our [supported radios](/supportedradios/) page.**
 
 **Ready to install EdgeTX?**
 
@@ -10,7 +10,7 @@ please review the release notes for the* **[latest EdgeTX release](https://githu
 
 **Running into an issue with EdgeTX? Take a look at our FAQ.**
 
-[Frequently Asked Questions](faq.md)
+[Frequently Asked Questions](/faq/)
 
 **Already know what you are doing? Then follow the links below:**
 

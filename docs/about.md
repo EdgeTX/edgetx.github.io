@@ -30,7 +30,7 @@ The current committee members (and their discord usernames) are:
 - Richard Li (Richard Li)
 - Malte Langermann (Malte)
 
-For more information about how the EdgeTX project is managed, see our [project bylaws page.](bylaws.md)
+For more information about how the EdgeTX project is managed, see our [project bylaws page.](/bylaws/)
 
 ### Development Team
 
@@ -48,6 +48,6 @@ You can also contribute to EdgeTX in other ways. We need developers as well as e
 
 For EdgeTX project related questions, contact the project steering committee either on [Discord](https://discord.gg/wF9wUKnZ6H) or via email at: psc@edgetx.org 
 
-For support related questions and issues, please visit the [support page](support.md).
+For support related questions and issues, please visit the [support page](/support/).
 
 

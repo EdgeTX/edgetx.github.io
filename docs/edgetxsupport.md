@@ -32,5 +32,5 @@ If you are a radio manufacturer and are interested in using EdgeTX as the firmwa
 
 We strongly encourage all manufacturers planning to produce EdgeTX-compatible radio transmitters to contact the EdgeTX Project Steering Committee (PSC) early for collaboration. This allows our experts to advise on optimizing your product for EdgeTX compatibility.  
 
-All manufacturers that are using EdgeTX are encouraged to participate in the EdgeTX partnership program.  Under this program, hardware-specific features and bug fixes will be completed on a priority basis by the EdgeTX Team. More information about the benefits and requirements of the partnership program can be seen under: [EdgeTX partnership program.](partnershipprogram.md)
+All manufacturers that are using EdgeTX are encouraged to participate in the EdgeTX partnership program.  Under this program, hardware-specific features and bug fixes will be completed on a priority basis by the EdgeTX Team. More information about the benefits and requirements of the partnership program can be seen under: [EdgeTX partnership program.](/partnershipprogram/)
 
