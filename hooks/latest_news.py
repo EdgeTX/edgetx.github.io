@@ -5,7 +5,7 @@ from __future__ import annotations
 import glob
 import os
 import re
-from datetime import date, datetime
+from datetime import date, datetime  # date used in type hints and isinstance checks
 
 import yaml
 
@@ -26,14 +26,14 @@ def _get_latest_posts(docs_dir: str, n: int) -> list[dict]:
     pattern = os.path.join(docs_dir, POSTS_SUBDIR, "*.md")
     posts = []
     for filepath in glob.glob(pattern):
-        post = _parse_post(filepath)
+        post = _parse_post(filepath, docs_dir)
         if post:
             posts.append(post)
     posts.sort(key=lambda p: p["date"], reverse=True)
     return posts[:n]
 
 
-def _parse_post(filepath: str) -> dict | None:
+def _parse_post(filepath: str, docs_dir: str) -> dict | None:
     with open(filepath, encoding="utf-8") as f:
         content = f.read()
 
@@ -62,13 +62,14 @@ def _parse_post(filepath: str) -> dict | None:
 
     title = fm.get("title") or _extract_h1(body) or os.path.basename(filepath)
     excerpt = _extract_excerpt(body)
-    url = _post_url(post_date, title)
+    # Use the source path so MkDocs resolves it to the blog plugin's destination URL.
+    src_path = os.path.relpath(filepath, docs_dir).replace(os.sep, "/")
 
     return {
         "date": post_date,
         "title": title,
         "excerpt": excerpt,
-        "url": url,
+        "url": src_path,
         "categories": fm.get("categories") or [],
     }
 
@@ -97,13 +98,6 @@ def _extract_excerpt(body: str) -> str:
     if len(text) > 220:
         text = text[:220].rsplit(" ", 1)[0] + "…"
     return text
-
-
-def _post_url(post_date: date, title: str) -> str:
-    slug = title.lower()
-    slug = re.sub(r"[^a-z0-9\s-]", "", slug)
-    slug = slug.replace(" ", "-")
-    return f"/news/{post_date.year}/{post_date.month:02d}/{post_date.day:02d}/{slug}/"
 
 
 def _render_section(posts: list[dict]) -> str:
