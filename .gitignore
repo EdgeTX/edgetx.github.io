@@ -1,2 +1,3 @@
 site/
 .claude/
+__pycache__/
