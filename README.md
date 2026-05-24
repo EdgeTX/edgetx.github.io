@@ -19,18 +19,28 @@ For bigger changes (new pages, core website changes)
    **Note:** Make sure that you update the **Name:** tag in the **CI.yml** file in the **.github/workflows** folder to your repository name. Also, select the **gh-pages** branch and **root** folder location for deployent location (the gh-pages branch will only be visible after updating the **CI.yml** file and the rebuild action is complete) .
 
    ***---Recommended---***
-5. Install MKDocs on your local computer. https://www.mkdocs.org/user-guide/installation/
-6. Install MKDocs material on your local computer. https://squidfunk.github.io/mkdocs-material/getting-started
-7. Clone your forked repository locally to your computer.
+5. Install [uv](https://docs.astral.sh/uv/) on your local computer (`winget install astral-sh.uv` on Windows, or `curl -LsSf https://astral.sh/uv/install.sh | sh` on Linux/macOS).
+6. Clone your forked repository locally to your computer.
 
    ***The two steps above will allow you to make changes to the website and see the changes immediately on your local machine.***
 
-8. Make the proposed changes and push the changes to your forked repo online.
+   To preview the site locally, run from the repository root:
+   ```
+   uvx zensical serve
+   ```
+   Then open http://localhost:8000 in your browser. The site rebuilds automatically as you edit files.
+
+   To build the static site output without serving it:
+   ```
+   uvx zensical build
+   ```
+
+7. Make the proposed changes and push the changes to your forked repo online.
 9. Create a pull request (PR) for the Master repository, describing the changes and including a link to your deployed forked page.
 10. Once the PR is accepted, it will be merged to the Master branch and deployed.
 
 ## File Directory Structure
-/edgetx.github.io/mkdocs.yml  = MK docs configuration file (https://squidfunk.github.io/mkdocs-material/setup/)
+/edgetx.github.io/mkdocs.yml  = Zensical/MkDocs configuration file (https://zensical.org/docs/)
 
 /edgetx.github.io/docs/ = Contains individual page .md files
 
