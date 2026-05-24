@@ -108,7 +108,7 @@ def _post_url(post_date: date, title: str) -> str:
 
 def _render_section(posts: list[dict]) -> str:
     if not posts:
-        return "[See all news :material-arrow-right:](news/index.md)"
+        return "[See all news :material-arrow-right:{ .middle }](news/index.md)"
 
     lines = [
         "## Latest News",
@@ -121,7 +121,7 @@ def _render_section(posts: list[dict]) -> str:
         d = post["date"]
         date_str = f"{d.strftime('%B')} {d.day}, {d.year}"
         cats = " &middot; ".join(post["categories"])
-        meta = f"{date_str}"
+        meta = f":material-calendar: {date_str}"
         if cats:
             meta += f" &middot; {cats}"
 
@@ -142,7 +142,7 @@ def _render_section(posts: list[dict]) -> str:
     lines += [
         "</div>",
         "",
-        "[See all news &rarr;](news/index.md)",
+        "[See all news :material-arrow-right:{ .middle }](news/index.md)",
     ]
 
     return "\n".join(lines)
