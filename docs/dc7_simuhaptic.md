@@ -13,9 +13,9 @@ hide:
 
 **Update:**
 
-We have a working solution thanks to EdgeTX Discord user **Kudzz** / Github user **Kudzzo**. For the merged submission, please see [EdgeTX PR #7322](https://github.com/EdgeTX/edgetx/pull/7322). 
+We have a working solution thanks to **Ethan Kuzo**. For the merged submission, please see [EdgeTX PR #7322](https://github.com/EdgeTX/edgetx/pull/7322). 
 
-Kudzz will receive a [RadioMaster TX16s MK3 black radio with an internal 2.4 GHz ExpressLRS RF module](https://radiomasterrc.com/products/tx16s-mk3-radio-controller) (per his request), generously sponsored by RadioMaster. This state-of-the-art radio will be shipped directly from the RadioMaster factory to Kudzz. 
+Ethan will receive a [RadioMaster TX16s MK3 black radio with an internal 2.4 GHz ExpressLRS RF module](https://radiomasterrc.com/products/tx16s-mk3-radio-controller) (per his request), generously sponsored by RadioMaster. This state-of-the-art radio will be shipped directly from the RadioMaster factory to Ethan. 
 
 Original contest text below:
 
