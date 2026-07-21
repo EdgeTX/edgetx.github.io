@@ -11,6 +11,14 @@ hide:
 
 ## **Contest Details**
 
+**Update:**
+
+We have a working solution thanks to GitHub/Discord user **Kudzz**. For the merged submission, please see [EdgeTX PR #7322](https://github.com/EdgeTX/edgetx/pull/7322). 
+
+Kudzz will receive a [RadioMaster TX16s MK3 black radio with an internal 2.4 GHz ExpressLRS RF module](https://radiomasterrc.com/products/tx16s-mk3-radio-controller) (per his request), generously sponsored by RadioMaster. This state-of-the-art radio will be shipped directly from the RadioMaster factory to Kudzz. 
+
+Original contest text below:
+
 **Task:**
 
 Be the first developer to make a mergeable pull-request (PR) against EdgeTX main GitHub repository with haptic feedback for EdgeTX Companion Simulator.
