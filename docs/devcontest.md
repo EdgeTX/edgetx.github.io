@@ -18,7 +18,7 @@ From time to time, the EdgeTX team organizes developer contests to provide an in
 
 * [8th - Most popular new Lua widget using LVGL controls](https://edgetx.org/dc8_lualvglwidget). Winning solution by Wilhelm Meier - [EdgeTX Lua Scripts PR #35](https://github.com/EdgeTX/lua-scripts/pull/35)
 
-* [7th - Haptic feedback for EdgeTX Companion Simulator](https://edgetx.org/dc7_simuhaptic). Merged solution by Kudzz - [EdgeTX PR #7322](https://github.com/EdgeTX/edgetx/pull/7322)
+* [7th - Haptic feedback for EdgeTX Companion Simulator](https://edgetx.org/dc7_simuhaptic). Merged solution by Ethan Kuzo - [EdgeTX PR #7322](https://github.com/EdgeTX/edgetx/pull/7322)
 
 * [6th - EdgeTX Buddy backup and restore](https://edgetx.org/dc6_buddybackup). Winning solution by Héctor Narbona Márquez - [EdgeTX Buddy PR #134](https://github.com/EdgeTX/buddy/pull/134)
 
