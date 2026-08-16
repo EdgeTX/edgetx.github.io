@@ -26,10 +26,24 @@ please review the release notes for the* **[latest EdgeTX release](https://githu
 
 >[EdgeTX Companion - Windows 64bit](https://github.com/EdgeTX/edgetx/releases/download/v2.12.2/edgetx-cpn-win64-v2.12.2.zip)
 
->[EdgeTX Companion - Mac OS X](https://github.com/EdgeTX/edgetx/releases/download/v2.12.2/edgetx-cpn-osx-v2.12.2.zip)
+>[EdgeTX Companion - MacOS](https://github.com/EdgeTX/edgetx/releases/download/v2.12.2/edgetx-cpn-osx-v2.12.2.zip)
 
 >[EdgeTX Companion - Linux](https://github.com/EdgeTX/edgetx/releases/download/v2.12.2/edgetx-cpn-linux-v2.12.2.zip)
 
 **Looking for EdgeTX in a language other than English? See the link below:**
 
 > [EdgeTX Buddy CloudBuild](https://buddy.edgetx.org/) - Click the CloudBuild option (third tab), choose "Add flag", select the "language" flag, and then pick your language (and any other available firmware options).
+
+**Looking for EdegeTX for older (STM32) radios?**
+
+The current version of EdgeTX for these older handsets is v2.11.7.
+
+> [EdgeTX Buddy](https://buddy.edgetx.org/#/flash?source=cloudbuild&version=v2.11.7) - Online tool for downloading and flashing EdgeTX to your radio, including SD card contents
+
+> [EdgeTX Firmware direct download](https://github.com/EdgeTX/edgetx/releases/download/v2.11.7/edgetx-firmware-v2.11.7.zip)
+
+> [EdgeTX Companion - Windows 64bit](https://github.com/EdgeTX/edgetx/releases/download/v2.11.7/edgetx-cpn-win64-v2.11.7.zip)
+
+> [EdgeTX Companion - MacOS](https://github.com/EdgeTX/edgetx/releases/download/v2.11.7/edgetx-cpn-osx-v2.11.7.zip)
+
+> [EdgeTX Companion - Linux](https://github.com/EdgeTX/edgetx/releases/download/v2.11.7/edgetx-cpn-linux-v2.11.7.zip)
