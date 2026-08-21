@@ -38,7 +38,7 @@ We extend our heartfelt gratitude to everyone who joined us at the 2026 Fest to 
 
 Thanks to our sponsors, we were able to distribute over 20 radio transmitters and a large number of further accessories and merchandise to our guests.
 
-A special shout-out to our event sponsors <a href = "https://www.radiomasterrc.com/">RadioMaster</a>, <a href = "https://www.flysky-cn.com/">Flysky</a>, <a href = "https://www.jumper-rc.com/">Jumper</a> and <a href = "https://betafpv.com/">BetaFPV</a> for their generous contributions of prizes and giveaways. We'd also like to express our deep appreciation to the Weston Park Model Airshow organization team for their invaluable collaboration in planning and executing this phenomenal event.
+A special shout-out to our event sponsors <a href = "https://www.radiomasterrc.com/">RadioMaster</a>, <a href = "https://www.flysky-cn.com/">Flysky</a>, <a href = "https://www.jumper-rc.com/">Jumper</a> and <a href = "https://betafpv.com/">BetaFPV</a> for their generous contributions of prizes and giveaways. We'd also like to express our deep appreciation to the Weston Park Model Airshow organization team for their invaluable collaboration in planning and executing this phenomenal event and to Ian Lewis (YouTube's <a href="https://www.youtube.com/@MadRC">Mads Tech</a>) for helping out with logistics.
 
 ---
 
