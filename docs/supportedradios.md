@@ -21,21 +21,23 @@ The development and support for EdgeTX is conducted by the EdgeTX core developme
 * Jumper T12 Max (since v2.10.3)
 * Jumper T14 (since v2.10)
 * Jumper T15 (since v2.10.1)
-* Jumper T15 Pro (will be supported from EdgeTX v2.12)
+* Jumper T15 Pro (since v2.12)
 * Jumper T16 / T16 Plus / T16 Pro Hall (since v2.4)
 * Jumper T18 / T18 Lite / T18 Pro (since v2.4)
 * Jumper T20 (since v2.10)
 * Jumper T20 V2 (since v2.10)
+* Jumper T22 (since v2.12.2)
 * RadioMaster Boxer (since v2.8.1)
 * RadioMaster GX12 (since v2.11)
+* RadioMaster GX15 (since v2.12.3)
 * RadioMaster MT12 (since v2.10, Companion to follow)
 * RadioMaster Pocket (since v2.10)
 * RadioMaster T8 Pro (since v2.4, v2.11 will be the last version to support this radio)
 * RadioMaster TX12 (since v2.4, v2.11 will be the last version to support this radio)
 * RadioMaster TX12 Mark II (since v2.8)
-* RadioMaster TX15 (will be supported from EdgeTX v2.12, until then, use [RadioMaster factory downloads](https://radiomasterrc.com/pages/tx15-downloads))
+* RadioMaster TX15 (since v2.12)
 * RadioMaster TX16S / RadioMaster TX16S MAX / RadioMaster TX16S Mark II (since v2.4)
-* RadioMaster TX16S MK3 / RadioMaster TX16S MK3 MAX (will be supported from EdgeTX v2.12)
+* RadioMaster TX16S MK3 / RadioMaster TX16S MK3 MAX (since v2.12)
 * RadioMaster Zorro (since v2.6)
 
 [^1]: Hardware modifications are required to support EdgeTX on Flysky NB4+, see [NB4+ hw mods](https://github.com/EdgeTX/edgetx/wiki/Flysky-NB4--Hardware-Mod-for-Complete-EdgeTX-Support) for more info. Internal RF module is not supported by EdgeTX.  
@@ -50,10 +52,11 @@ The development and support for EdgeTX is conducted by the EdgeTX core developme
 The development and support for EdgeTX is conducted by the hardware manufacturers themselves. All changes made by the manufacturer are then submitted for review and inclusion into the main EdgeTX codebase.
 
 * iFlight Commando8 (since v2.8)
+* iFlight Commando14 (since v2.12.3)
 * BetaFPV LiteRadio3 Pro (since v2.8, v2.11 will be the last version to support this radio)
 * FatFish F16 (since v2.11)
-* HelloRadioSky V12 (TBD on release)
-* HelloRadioSky V14 (since v2.11)
+* HelloRadioSky V12 (since v2.12.3)
+* HelloRadioSky V14 (since v2.11), LCD variant (since v2.12.3)
 * HelloRadioSky V16 (since v2.11)
 
 ---
