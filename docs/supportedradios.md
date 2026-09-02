@@ -6,7 +6,7 @@ Below is a list of EdgeTX-compatible radios and their level of support.
 The development and support for EdgeTX is conducted by the EdgeTX core development team with the support of developers from the community. Firmware for these radios is included in the main EdgeTX codebase.
 
 * Flysky EL18 (since v2.8)
-* Flysky NB4+[^1] (limited support since v2.11) 
+* Flysky NB4+[^1] (limited support since v2.11)
 * Flysky NV14[^2] (since v2.5)
 * Flysky PA01 (since v2.11.3)
 * Flysky PL18/PL18EV[^3] (limited support since v2.10)
@@ -40,15 +40,15 @@ The development and support for EdgeTX is conducted by the EdgeTX core developme
 * RadioMaster TX16S MK3 / RadioMaster TX16S MK3 MAX (since v2.12)
 * RadioMaster Zorro (since v2.6)
 
-[^1]: Hardware modifications are required to support EdgeTX on Flysky NB4+, see [NB4+ hw mods](https://github.com/EdgeTX/edgetx/wiki/Flysky-NB4--Hardware-Mod-for-Complete-EdgeTX-Support) for more info. Internal RF module is not supported by EdgeTX.  
-[^2]: Some external RF modules might not work correctly due to radio hardware not able to provide enough power to the module.  
-[^3]: Hardware modifications are required to support EdgeTX on Flysky PL18/PL18EV, see [PL18/PL18EV hw mods](https://github.com/EdgeTX/edgetx/wiki/Flysky-PL18-%26-PL18EV-Hardware-Mod-for-Complete-EdgeTX-Support) for more info.  
+[^1]: Hardware modifications are required to support EdgeTX on Flysky NB4+, see [NB4+ hw mods](https://github.com/EdgeTX/edgetx/wiki/Flysky-NB4--Hardware-Mod-for-Complete-EdgeTX-Support) for more info. Internal RF module is not supported by EdgeTX.
+[^2]: Some external RF modules might not work correctly due to radio hardware not able to provide enough power to the module.
+[^3]: Hardware modifications are required to support EdgeTX on Flysky PL18/PL18EV, see [PL18/PL18EV hw mods](https://github.com/EdgeTX/edgetx/wiki/Flysky-PL18-%26-PL18EV-Hardware-Mod-for-Complete-EdgeTX-Support) for more info.
 [^4]: Internal RF module and magnetometer are not supported.
 
 ---
 
 ###Manufacturer Supported
- 
+
 The development and support for EdgeTX is conducted by the hardware manufacturers themselves. All changes made by the manufacturer are then submitted for review and inclusion into the main EdgeTX codebase.
 
 * iFlight Commando8 (since v2.8)
@@ -65,9 +65,9 @@ The development and support for EdgeTX is conducted by the hardware manufacturer
 
 The development and support for EdgeTX is conducted by other interested 3rd parties from the community. Changes can be proposed as pull-requests to be considered for inclusion into the main EdgeTX codebase.
 
-* Eachine TX16S (since v2.4)  
-* FrSky QX7 / QX7S (since v2.4, v2.11 is the last version to support this radio)  
-* FrSky QX7 ACCESS / QX7S ACCESS (since v2.4)  
+* Eachine TX16S (since v2.4)
+* FrSky QX7 / QX7S (since v2.4, v2.11 is the last version to support this radio)
+* FrSky QX7 ACCESS / QX7S ACCESS (since v2.4)
 * FrSky X9 Lite / X9 Lite S (since v2.4, v2.11 is the last version to support this radio)
 * FrSky X9D / X9D+ / X9D+ SE (since v2.4, v2.11 is the last version to support this radio)
 * FrSky X9D+ 2019 / X9D+ SE 2019  (since v2.4)
@@ -77,4 +77,4 @@ The development and support for EdgeTX is conducted by other interested 3rd part
 * FrSky X-Lite / X-Lite S / X-Lite Pro (since v2.4, v2.11 is the last version to support this radio)
 
 ---
-***Note**: To better support the manufacturers' release timelines, the manufacturers' can release an EdgeTX-supported radio with a "ready for manufacture" version of EdgeTX that has been developed in collaboration with the EdgeTX team that has not yet been merged into the main codebase. As a result, this firmware will not be available in EdgeTX Buddy or EdgeTX Companion until the next minor EdgeTX release. 
+***Note**: To better support the manufacturers' release timelines, the manufacturers' can release an EdgeTX-supported radio with a "ready for manufacture" version of EdgeTX that has been developed in collaboration with the EdgeTX team that has not yet been merged into the main codebase. As a result, this firmware will not be available in EdgeTX Buddy or EdgeTX Companion until the next minor EdgeTX release.
