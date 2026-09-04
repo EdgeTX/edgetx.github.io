@@ -26,7 +26,7 @@ please review the release notes for the* **[latest EdgeTX release](https://githu
 
 >[EdgeTX Companion - Windows 64bit](https://github.com/EdgeTX/edgetx/releases/download/v2.12.4/edgetx-cpn-win64-v2.12.4.zip)
 
->[EdgeTX Companion - MacOS](https://github.com/EdgeTX/edgetx/releases/download/v2.12.4/edgetx-cpn-osx-v2.12.4.zip)
+>[EdgeTX Companion - MacOS](https://github.com/EdgeTX/edgetx/releases/download/v2.12.4/edgetx-cpn-macos-v2.12.4.zip)
 
 >[EdgeTX Companion - Linux](https://github.com/EdgeTX/edgetx/releases/download/v2.12.4/edgetx-cpn-linux-v2.12.4.zip)
 
