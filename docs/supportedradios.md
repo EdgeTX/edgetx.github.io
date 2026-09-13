@@ -58,6 +58,7 @@ The development and support for EdgeTX is conducted by the hardware manufacturer
 * HelloRadioSky V12 (since v2.12.3)
 * HelloRadioSky V14 (since v2.11), LCD variant (since v2.12.3)
 * HelloRadioSky V16 (since v2.11)
+* SenduWing H17 (will be included from v2.12.5 when it releases)
 
 ---
 
