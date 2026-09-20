@@ -39,7 +39,6 @@ The development and support for EdgeTX is conducted by the EdgeTX core developme
 * RadioMaster TX16S / RadioMaster TX16S MAX / RadioMaster TX16S Mark II (since v2.4)
 * RadioMaster TX16S MK3 / RadioMaster TX16S MK3 MAX (since v2.12)
 * RadioMaster Zorro (since v2.6)
-* SenduWing H17 (will be included from v2.12.5 when it releases)
 
 [^1]: Hardware modifications are required to support EdgeTX on Flysky NB4+, see [NB4+ hw mods](https://github.com/EdgeTX/edgetx/wiki/Flysky-NB4--Hardware-Mod-for-Complete-EdgeTX-Support) for more info. Internal RF module is not supported by EdgeTX.
 [^2]: Some external RF modules might not work correctly due to radio hardware not able to provide enough power to the module.
@@ -59,6 +58,7 @@ The development and support for EdgeTX is conducted by the hardware manufacturer
 * HelloRadioSky V16 (since v2.11)
 * iFlight Commando8 (since v2.8)
 * iFlight Commando14 (since v2.12.3)
+* SenduWing H17 (will be included from v2.12.5 when it releases)
 
 ---
 
