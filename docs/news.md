@@ -4,6 +4,19 @@ hide:
 ---
 ## What's new ##
 
+**October 8th, 2026**
+
+The EdgeTX team would like to welcome HelloRadioSky (HRS) as our fourth official EdgeTX partner next to RadioMaster, Jumper and FlySky. HRS has consistently been pushing the envelope to develop new and novel features that give RC hobbyists more options - for example, adding voice recognition capabilities, power monitoring for the radio and RF modules, internal and external antenna switching, and in their newest handset - integrated LiPo battery checker, as well as servo, ESC and receiver tester capabilities.
+
+The partnership status comes with numerous commitments, such as in addition to being a financial sponsor of the project, the partner agrees to work with the development team during the design of new products, provide the development team information and hardware in order to support their handsets, provide an internal communication channel and act on feedback, produce good quality hardware and offer after-sales support services.
+
+The partnership has numerous benefits to the end users. With the change, HRS products have transitioned from being exclusively manufacturer supported, to now being formally supported by the EdgeTX development team. This means the EdgeTX development team will be working to ensure any advertised features that are missing are implemented and that any bugs that are specific to HRS handsets are fixed in priority to non-partner handsets. It also means that official firmware will be available at or shortly after release date for new handsets that they work on with us.
+
+We're looking forward to continuing our work with HelloRadioSky and bringing more great options to the community.
+
+---
+
+
 **June 21st, 2026**
 
 **EdgeTX Fest 2026 - Celebration of EdgeTX 5th birthday!**
