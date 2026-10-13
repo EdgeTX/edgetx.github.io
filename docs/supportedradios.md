@@ -27,6 +27,7 @@ The development and support for EdgeTX is conducted by the EdgeTX core developme
 * Jumper T15 Pro (since v2.12)
 * Jumper T16 / T16 Plus / T16 Pro Hall (since v2.4)
 * Jumper T18 / T18 Lite / T18 Pro (since v2.4)
+* Jumper T18 with STM32H7 MCU (will be supported from v2.12.5)
 * Jumper T20 (since v2.10)
 * Jumper T20 V2 (since v2.10)
 * Jumper T22 (since v2.12.2)
@@ -55,7 +56,6 @@ The development and support for EdgeTX is conducted by the EdgeTX core developme
 The development and support for EdgeTX is conducted by the hardware manufacturers themselves. All changes made by the manufacturer are then submitted for review and inclusion into the main EdgeTX codebase.
 
 * BetaFPV LiteRadio3 Pro (since v2.8, v2.11 is the last version to support this radio)
-* FatFish F16 (since v2.11)
 * iFlight Commando8 (since v2.8)
 * iFlight Commando14 (since v2.12.3)
 * SenduWing H17 (will be included from v2.12.5 when it releases)
@@ -67,6 +67,7 @@ The development and support for EdgeTX is conducted by the hardware manufacturer
 The development and support for EdgeTX is conducted by other interested 3rd parties from the community. Changes can be proposed as pull-requests to be considered for inclusion into the main EdgeTX codebase.
 
 * Eachine TX16S (since v2.4)
+* FatFish F16 (since v2.11)
 * FrSky QX7 / QX7S (since v2.4, v2.11 is the last version to support this radio)
 * FrSky QX7 ACCESS / QX7S ACCESS (since v2.4)
 * FrSky X9 Lite / X9 Lite S (since v2.4, v2.11 is the last version to support this radio)
