@@ -14,6 +14,7 @@ The development and support for EdgeTX is conducted by the EdgeTX core developme
 * Flysky ST16[^4] (limited support since v2.11)
 * HelloRadioSky V12 (since v2.12.3)
 * HelloRadioSky V14 (since v2.11), LCD variant (since v2.12.3)
+* HelloRadioSky V15 (since v2.12.5)
 * HelloRadioSky V16 (since v2.11)
 * Jumper Bumblebee (since v2.10.5)
 * Jumper T-Lite / T-Lite v2 (since v2.4, v2.11 is the last version to support this radio)
@@ -25,9 +26,10 @@ The development and support for EdgeTX is conducted by the EdgeTX core developme
 * Jumper T14 (since v2.10)
 * Jumper T15 (since v2.10.1)
 * Jumper T15 Pro (since v2.12)
+* Jumper T15-H7 (since v2.12.5)
 * Jumper T16 / T16 Plus / T16 Pro Hall (since v2.4)
 * Jumper T18 / T18 Lite / T18 Pro (since v2.4)
-* Jumper T18 with STM32H7 MCU (will be supported from v2.12.5)
+* Jumper T18 with STM32H7 MCU (since v2.12.5)
 * Jumper T20 (since v2.10)
 * Jumper T20 V2 (since v2.10)
 * Jumper T22 (since v2.12.2)
@@ -58,7 +60,7 @@ The development and support for EdgeTX is conducted by the hardware manufacturer
 * BetaFPV LiteRadio3 Pro (since v2.8, v2.11 is the last version to support this radio)
 * iFlight Commando8 (since v2.8)
 * iFlight Commando14 (since v2.12.3)
-* SenduWing H17 (will be included from v2.12.5 when it releases)
+* SenduWing H17 (since v2.12.5)
 
 ---
 
