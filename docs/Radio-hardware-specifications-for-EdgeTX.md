@@ -15,8 +15,8 @@
 ## Color screen radios
 
 ### Mandatory hardware features (color)
-* MCU: presently only STM32F429BI and STM32F439BI with 2 MB flash are supported. Running at 168 MHz.
-  Support for STM32H7/H7R MCUs is planned from EdgeTX v2.11 onwards, whereas H750 and H7R will be the first supported H7 MCUs.
+* MCU: STM32F429BI and STM32F439BI with 2 MB flash running at 168 MHz, or STM32H750 (supported since EdgeTX v2.12).
+  Support for STM32H7R/H7S MCUs is planned for a future release.
 * SDRAM with minimally 8MB with up to 480x320 pixel screens and minimally 32MB for 800x480 pixel screens.
 * SD/microSD card slot or embedded SD NAND (e.g. XTX XTSD04G, minimally 512 MByte). SDIO shall be used to connect the storage device.
 * Color display with minimally 480x272 pixels. Presently supported resolutions 480x272, 480x320 and 320x480 pixels.
@@ -89,8 +89,8 @@
 ## Black-and-white radios
 
 ### Mandatory hardware features (B/W)
-* MCU: As of EdgeTX 2.10, STM32F4 with minimally 1 MB flash running at 168 MHz. From EdgeTX v2.11 onwards, STM32H562/563 will also be supported. New STM32F based designs will not be accepted as of EdgeTX v3.0.
-    * Support for STM32H562/563 will be available from EdgeTX v3 or v2.11
+* MCU: As of EdgeTX 2.10, STM32F4 with minimally 1 MB flash running at 168 MHz. New STM32F based designs will not be accepted as of EdgeTX v3.0.
+    * Support for STM32H562/563 is planned for a future release
 * SD/microSD card slot or embedded SD NAND (e.g. XTX XTSD04G, minimally 512 MByte)
     * Starting with STM32H5 all new radios shall use SDIO to connect the storage
 * Monochrome display with either 128x64 pixels or 212x64 pixels.
