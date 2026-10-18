@@ -29,7 +29,7 @@ The development and support for EdgeTX is conducted by the EdgeTX core developme
 * Jumper T15-H7 (since v2.12.5)
 * Jumper T16 / T16 Plus / T16 Pro Hall (since v2.4)
 * Jumper T18 / T18 Lite / T18 Pro (since v2.4)
-* Jumper T18 with STM32H7 MCU (since v2.12.5)
+* Jumper T18-H7 (since v2.12.5)
 * Jumper T20 (since v2.10)
 * Jumper T20 V2 (since v2.10)
 * Jumper T22 (since v2.12.2)
