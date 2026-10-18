@@ -19,8 +19,8 @@
   Support for STM32H7R/H7S MCUs is planned for a future release.
 * SDRAM with minimally 8MB with up to 480x320 pixel screens and minimally 32MB for 800x480 pixel screens.
 * SD/microSD card slot or embedded SD NAND (e.g. XTX XTSD04G, minimally 512 MByte). SDIO shall be used to connect the storage device.
-* Color display with minimally 480x272 pixels. Presently supported resolutions 480x272, 480x320 and 320x480 pixels.
-  With EdgeTX v3, 800x480 pixel support is planned.
+* Color display with minimally 480x272 pixels for new designs.
+  Presently supported resolutions: 320x240, 480x272, 480x320, 320x480 and 800x480 pixels.
 * Either touch-screen or keys for navigation, or both.
   Presently supported touch-screen controllers: GT911, FT6236, CST836U
   If no touch-screen is available, minimally, Menu, Enter, Return/Exit, Up, Down, Page and two horizontal trim buttons should be availabe. Up/Down can be substituted with an encoder/roller.
