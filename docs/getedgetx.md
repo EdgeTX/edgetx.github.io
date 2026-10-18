@@ -16,7 +16,7 @@ please review the release notes for the* **[latest EdgeTX release](https://githu
 
 > [EdgeTX Buddy](https://buddy.edgetx.org/) - Online tool for downloading and flashing EdgeTX to your radio, including SD card contents
 
-> [EdgeTX Firmware direct download](https://github.com/EdgeTX/edgetx/releases/download/v2.12.4/edgetx-firmware-v2.12.4.zip)
+> [EdgeTX Firmware direct download](https://github.com/EdgeTX/edgetx/releases/download/v2.12.5/edgetx-firmware-v2.12.5.zip)
 
 > [SD Card Downloads](https://github.com/EdgeTX/edgetx-sdcard/releases)
 
@@ -24,26 +24,26 @@ please review the release notes for the* **[latest EdgeTX release](https://githu
 
 **Looking for EdgeTX Companion? See the links below:**
 
->[EdgeTX Companion - Windows 64bit](https://github.com/EdgeTX/edgetx/releases/download/v2.12.4/edgetx-cpn-win64-v2.12.4.zip)
+>[EdgeTX Companion - Windows 64bit](https://github.com/EdgeTX/edgetx/releases/download/v2.12.5/edgetx-cpn-win64-v2.12.5.zip)
 
->[EdgeTX Companion - MacOS](https://github.com/EdgeTX/edgetx/releases/download/v2.12.4/edgetx-cpn-macos-v2.12.4.zip)
+>[EdgeTX Companion - MacOS](https://github.com/EdgeTX/edgetx/releases/download/v2.12.5/edgetx-cpn-macos-v2.12.5.zip)
 
->[EdgeTX Companion - Linux](https://github.com/EdgeTX/edgetx/releases/download/v2.12.4/edgetx-cpn-linux-v2.12.4.zip)
+>[EdgeTX Companion - Linux](https://github.com/EdgeTX/edgetx/releases/download/v2.12.5/edgetx-cpn-linux-v2.12.5.zip)
 
 **Looking for EdgeTX in a language other than English? See the link below:**
 
 > [EdgeTX Buddy CloudBuild](https://buddy.edgetx.org/) - Click the CloudBuild option (third tab), choose "Add flag", select the "language" flag, and then pick your language (and any other available firmware options).
 
-**Looking for EdegeTX for older (STM32) radios?**
+**Looking for EdgeTX for older (STM32) radios?**
 
-The current version of EdgeTX for these older handsets is v2.11.7.
+The current version of EdgeTX for these older handsets is v2.11.8.
 
-> [EdgeTX Buddy](https://buddy.edgetx.org/#/flash?source=cloudbuild&version=v2.11.7) - Online tool for downloading and flashing EdgeTX to your radio, including SD card contents
+> [EdgeTX Buddy](https://buddy.edgetx.org/#/flash?source=cloudbuild&version=v2.11.8) - Online tool for downloading and flashing EdgeTX to your radio, including SD card contents
 
-> [EdgeTX Firmware direct download](https://github.com/EdgeTX/edgetx/releases/download/v2.11.7/edgetx-firmware-v2.11.7.zip)
+> [EdgeTX Firmware direct download](https://github.com/EdgeTX/edgetx/releases/download/v2.11.8/edgetx-firmware-v2.11.8.zip)
 
-> [EdgeTX Companion - Windows 64bit](https://github.com/EdgeTX/edgetx/releases/download/v2.11.7/edgetx-cpn-win64-v2.11.7.zip)
+> [EdgeTX Companion - Windows 64bit](https://github.com/EdgeTX/edgetx/releases/download/v2.11.8/edgetx-cpn-win64-v2.11.8.zip)
 
-> [EdgeTX Companion - MacOS](https://github.com/EdgeTX/edgetx/releases/download/v2.11.7/edgetx-cpn-osx-v2.11.7.zip)
+> [EdgeTX Companion - MacOS](https://github.com/EdgeTX/edgetx/releases/download/v2.11.8/edgetx-cpn-osx-v2.11.8.zip)
 
-> [EdgeTX Companion - Linux](https://github.com/EdgeTX/edgetx/releases/download/v2.11.7/edgetx-cpn-linux-v2.11.7.zip)
+> [EdgeTX Companion - Linux](https://github.com/EdgeTX/edgetx/releases/download/v2.11.8/edgetx-cpn-linux-v2.11.8.zip)
