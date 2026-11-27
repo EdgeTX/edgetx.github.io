@@ -7,7 +7,7 @@ hide:
 <a><img src="/assets/main_circle.png?raw=true" align="center" width="400"></a>
 </P>
 
-<video controls width="100%">
+<video controls autoplay width="100%">
   <source src="/assets/edgetx_intro.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
