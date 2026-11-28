@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 ---
-<video autoplay controls width="100%">
+<video autoplay muted playsinline controls width="100%">
   <source src="/assets/edgetx_intro.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
